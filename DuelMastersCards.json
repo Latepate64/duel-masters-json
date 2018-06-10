@@ -13,7 +13,7 @@
     "race": "Light Bringer",
     "power": 2500
   },
-	{
+  {
     "name": "Dia Nork, Moonlight Guardian",
     "set": "DM-01 Base Set",
     "id": "2",
@@ -27,7 +27,7 @@
     "race": "Guardian",
     "power": 5000
   },
-	{
+  {
     "name": "Emerald Grass",
     "set": "DM-01 Base Set",
     "id": "3",
@@ -40,7 +40,7 @@
     "race": "Starlight Tree",
     "power": 3000
   },
-	{
+  {
     "name": "Frei, Vizier of Air",
     "set": "DM-01 Base Set",
     "id": "4",
@@ -54,7 +54,7 @@
     "race": "Initiate",
     "power": 3000
   },
-	{
+  {
     "name": "Gran Gure, Space Guardian",
     "set": "DM-01 Base Set",
     "id": "5",
@@ -68,7 +68,7 @@
     "race": "Guardian",
     "power": 9000
   },
-	{
+  {
     "name": "Holy Awe",
     "set": "DM-01 Base Set",
     "id": "6",
@@ -79,7 +79,7 @@
     "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nTap all your opponent's creatures in the battle zone.",
     "illustrator": "Naoki Saito"
   },
-	{
+  {
     "name": "Iere, Vizier of Bullets",
     "set": "DM-01 Base Set",
     "id": "7",
@@ -92,7 +92,7 @@
     "race": "Initiate",
     "power": 3000
   },
-	{
+  {
     "name": "Iocant, the Oracle",
     "set": "DM-01 Base Set",
     "id": "8",
@@ -105,7 +105,7 @@
     "race": "Light Bringer",
     "power": 2000
   },
-	{
+  {
     "name": "La Ura Giga, Sky Guardian",
     "set": "DM-01 Base Set",
     "id": "9",
@@ -119,7 +119,7 @@
     "race": "Guardian",
     "power": 2000
   },
-	{
+  {
     "name": "Lah, Purification Enforcer",
     "set": "DM-01 Base Set",
     "id": "10",
@@ -1306,7 +1306,7 @@
     "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nChoose 1 of your opponent's creatures in the battle zone and put it into his mana zone.",
     "illustrator": "Sansyu"
   },
-	{
+  {
     "name": "Pangaea's Song",
     "set": "DM-01 Base Set",
     "id": "100",
@@ -1443,7 +1443,7 @@
     "race": "Horned Beast",
     "power": 5000
   },
-	{
+  {
     "name": "Ultimate Force",
     "set": "DM-01 Base Set",
     "id": "110",
@@ -1581,7 +1581,7 @@
     "race": "Giant Insect",
     "power": 3000
   },
-	{
+  {
     "name": "Roaring Great-Horn",
     "set": "DM-01 Base Set",
     "id": "S10",
@@ -1606,7 +1606,7 @@
     "text": "This turn, ignore any effects that would prevent your creatures from attacking your opponent. (For example, ignore summoning sickness and card effects that say \"This creature can't attack\" or \"This creature can't attack players.\" Your creatures can't attack creatures this way.)",
     "illustrator": "Akifumi Yamamoto"
   },
-	{
+  {
     "name": "Ethel, Star Sea Elemental",
     "set": "DM-02 Evo-Crushinators of Doom",
     "id": "2",
@@ -1620,7 +1620,7 @@
     "race": "Angel Command",
     "power": 5500
   },
-	{
+  {
     "name": "Fonch, the Oracle",
     "set": "DM-02 Evo-Crushinators of Doom",
     "id": "3",
@@ -1634,7 +1634,7 @@
     "race": "Light Bringer",
     "power": 2000
   },
-	{
+  {
     "name": "Laguna, Lightning Enforcer",
     "set": "DM-02 Evo-Crushinators of Doom",
     "id": "4",
@@ -1648,7 +1648,7 @@
     "race": "Berserker",
     "power": 2500
   },
-	{
+  {
     "name": "Larba Geer, the Immaculate",
     "set": "DM-02 Evo-Crushinators of Doom",
     "id": "5",
@@ -1661,7 +1661,7 @@
     "race": "Guardian",
     "power": 5000
   },
-	{
+  {
     "name": "Logic Cube",
     "set": "DM-02 Evo-Crushinators of Doom",
     "id": "6",
@@ -2410,7 +2410,7 @@
     "race": "Berserker",
     "power": 4000
   },
-	{
+  {
     "name": "Aless, the Oracle",
     "set": "DM-03 Rampage of the Super Warriors",
     "id": "2",
@@ -2424,7 +2424,7 @@
     "race": "Light Bringer",
     "power": 1000
   },
-	{
+  {
     "name": "Boomerang Comet",
     "set": "DM-03 Rampage of the Super Warriors",
     "id": "3",
@@ -2435,7 +2435,7 @@
     "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nReturn a card from your mana zone to your hand.\nAfter you cast this spell, put it into your mana zone instead of your graveyard.",
     "illustrator": "Youichi Kai"
   },
-	{
+  {
     "name": "Lena, Vizier of Brilliance",
     "set": "DM-03 Rampage of the Super Warriors",
     "id": "4",
@@ -2449,7 +2449,7 @@
     "race": "Initiate",
     "power": 2000
   },
-	{
+  {
     "name": "Logic Sphere",
     "set": "DM-03 Rampage of the Super Warriors",
     "id": "5",
@@ -2461,7 +2461,7 @@
     "flavor": "They're all that's holding the planet's atmosphere together.",
     "illustrator": "Dustmoss"
   },
-	{
+  {
     "name": "Ra Vu, Seeker of Lightning",
     "set": "DM-03 Rampage of the Super Warriors",
     "id": "6",
@@ -2741,7 +2741,7 @@
     "race": "Demon Command",
     "power": 4000
   },
-	{
+  {
     "name": "Ghastly Drain",
     "set": "DM-03 Rampage of the Super Warriors",
     "id": "27",
@@ -3207,7 +3207,7 @@
     "race": "Angel Command",
     "power": 12500
   },
-	{
+  {
     "name": "Astral Warper",
     "set": "DM-04 Shadowclash of Blinding Night",
     "id": "2",
@@ -3221,7 +3221,7 @@
     "race": "Cyber Virus",
     "power": 5000
   },
-	{
+  {
     "name": "Trox, General of Destruction",
     "set": "DM-04 Shadowclash of Blinding Night",
     "id": "3",
@@ -3235,7 +3235,7 @@
     "race": "Demon Command",
     "power": 6000
   },
-	{
+  {
     "name": "Doboulgyser, Giant Rock Beast",
     "set": "DM-04 Shadowclash of Blinding Night",
     "id": "4",
@@ -3249,7 +3249,7 @@
     "race": "Rock Beast",
     "power": 8000
   },
-	{
+  {
     "name": "Supporting Tulip",
     "set": "DM-04 Shadowclash of Blinding Night",
     "id": "5",
@@ -4017,7 +4017,7 @@
     "race": "Mecha Thunder",
     "power": 5000
   },
-	{
+  {
     "name": "King Mazelan",
     "set": "DM-05 Survivors of the Megapocalypse",
     "id": "2",
@@ -4845,7 +4845,7 @@
     "flavor": "The Fire army has enough firepower to lay waste to a planet-but even that isn't enough to bring down the wall of Light.",
     "illustrator": "Masaki Hirooka"
   },
-	{
+  {
     "name": "Lu Gila, Silver Rift Guardian",
     "set": "DM-06 Stomp-A-Trons of Invincible Wrath",
     "id": "2",
@@ -6176,7 +6176,7 @@
     "race": "Horned Beast",
     "power": 4000
   },
-	{
+  {
     "name": "Forbidding Totem",
     "set": "DM-06 Stomp-A-Trons of Invincible Wrath",
     "id": "100",
@@ -6309,7 +6309,7 @@
     "race": "Colony Beetle",
     "power": 2000
   },
-	{
+  {
     "name": "Trench Scarab",
     "set": "DM-06 Stomp-A-Trons of Invincible Wrath",
     "id": "110",
@@ -6448,7 +6448,7 @@
     "race": "Giant",
     "power": 7000
   },
-	{
+  {
     "name": "Ultra Mantis, Scourge of Fate",
     "set": "DM-06 Stomp-A-Trons of Invincible Wrath",
     "id": "S10",
@@ -6476,7 +6476,7 @@
     "race": "Mecha Thunder",
     "power": 6500
   },
-	{
+  {
     "name": "King Benthos",
     "set": "DM-07 Thundercharge of Ultra Destruction",
     "id": "2",
@@ -7281,7 +7281,7 @@
     "race": "Mecha Thunder",
     "power": 10500
   },
-	{
+  {
     "name": "Aqua Ranger",
     "set": "DM-08 Epic Dragons of Hyperchaos",
     "id": "2",
@@ -7335,7 +7335,7 @@
     "race": "Snow Faerie",
     "power": 3000
   },
-	{
+  {
     "name": "Dracobarrier",
     "set": "DM-08 Epic Dragons of Hyperchaos",
     "id": "6",
@@ -8077,7 +8077,7 @@
     "race": "Guardian",
     "power": 8500
   },
-	{
+  {
     "name": "Marching Motherboard",
     "set": "DM-09 Fatal Brood of Infinite Ruin",
     "id": "2",
@@ -8876,7 +8876,7 @@
     "race": "Mecha Thunder",
     "power": 4000
   },
-	{
+  {
     "name": "Ryudmila, Channeler of Suns",
     "set": "DM-10 Shockwaves of the Shattered Rainbow",
     "id": "2",
@@ -9278,7 +9278,7 @@
     "race": "Cyber Cluster",
     "power": 3000
   },
-	{
+  {
     "name": "Buoyant Blowfish",
     "set": "DM-10 Shockwaves of the Shattered Rainbow",
     "id": "31",
@@ -10227,7 +10227,7 @@
     ],
     "power": 1000
   },
-	{
+  {
     "name": "Pointa, the Aqua Shadow",
     "set": "DM-10 Shockwaves of the Shattered Rainbow",
     "id": "100",
@@ -10412,7 +10412,7 @@
     ],
     "power": 3000
   },
-	{
+  {
     "name": "Skysword, the Savage Vizier",
     "set": "DM-10 Shockwaves of the Shattered Rainbow",
     "id": "110",
@@ -10558,7 +10558,7 @@
     "race": "Guardian",
     "power": 8500
   },
-	{
+  {
     "name": "Deklowaz, the Terminator",
     "set": "DM-10 Shockwaves of the Shattered Rainbow",
     "id": "S10",
@@ -10574,831 +10574,831 @@
     "race": "Spirit Quartz",
     "power": 5000
   },
-	{
-		"name": "Evil Incarnate",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "1",
-		"civilization": "Darkness",
-		"rarity": "Very Rare",
-		"type": "Evolution Creature",
-		"cost": 6,
-		"text": "Evolution - Put on one of your Devil Masks.\nAt the start of each player's turn, that player chooses one of his creatures and destroys it.\nDouble breaker (This creature breaks 2 shields.)",
-		"flavor": "\"It's good to be bad!\"",
-		"illustrator": "Nottsuo",
-		"race": "Devil Mask",
-		"power": 11000
-	},
-	{
-		"name": "Heavyweight Dragon",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "2",
-		"civilization": "Fire",
-		"rarity": "Very Rare",
-		"type": "Creature",
-		"cost": 7,
-		"text": "Double breaker (This creature breaks 2 shields.)\nInstead of having this creature attack, you may tap it to use its Tap ability. : Choose up to 2 of your opponent's tapped creatures in the battle zone. If they have total power less than this creature's power, destroy them.",
-		"illustrator": "Daisuke Izuka",
-		"race": "Armored Dragon",
-		"power": 9000
-	},
-	{
-		"name": "Diamondia, the Blizzard Rider",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "3",
-		"civilization": "Nature",
-		"rarity": "Very Rare",
-		"type": "Evolution Creature",
-		"cost": 3,
-		"text": "Evolution - Put on one of your Snow Faeries.\nWhen you put this creature into the battle zone, return all Snow Faeries from your graveyard and your mana zone to your hand.",
-		"flavor": "\"Winter's coming early this year!\"",
-		"illustrator": "Masaki Hirooka",
-		"race": "Snow Faerie",
-		"power": 5000
-	},
-	{
-		"name": "Miraculous Snare",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "4",
-		"civilizations": [
+  {
+    "name": "Evil Incarnate",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "1",
+    "civilization": "Darkness",
+    "rarity": "Very Rare",
+    "type": "Evolution Creature",
+    "cost": 6,
+    "text": "Evolution - Put on one of your Devil Masks.\nAt the start of each player's turn, that player chooses one of his creatures and destroys it.\nDouble breaker (This creature breaks 2 shields.)",
+    "flavor": "\"It's good to be bad!\"",
+    "illustrator": "Nottsuo",
+    "race": "Devil Mask",
+    "power": 11000
+  },
+  {
+    "name": "Heavyweight Dragon",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "2",
+    "civilization": "Fire",
+    "rarity": "Very Rare",
+    "type": "Creature",
+    "cost": 7,
+    "text": "Double breaker (This creature breaks 2 shields.)\nInstead of having this creature attack, you may tap it to use its Tap ability. : Choose up to 2 of your opponent's tapped creatures in the battle zone. If they have total power less than this creature's power, destroy them.",
+    "illustrator": "Daisuke Izuka",
+    "race": "Armored Dragon",
+    "power": 9000
+  },
+  {
+    "name": "Diamondia, the Blizzard Rider",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "3",
+    "civilization": "Nature",
+    "rarity": "Very Rare",
+    "type": "Evolution Creature",
+    "cost": 3,
+    "text": "Evolution - Put on one of your Snow Faeries.\nWhen you put this creature into the battle zone, return all Snow Faeries from your graveyard and your mana zone to your hand.",
+    "flavor": "\"Winter's coming early this year!\"",
+    "illustrator": "Masaki Hirooka",
+    "race": "Snow Faerie",
+    "power": 5000
+  },
+  {
+    "name": "Miraculous Snare",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "4",
+    "civilizations": [
       "Light",
       "Water"
     ],
-		"rarity": "Very Rare",
-		"type": "Spell",
-		"cost": 3,
-		"text": "(This spell is put into your mana zone tapped.)\nChoose a non-evolution creature in the battle zone and add it to its owner's shields face down.",
-		"flavor": "The veil between realities is as beautiful as it is stifling.",
-		"illustrator": "Sansyu"
-	},
-	{
-		"name": "Miraculous Truce",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "5",
-		"civilizations": [
+    "rarity": "Very Rare",
+    "type": "Spell",
+    "cost": 3,
+    "text": "(This spell is put into your mana zone tapped.)\nChoose a non-evolution creature in the battle zone and add it to its owner's shields face down.",
+    "flavor": "The veil between realities is as beautiful as it is stifling.",
+    "illustrator": "Sansyu"
+  },
+  {
+    "name": "Miraculous Truce",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "5",
+    "civilizations": [
       "Light",
       "Nature"
     ],
-		"rarity": "Very Rare",
-		"type": "Spell",
-		"cost": 5,
-		"text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it for no cost.)\n(This spell is put into your mana zone tapped.)\nChoose a civilization. Until the start of your next turn, creatures of that civilization can't attack you even if your opponent puts them into the battle zone after you cast this spell.",
-		"illustrator": "Akira Hamada"
-	},
-	{
-		"name": "Asra, Vizier of Safety",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "6",
-		"civilization": "Light",
-		"rarity": "Common",
-		"type": "Creature",
-		"cost": 3,
-		"text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : This creature gets +4000 power and has \"Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle).\"",
-		"illustrator": "Jason",
-		"race": "Initiate",
-		"power": 2000
-	},
-	{
-		"name": "Baraid, the Explorer",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "7",
-		"civilization": "Light",
-		"rarity": "Uncommon",
-		"type": "Creature",
-		"cost": 5,
-		"text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its Silent skill ability.) : Your light creatures can't be blocked this turn.",
-		"flavor": "It has no propulsion system. Instead, it moves by creating tiny vortex portals and warping itself a foot at a time.",
-		"illustrator": "Syuichi Obata",
-		"race": "Gladiator",
-		"power": 5000
-	},
-	{
-		"name": "Belix, the Explorer",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "8",
-		"civilization": "Light",
-		"rarity": "Rare",
-		"type": "Creature",
-		"cost": 2,
-		"text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)\nWhen you put this creature into the battle zone, return a spell from your mana zone to your hand.\nThis creature can't attack players.",
-		"flavor": "It doesn't breathe oxygen-it breathes neon.",
-		"illustrator": "Katsuya",
-		"race": "Gladiator",
-		"power": 3000
-	},
-	{
-		"name": "Engbelt, the Spydroid",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "9",
-		"civilization": "Light",
-		"rarity": "Common",
-		"type": "Creature",
-		"cost": 4,
-		"text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)\nThis creature can't attack players.",
-		"flavor": "\"I caught a jumbo jet in my web once. It was mighty tasty.\"",
-		"illustrator": "Akifumi Yamamoto",
-		"race": "Soltrooper",
-		"power": 5500
-	},
-	{
-		"name": "Lamiel, Destiny Enforcer",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "10",
-		"civilization": "Light",
-		"rarity": "Rare",
-		"type": "Creature",
-		"cost": 5,
-		"text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : Whenever one of your creatures is destroyed during your opponent's turn, you may draw a card.",
-		"flavor": "From a ripple to a swell to a crest to a tsunami.",
-		"illustrator": "Jason",
-		"race": "Berserker",
-		"power": 3000
-	},
-	{
-		"name": "Merlee, the Oracle",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "11",
-		"civilization": "Light",
-		"rarity": "Uncommon",
-		"type": "Creature",
-		"cost": 2,
-		"text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : Each of your creatures in the battle zone gets +1000 power.",
-		"flavor": "It always makes its point.",
-		"illustrator": "Jason",
-		"race": "Light Bringer",
-		"power": 1500
-	},
-	{
-		"name": "Nial, Vizier of Dexterity",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "12",
-		"civilization": "Light",
-		"rarity": "Common",
-		"type": "Creature",
-		"cost": 3,
-		"text": "At the end of each of your turns, you may untap this creature.",
-		"flavor": "\"Everyone always makes fun of my pointy head. Can't they make fun of my stubby feet for a change?\"",
-		"illustrator": "Katsuhiko Kojoh",
-		"race": "Initiate",
-		"power": 2500
-	},
-	{
-		"name": "Solar Trap",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "13",
-		"civilization": "Light",
-		"rarity": "Common",
-		"type": "Spell",
-		"cost": 1,
-		"text": "Choose one of your opponent's creatures in the battle zone and tap it.",
-		"flavor": "Children from the Darkness civilization are regularly warned that it isn't safe to go out before dark.",
-		"illustrator": "Kou1"
-	},
-	{
-		"name": "Yuliana, Channeler of Suns",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "14",
-		"civilization": "Light",
-		"rarity": "Rare",
-		"type": "Creature",
-		"cost": 3,
-		"text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)\nWhenever your opponent would choose a creature in the battle zone, he can't choose this one. (It can still be attacked and blocked.)\nThis creature can't attack players.",
-		"illustrator": "Dai",
-		"race": "Mecha del Sol",
-		"power": 3000
-	},
-	{
-		"name": "Aqua Trickster",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "15",
-		"civilization": "Water",
-		"rarity": "Uncommon",
-		"type": "Creature",
-		"cost": 2,
-		"text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone and tap it.",
-		"flavor": "\"Tickle, tickle . . . .\"",
-		"illustrator": "Taro Yamazaki",
-		"race": "Liquid People",
-		"power": 1000
-	},
-	{
-		"name": "Emergency Typhoon",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "16",
-		"civilization": "Water",
-		"rarity": "Common",
-		"type": "Spell",
-		"cost": 2,
-		"text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it for no cost.)\nDraw up to 2 cards. Then discard a card from your hand.",
-		"flavor": "\"Effective? Yes. Subtle? Not so much.\" -Zaltan",
-		"illustrator": "Sansyu"
-	},
-	{
-		"name": "Fantasy Fish",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "17",
-		"civilization": "Water",
-		"rarity": "Rare",
-		"type": "Creature",
-		"cost": 7,
-		"text": "Shield trigger (When this creature is put into your hand from your shield zone, you may summon it for no cost.)\nBlocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)",
-		"flavor": "It's not an eel. It's not an illusion. It's an eelusion.",
-		"illustrator": "Ken Sugawara",
-		"race": "Gel Fish",
-		"power": 2000
-	},
-	{
-		"name": "Lucky Ball",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "18",
-		"civilization": "Water",
-		"rarity": "Uncommon",
-		"type": "Creature",
-		"cost": 4,
-		"text": "When you put this creature into the battle zone, if your opponent has 3 or fewer shields, draw up to 2 cards.",
-		"flavor": "It's as mercurial and capricious as someone who knows a lot of really big words.",
-		"illustrator": "Miya",
-		"race": "Cyber Virus",
-		"power": 3000
-	},
-	{
-		"name": "Melodic Hunter",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "19",
-		"civilization": "Water",
-		"rarity": "Common",
-		"type": "Creature",
-		"cost": 5,
-		"text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)",
-		"flavor": "\"Your heartbeat is throwing off the rhythm of our aquatic melody. Let's see what we can do about that.\"",
-		"illustrator": "sgr",
-		"race": "Merfolk",
-		"power": 3000
-	},
-	{
-		"name": "Revival Soldier",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "20",
-		"civilization": "Water",
-		"rarity": "Common",
-		"type": "Creature",
-		"cost": 3,
-		"text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker abilities.) : This creature gets +4000 power. : When this creature would be destroyed, return it to your hand instead.",
-		"flavor": "\"What? Haven't you ever seen ears before?\"",
-		"illustrator": "Taro Yamazaki",
-		"race": "Merfolk",
-		"power": 2000
-	},
-	{
-		"name": "Squawking Lunatron",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "21",
-		"civilization": "Water",
-		"rarity": "Rare",
-		"type": "Creature",
-		"cost": 5,
-		"text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its Silent skill ability.) : Return up to 3 cards from your mana zone to your hand.",
-		"flavor": "\"The quest for knowledge will never end. It might take a break every now and then-maybe sneak in a quick nap-but end? Never!\" -Milporo",
-		"illustrator": "D-Suzuki",
-		"race": "Cyber Moon",
-		"power": 4000
-	},
-	{
-		"name": "Time Scout",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "22",
-		"civilization": "Water",
-		"rarity": "Common",
-		"type": "Creature",
-		"cost": 2,
-		"text": "When you put this creature into the battle zone, look at the top card of your opponent's deck.",
-		"flavor": "\"The speed of time is holding steady at one second per second. Tomorrow is on track to arrive as scheduled. All's quiet on the temporal front.\"",
-		"illustrator": "Haccan",
-		"race": "Merfolk",
-		"power": 1000
-	},
-	{
-		"name": "Warped Lunatron",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "23",
-		"civilization": "Water",
-		"rarity": "Rare",
-		"type": "Creature",
-		"cost": 7,
-		"text": "Creatures in the battle zone don't untap at the start of each player's turn.\nWhen each player untaps his cards at the start of his turn, he may then tap any number of cards in his mana zone. For every 2 cards he taps this way, he untaps one of his creatures in the battle zone.\nDouble breaker (This creature breaks 2 shields.)",
-		"illustrator": "Yarunoca",
-		"race": "Cyber Moon",
-		"power": 6000
-	},
-	{
-		"name": "Baira, the Hidden Lunatic",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "24",
-		"civilization": "Darkness",
-		"rarity": "Common",
-		"type": "Creature",
-		"cost": 3,
-		"text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)\nThis creature can't attack.\nWhen this creature battles, destroy it after the battle.",
-		"flavor": "It further blurs the fuzzy line between weird and freaky.",
-		"illustrator": "Mikumo",
-		"race": "Pandora Box",
-		"power": 5000
-	},
-	{
-		"name": "Beratcha, the Hidden Glutton",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "25",
-		"civilization": "Darkness",
-		"rarity": "Common",
-		"type": "Creature",
-		"cost": 5,
-		"text": "Slayer (Whenever this creature battles, destroy the other creature after the battle.)",
-		"flavor": "It has waited for countless years, endlessly repeating the same silent plea whenever a potential victim passed by its lock: \"Open me . . . open me . . . open me . . .\"",
-		"illustrator": "Iron Pot",
-		"race": "Pandora Box",
-		"power": 3000
-	},
-	{
-		"name": "Gazer Eyes, Shadow of Secrets",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "26",
-		"civilization": "Darkness",
-		"rarity": "Rare",
-		"type": "Creature",
-		"cost": 4,
-		"text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its Silent skill ability.) : Look at your opponent's hand and choose a card from it. Your opponent discards that card.",
-		"flavor": "\"Be careful when you gaze into the darkness. It might gaze back.\" -Yuliana, Channeler of Suns",
-		"illustrator": "Eiji Kaneda",
-		"race": "Ghost",
-		"power": 3000
-	},
-	{
-		"name": "Hazaria, Duke of Thorns",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "27",
-		"civilization": "Darkness",
-		"rarity": "Rare",
-		"type": "Creature",
-		"cost": 4,
-		"text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : When you put this creature into the battle zone, your opponent chooses one of his creatures and destroys it.",
-		"flavor": "\"Darling! I got you some roses!\"",
-		"illustrator": "Hisashi Momose",
-		"race": "Dark Lord",
-		"power": 2000
-	},
-	{
-		"name": "Jagila, the Hidden Pillager",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "28",
-		"civilization": "Darkness",
-		"rarity": "Uncommon",
-		"type": "Creature",
-		"cost": 5,
-		"text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : When you put this creature into the battle zone, your opponent discards 3 cards at random from his hand.",
-		"flavor": "Its inner lining is made of fear . . . and velvet . . . but mostly fear.",
-		"illustrator": "Seki",
-		"race": "Pandora's Box",
-		"power": 3000
-	},
-	{
-		"name": "Morbid Medicine",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "29",
-		"civilization": "Darkness",
-		"rarity": "Uncommon",
-		"type": "Spell",
-		"cost": 4,
-		"text": "Return up to 2 creatures from your graveyard to your hand.",
-		"flavor": "\"You may call it a grotesque perversion of nature, but I call it-actually, I kinda like the sound of that. Grotesque perversion of nature. Yeah, you nailed it.\"",
-		"illustrator": "Ryoya Yuki"
-	},
-	{
-		"name": "Roulette of Ruin",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "30",
-		"civilization": "Darkness",
-		"rarity": "Rare",
-		"type": "Spell",
-		"cost": 5,
-		"text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it for no cost.)\nChoose a number. Show your hand to your opponent and discard from it each card that has that cost. Then your opponent shows you his hand and discards from it each card that has that cost.",
-		"illustrator": "Ippei Soeda"
-	},
-	{
-		"name": "Saliva Worm",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "31",
-		"civilization": "Darkness",
-		"rarity": "Common",
-		"type": "Creature",
-		"cost": 3,
-		"text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : This creature gets +4000 power and has \"Darkness stealth (This creature can't be blocked while your opponent has any darkness cards in his mana zone).\"",
-		"illustrator": "Seki",
-		"race": "Parasite Worm",
-		"power": 2000
-	},
-	{
-		"name": "Spinning Terror, the Wretched",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "32",
-		"civilization": "Darkness",
-		"rarity": "Common",
-		"type": "Creature",
-		"cost": 2,
-		"text": "This creature gets +2000 power for each tapped creature your opponent has in the battle zone.",
-		"flavor": "\"I'm famous for my wheely bad puns.\"",
-		"illustrator": "Tsuu",
-		"race": "Devil Mask",
-		"power": 1000
-	},
-	{
-		"name": "Bonfire Lizard",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "33",
-		"civilization": "Fire",
-		"rarity": "Uncommon",
-		"type": "Creature",
-		"cost": 6,
-		"text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : When you put this creature into the battle zone, destroy up to 2 of your opponent's creatures that have \"blocker.\"",
-		"flavor": "\"Everything was under control until I tried to roast marshmallows on it.\" -Aqua Trickster",
-		"illustrator": "Toshiaki Takayama",
-		"race": "Melt Warrior",
-		"power": 4000
-	},
-	{
-		"name": "Brad's Cutter",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "34",
-		"civilization": "Fire",
-		"rarity": "Common",
-		"type": "Creature",
-		"cost": 2,
-		"text": "Shield trigger (When this creature is put into your hand from your shield zone, you may summon it for no cost.)",
-		"flavor": "\"It's just what I need for slicing cheese, trimming hedges, and turning ultra-armored sky tanks into scrap metal.\" -Brad, Super Kickin' Dynamo",
-		"illustrator": "Katsuya",
-		"race": "Xenoparts",
-		"power": 1000
-	},
-	{
-		"name": "Eviscerating Warrior Lumez",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "35",
-		"civilization": "Fire",
-		"rarity": "Rare",
-		"type": "Creature",
-		"cost": 3,
-		"text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : When you put this creature into the battle zone, destroy all creatures that have power 2000 or less.",
-		"flavor": "\"My favorite color is burnt, burnt, burnt sienna.\"",
-		"illustrator": "Toshiaki Takayama",
-		"race": "Armorloid",
-		"power": 2000
-	},
-	{
-		"name": "Gankloak, Rogue Commando",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "36",
-		"civilization": "Fire",
-		"rarity": "Common",
-		"type": "Creature",
-		"cost": 3,
-		"text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its Silent skill ability.) : Each of your fire creatures in the battle zone gets \"double breaker\" until the end of the turn. (It breaks 2 shields.)",
-		"flavor": "\"Am I macho enough yet?\"",
-		"illustrator": "Sansyu",
-		"race": "Human",
-		"power": 2000
-	},
-	{
-		"name": "Hysteria Lizard",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "37",
-		"civilization": "Fire",
-		"rarity": "Uncommon",
-		"type": "Creature",
-		"cost": 4,
-		"text": "This creature attacks each turn if able.\nPower attacker +3000 (While attacking, this creature gets +3000 power.)",
-		"flavor": "\"Of course it's hot headed! The coolest its head ever gets is 800 degrees!\" -Tajimal, Vizier of Aqua",
-		"illustrator": "Yoko Tsukamoto",
-		"race": "Melt Warrior",
-		"power": 3000
-	},
-	{
-		"name": "Jabaha's Automaton",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "38",
-		"civilization": "Fire",
-		"rarity": "Rare",
-		"type": "Evolution Creature",
-		"cost": 5,
-		"text": "Evolution - Put on one of your Xenoparts.\nPower attacker +4000 (While attacking, this creature gets +4000 power.)\nDouble breaker (This creature breaks 2 shields.)",
-		"flavor": "All it leaves in its wake are craters, pools of motor oil, and rusty gears.",
-		"illustrator": "Shishizaru",
-		"race": "Xenoparts",
-		"power": 6000
-	},
-	{
-		"name": "Lockdown Lizard",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "39",
-		"civilization": "Fire",
-		"rarity": "Rare",
-		"type": "Creature",
-		"cost": 4,
-		"text": "Players can't use the  abilities of their creatures.",
-		"flavor": "\"Melt Warriors have more in common with salamanders, the mythical fire spirits, than they do with lizards. Unfortunately, they're not nearly as mythical.\" -Hokira",
-		"illustrator": "Naoki Saito",
-		"race": "Melt Warrior",
-		"power": 3000
-	},
-	{
-		"name": "Sapian Tark, Flame Dervish",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "40",
-		"civilization": "Fire",
-		"rarity": "Common",
-		"type": "Creature",
-		"cost": 3,
-		"text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : This creature gets +4000 power and can attack untapped creatures.",
-		"flavor": "He uses the flame that burns in his heart to ignite another one on your head.",
-		"illustrator": "Toshiaki Takayama",
-		"race": "Dragonoid",
-		"power": 2000
-	},
-	{
-		"name": "Ten-Ton Crunch",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "41",
-		"civilization": "Fire",
-		"rarity": "Common",
-		"type": "Spell",
-		"cost": 4,
-		"text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it for no cost.)\nDestroy one of your opponent's creatures that has power 3000 or less.",
-		"flavor": "\"To be honest, we don't really know if it's ten tons. Whenever we try to weigh it, the scale breaks.\" -Slaphappy Soldier",
-		"illustrator": "Haccan"
-	},
-	{
-		"name": "Hazard Hopper",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "42",
-		"civilization": "Nature",
-		"rarity": "Uncommon",
-		"type": "Creature",
-		"cost": 4,
-		"text": "At the end of each of your turns, if this creature broke any shields that turn, return it to your hand.",
-		"flavor": "\"Hrmph! The situation didn't get hazardous until it hopped here.\" -Scowling Tomato",
-		"illustrator": "Nakagawa",
-		"race": "Giant Insect",
-		"power": 5000
-	},
-	{
-		"name": "Hearty Cap'n Polligon",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "43",
-		"civilization": "Nature",
-		"rarity": "Common",
-		"type": "Creature",
-		"cost": 1,
-		"text": "At the end of each of your turns, if this creature broke any shields that turn, return it to your hand.",
-		"flavor": "\"I sail the frozen seas. I ride the glacial breeze. I sing yo-ho and a yo-ho-ho. Oh no-here come the trees!\"",
-		"illustrator": "Haccan",
-		"race": "Snow Faerie",
-		"power": 2000
-	},
-	{
-		"name": "Macho Melon",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "44",
-		"civilization": "Nature",
-		"rarity": "Uncommon",
-		"type": "Creature",
-		"cost": 2,
-		"text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : Power attacker +3000 (While attacking, this creature gets +3000 power.)",
-		"flavor": "\"Hey baby-knock on my rind.\"",
-		"illustrator": "Atsushi Kawasaki",
-		"race": "Wild Veggies",
-		"power": 1000
-	},
-	{
-		"name": "Ninja Pumpkin",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "45",
-		"civilization": "Nature",
-		"rarity": "Common",
-		"type": "Creature",
-		"cost": 3,
-		"text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : This creature gets +4000 power and can't be blocked by any creature that has power 5000 or less.",
-		"flavor": "This mysterious hero endlessly battles against pie bakers, the enemies of Wild Veggies everywhere.",
-		"illustrator": "Atsushi Kawasaki",
-		"race": "Wild Veggies",
-		"power": 2000
-	},
-	{
-		"name": "Quillspike Rumbler",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "46",
-		"civilization": "Nature",
-		"rarity": "Common",
-		"type": "Creature",
-		"cost": 4,
-		"text": "Whenever this creature attacks a creature, this creature gets +3000 power until the end of the turn.",
-		"flavor": "The three most dangerous things to do in the forest are lick Poisonous Dahlia, clip Stratosphere Giant's toenails, and give Quillspike Rumbler a back rub.",
-		"illustrator": "Norikatsu Miyoshi",
-		"race": "Beast Folk",
-		"power": 3000
-	},
-	{
-		"name": "Rainbow Gate",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "47",
-		"civilization": "Nature",
-		"rarity": "Common",
-		"type": "Spell",
-		"cost": 2,
-		"text": "Search your deck. You may take a multi-colored creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.",
-		"flavor": "Ten thousand miles away, Bombazar's Dragon hockey team suddenly found itself a player short.",
-		"illustrator": "Miho Midorikawa"
-	},
-	{
-		"name": "Rollicking Totem",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "48",
-		"civilization": "Nature",
-		"rarity": "Rare",
-		"type": "Creature",
-		"cost": 5,
-		"text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its Silent skill ability.) : Put a creature that has Dragon in its race from your mana zone into the battle zone.",
-		"flavor": "\"Camouflage? That's a funny word. What's it mean?\"",
-		"illustrator": "Ittoku",
-		"race": "Mystery Totem",
-		"power": 4000
-	},
-	{
-		"name": "Royal Durian",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "49",
-		"civilization": "Nature",
-		"rarity": "Rare",
-		"type": "Creature",
-		"cost": 5,
-		"text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its Silent skill ability.) : Put a creature that has Dragon in its race from your mana zone into the battle zone.",
-		"illustrator": "Akifumi Yamamoto",
-		"race": "Wild Veggies",
-		"power": 1000
-	},
-	{
-		"name": "Skyscraper Shell",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "50",
-		"civilization": "Nature",
-		"rarity": "Rare",
-		"type": "Creature",
-		"cost": 4,
-		"text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : When you put this creature into the battle zone, your opponent chooses one of his creatures in the battle zone and puts it into his mana zone.",
-		"illustrator": "Atsushi Kawasaki",
-		"race": "Colony Beetle",
-		"power": 2000
-	},
-	{
-		"name": "Rise and Shine",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "51",
-		"civilizations": [
+    "rarity": "Very Rare",
+    "type": "Spell",
+    "cost": 5,
+    "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it for no cost.)\n(This spell is put into your mana zone tapped.)\nChoose a civilization. Until the start of your next turn, creatures of that civilization can't attack you even if your opponent puts them into the battle zone after you cast this spell.",
+    "illustrator": "Akira Hamada"
+  },
+  {
+    "name": "Asra, Vizier of Safety",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "6",
+    "civilization": "Light",
+    "rarity": "Common",
+    "type": "Creature",
+    "cost": 3,
+    "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : This creature gets +4000 power and has \"Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle).\"",
+    "illustrator": "Jason",
+    "race": "Initiate",
+    "power": 2000
+  },
+  {
+    "name": "Baraid, the Explorer",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "7",
+    "civilization": "Light",
+    "rarity": "Uncommon",
+    "type": "Creature",
+    "cost": 5,
+    "text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its Silent skill ability.) : Your light creatures can't be blocked this turn.",
+    "flavor": "It has no propulsion system. Instead, it moves by creating tiny vortex portals and warping itself a foot at a time.",
+    "illustrator": "Syuichi Obata",
+    "race": "Gladiator",
+    "power": 5000
+  },
+  {
+    "name": "Belix, the Explorer",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "8",
+    "civilization": "Light",
+    "rarity": "Rare",
+    "type": "Creature",
+    "cost": 2,
+    "text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)\nWhen you put this creature into the battle zone, return a spell from your mana zone to your hand.\nThis creature can't attack players.",
+    "flavor": "It doesn't breathe oxygen-it breathes neon.",
+    "illustrator": "Katsuya",
+    "race": "Gladiator",
+    "power": 3000
+  },
+  {
+    "name": "Engbelt, the Spydroid",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "9",
+    "civilization": "Light",
+    "rarity": "Common",
+    "type": "Creature",
+    "cost": 4,
+    "text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)\nThis creature can't attack players.",
+    "flavor": "\"I caught a jumbo jet in my web once. It was mighty tasty.\"",
+    "illustrator": "Akifumi Yamamoto",
+    "race": "Soltrooper",
+    "power": 5500
+  },
+  {
+    "name": "Lamiel, Destiny Enforcer",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "10",
+    "civilization": "Light",
+    "rarity": "Rare",
+    "type": "Creature",
+    "cost": 5,
+    "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : Whenever one of your creatures is destroyed during your opponent's turn, you may draw a card.",
+    "flavor": "From a ripple to a swell to a crest to a tsunami.",
+    "illustrator": "Jason",
+    "race": "Berserker",
+    "power": 3000
+  },
+  {
+    "name": "Merlee, the Oracle",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "11",
+    "civilization": "Light",
+    "rarity": "Uncommon",
+    "type": "Creature",
+    "cost": 2,
+    "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : Each of your creatures in the battle zone gets +1000 power.",
+    "flavor": "It always makes its point.",
+    "illustrator": "Jason",
+    "race": "Light Bringer",
+    "power": 1500
+  },
+  {
+    "name": "Nial, Vizier of Dexterity",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "12",
+    "civilization": "Light",
+    "rarity": "Common",
+    "type": "Creature",
+    "cost": 3,
+    "text": "At the end of each of your turns, you may untap this creature.",
+    "flavor": "\"Everyone always makes fun of my pointy head. Can't they make fun of my stubby feet for a change?\"",
+    "illustrator": "Katsuhiko Kojoh",
+    "race": "Initiate",
+    "power": 2500
+  },
+  {
+    "name": "Solar Trap",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "13",
+    "civilization": "Light",
+    "rarity": "Common",
+    "type": "Spell",
+    "cost": 1,
+    "text": "Choose one of your opponent's creatures in the battle zone and tap it.",
+    "flavor": "Children from the Darkness civilization are regularly warned that it isn't safe to go out before dark.",
+    "illustrator": "Kou1"
+  },
+  {
+    "name": "Yuliana, Channeler of Suns",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "14",
+    "civilization": "Light",
+    "rarity": "Rare",
+    "type": "Creature",
+    "cost": 3,
+    "text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)\nWhenever your opponent would choose a creature in the battle zone, he can't choose this one. (It can still be attacked and blocked.)\nThis creature can't attack players.",
+    "illustrator": "Dai",
+    "race": "Mecha del Sol",
+    "power": 3000
+  },
+  {
+    "name": "Aqua Trickster",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "15",
+    "civilization": "Water",
+    "rarity": "Uncommon",
+    "type": "Creature",
+    "cost": 2,
+    "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone and tap it.",
+    "flavor": "\"Tickle, tickle . . . .\"",
+    "illustrator": "Taro Yamazaki",
+    "race": "Liquid People",
+    "power": 1000
+  },
+  {
+    "name": "Emergency Typhoon",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "16",
+    "civilization": "Water",
+    "rarity": "Common",
+    "type": "Spell",
+    "cost": 2,
+    "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it for no cost.)\nDraw up to 2 cards. Then discard a card from your hand.",
+    "flavor": "\"Effective? Yes. Subtle? Not so much.\" -Zaltan",
+    "illustrator": "Sansyu"
+  },
+  {
+    "name": "Fantasy Fish",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "17",
+    "civilization": "Water",
+    "rarity": "Rare",
+    "type": "Creature",
+    "cost": 7,
+    "text": "Shield trigger (When this creature is put into your hand from your shield zone, you may summon it for no cost.)\nBlocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)",
+    "flavor": "It's not an eel. It's not an illusion. It's an eelusion.",
+    "illustrator": "Ken Sugawara",
+    "race": "Gel Fish",
+    "power": 2000
+  },
+  {
+    "name": "Lucky Ball",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "18",
+    "civilization": "Water",
+    "rarity": "Uncommon",
+    "type": "Creature",
+    "cost": 4,
+    "text": "When you put this creature into the battle zone, if your opponent has 3 or fewer shields, draw up to 2 cards.",
+    "flavor": "It's as mercurial and capricious as someone who knows a lot of really big words.",
+    "illustrator": "Miya",
+    "race": "Cyber Virus",
+    "power": 3000
+  },
+  {
+    "name": "Melodic Hunter",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "19",
+    "civilization": "Water",
+    "rarity": "Common",
+    "type": "Creature",
+    "cost": 5,
+    "text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)",
+    "flavor": "\"Your heartbeat is throwing off the rhythm of our aquatic melody. Let's see what we can do about that.\"",
+    "illustrator": "sgr",
+    "race": "Merfolk",
+    "power": 3000
+  },
+  {
+    "name": "Revival Soldier",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "20",
+    "civilization": "Water",
+    "rarity": "Common",
+    "type": "Creature",
+    "cost": 3,
+    "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker abilities.) : This creature gets +4000 power. : When this creature would be destroyed, return it to your hand instead.",
+    "flavor": "\"What? Haven't you ever seen ears before?\"",
+    "illustrator": "Taro Yamazaki",
+    "race": "Merfolk",
+    "power": 2000
+  },
+  {
+    "name": "Squawking Lunatron",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "21",
+    "civilization": "Water",
+    "rarity": "Rare",
+    "type": "Creature",
+    "cost": 5,
+    "text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its Silent skill ability.) : Return up to 3 cards from your mana zone to your hand.",
+    "flavor": "\"The quest for knowledge will never end. It might take a break every now and then-maybe sneak in a quick nap-but end? Never!\" -Milporo",
+    "illustrator": "D-Suzuki",
+    "race": "Cyber Moon",
+    "power": 4000
+  },
+  {
+    "name": "Time Scout",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "22",
+    "civilization": "Water",
+    "rarity": "Common",
+    "type": "Creature",
+    "cost": 2,
+    "text": "When you put this creature into the battle zone, look at the top card of your opponent's deck.",
+    "flavor": "\"The speed of time is holding steady at one second per second. Tomorrow is on track to arrive as scheduled. All's quiet on the temporal front.\"",
+    "illustrator": "Haccan",
+    "race": "Merfolk",
+    "power": 1000
+  },
+  {
+    "name": "Warped Lunatron",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "23",
+    "civilization": "Water",
+    "rarity": "Rare",
+    "type": "Creature",
+    "cost": 7,
+    "text": "Creatures in the battle zone don't untap at the start of each player's turn.\nWhen each player untaps his cards at the start of his turn, he may then tap any number of cards in his mana zone. For every 2 cards he taps this way, he untaps one of his creatures in the battle zone.\nDouble breaker (This creature breaks 2 shields.)",
+    "illustrator": "Yarunoca",
+    "race": "Cyber Moon",
+    "power": 6000
+  },
+  {
+    "name": "Baira, the Hidden Lunatic",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "24",
+    "civilization": "Darkness",
+    "rarity": "Common",
+    "type": "Creature",
+    "cost": 3,
+    "text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)\nThis creature can't attack.\nWhen this creature battles, destroy it after the battle.",
+    "flavor": "It further blurs the fuzzy line between weird and freaky.",
+    "illustrator": "Mikumo",
+    "race": "Pandora Box",
+    "power": 5000
+  },
+  {
+    "name": "Beratcha, the Hidden Glutton",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "25",
+    "civilization": "Darkness",
+    "rarity": "Common",
+    "type": "Creature",
+    "cost": 5,
+    "text": "Slayer (Whenever this creature battles, destroy the other creature after the battle.)",
+    "flavor": "It has waited for countless years, endlessly repeating the same silent plea whenever a potential victim passed by its lock: \"Open me . . . open me . . . open me . . .\"",
+    "illustrator": "Iron Pot",
+    "race": "Pandora Box",
+    "power": 3000
+  },
+  {
+    "name": "Gazer Eyes, Shadow of Secrets",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "26",
+    "civilization": "Darkness",
+    "rarity": "Rare",
+    "type": "Creature",
+    "cost": 4,
+    "text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its Silent skill ability.) : Look at your opponent's hand and choose a card from it. Your opponent discards that card.",
+    "flavor": "\"Be careful when you gaze into the darkness. It might gaze back.\" -Yuliana, Channeler of Suns",
+    "illustrator": "Eiji Kaneda",
+    "race": "Ghost",
+    "power": 3000
+  },
+  {
+    "name": "Hazaria, Duke of Thorns",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "27",
+    "civilization": "Darkness",
+    "rarity": "Rare",
+    "type": "Creature",
+    "cost": 4,
+    "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : When you put this creature into the battle zone, your opponent chooses one of his creatures and destroys it.",
+    "flavor": "\"Darling! I got you some roses!\"",
+    "illustrator": "Hisashi Momose",
+    "race": "Dark Lord",
+    "power": 2000
+  },
+  {
+    "name": "Jagila, the Hidden Pillager",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "28",
+    "civilization": "Darkness",
+    "rarity": "Uncommon",
+    "type": "Creature",
+    "cost": 5,
+    "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : When you put this creature into the battle zone, your opponent discards 3 cards at random from his hand.",
+    "flavor": "Its inner lining is made of fear . . . and velvet . . . but mostly fear.",
+    "illustrator": "Seki",
+    "race": "Pandora's Box",
+    "power": 3000
+  },
+  {
+    "name": "Morbid Medicine",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "29",
+    "civilization": "Darkness",
+    "rarity": "Uncommon",
+    "type": "Spell",
+    "cost": 4,
+    "text": "Return up to 2 creatures from your graveyard to your hand.",
+    "flavor": "\"You may call it a grotesque perversion of nature, but I call it-actually, I kinda like the sound of that. Grotesque perversion of nature. Yeah, you nailed it.\"",
+    "illustrator": "Ryoya Yuki"
+  },
+  {
+    "name": "Roulette of Ruin",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "30",
+    "civilization": "Darkness",
+    "rarity": "Rare",
+    "type": "Spell",
+    "cost": 5,
+    "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it for no cost.)\nChoose a number. Show your hand to your opponent and discard from it each card that has that cost. Then your opponent shows you his hand and discards from it each card that has that cost.",
+    "illustrator": "Ippei Soeda"
+  },
+  {
+    "name": "Saliva Worm",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "31",
+    "civilization": "Darkness",
+    "rarity": "Common",
+    "type": "Creature",
+    "cost": 3,
+    "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : This creature gets +4000 power and has \"Darkness stealth (This creature can't be blocked while your opponent has any darkness cards in his mana zone).\"",
+    "illustrator": "Seki",
+    "race": "Parasite Worm",
+    "power": 2000
+  },
+  {
+    "name": "Spinning Terror, the Wretched",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "32",
+    "civilization": "Darkness",
+    "rarity": "Common",
+    "type": "Creature",
+    "cost": 2,
+    "text": "This creature gets +2000 power for each tapped creature your opponent has in the battle zone.",
+    "flavor": "\"I'm famous for my wheely bad puns.\"",
+    "illustrator": "Tsuu",
+    "race": "Devil Mask",
+    "power": 1000
+  },
+  {
+    "name": "Bonfire Lizard",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "33",
+    "civilization": "Fire",
+    "rarity": "Uncommon",
+    "type": "Creature",
+    "cost": 6,
+    "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : When you put this creature into the battle zone, destroy up to 2 of your opponent's creatures that have \"blocker.\"",
+    "flavor": "\"Everything was under control until I tried to roast marshmallows on it.\" -Aqua Trickster",
+    "illustrator": "Toshiaki Takayama",
+    "race": "Melt Warrior",
+    "power": 4000
+  },
+  {
+    "name": "Brad's Cutter",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "34",
+    "civilization": "Fire",
+    "rarity": "Common",
+    "type": "Creature",
+    "cost": 2,
+    "text": "Shield trigger (When this creature is put into your hand from your shield zone, you may summon it for no cost.)",
+    "flavor": "\"It's just what I need for slicing cheese, trimming hedges, and turning ultra-armored sky tanks into scrap metal.\" -Brad, Super Kickin' Dynamo",
+    "illustrator": "Katsuya",
+    "race": "Xenoparts",
+    "power": 1000
+  },
+  {
+    "name": "Eviscerating Warrior Lumez",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "35",
+    "civilization": "Fire",
+    "rarity": "Rare",
+    "type": "Creature",
+    "cost": 3,
+    "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : When you put this creature into the battle zone, destroy all creatures that have power 2000 or less.",
+    "flavor": "\"My favorite color is burnt, burnt, burnt sienna.\"",
+    "illustrator": "Toshiaki Takayama",
+    "race": "Armorloid",
+    "power": 2000
+  },
+  {
+    "name": "Gankloak, Rogue Commando",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "36",
+    "civilization": "Fire",
+    "rarity": "Common",
+    "type": "Creature",
+    "cost": 3,
+    "text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its Silent skill ability.) : Each of your fire creatures in the battle zone gets \"double breaker\" until the end of the turn. (It breaks 2 shields.)",
+    "flavor": "\"Am I macho enough yet?\"",
+    "illustrator": "Sansyu",
+    "race": "Human",
+    "power": 2000
+  },
+  {
+    "name": "Hysteria Lizard",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "37",
+    "civilization": "Fire",
+    "rarity": "Uncommon",
+    "type": "Creature",
+    "cost": 4,
+    "text": "This creature attacks each turn if able.\nPower attacker +3000 (While attacking, this creature gets +3000 power.)",
+    "flavor": "\"Of course it's hot headed! The coolest its head ever gets is 800 degrees!\" -Tajimal, Vizier of Aqua",
+    "illustrator": "Yoko Tsukamoto",
+    "race": "Melt Warrior",
+    "power": 3000
+  },
+  {
+    "name": "Jabaha's Automaton",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "38",
+    "civilization": "Fire",
+    "rarity": "Rare",
+    "type": "Evolution Creature",
+    "cost": 5,
+    "text": "Evolution - Put on one of your Xenoparts.\nPower attacker +4000 (While attacking, this creature gets +4000 power.)\nDouble breaker (This creature breaks 2 shields.)",
+    "flavor": "All it leaves in its wake are craters, pools of motor oil, and rusty gears.",
+    "illustrator": "Shishizaru",
+    "race": "Xenoparts",
+    "power": 6000
+  },
+  {
+    "name": "Lockdown Lizard",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "39",
+    "civilization": "Fire",
+    "rarity": "Rare",
+    "type": "Creature",
+    "cost": 4,
+    "text": "Players can't use the  abilities of their creatures.",
+    "flavor": "\"Melt Warriors have more in common with salamanders, the mythical fire spirits, than they do with lizards. Unfortunately, they're not nearly as mythical.\" -Hokira",
+    "illustrator": "Naoki Saito",
+    "race": "Melt Warrior",
+    "power": 3000
+  },
+  {
+    "name": "Sapian Tark, Flame Dervish",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "40",
+    "civilization": "Fire",
+    "rarity": "Common",
+    "type": "Creature",
+    "cost": 3,
+    "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : This creature gets +4000 power and can attack untapped creatures.",
+    "flavor": "He uses the flame that burns in his heart to ignite another one on your head.",
+    "illustrator": "Toshiaki Takayama",
+    "race": "Dragonoid",
+    "power": 2000
+  },
+  {
+    "name": "Ten-Ton Crunch",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "41",
+    "civilization": "Fire",
+    "rarity": "Common",
+    "type": "Spell",
+    "cost": 4,
+    "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it for no cost.)\nDestroy one of your opponent's creatures that has power 3000 or less.",
+    "flavor": "\"To be honest, we don't really know if it's ten tons. Whenever we try to weigh it, the scale breaks.\" -Slaphappy Soldier",
+    "illustrator": "Haccan"
+  },
+  {
+    "name": "Hazard Hopper",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "42",
+    "civilization": "Nature",
+    "rarity": "Uncommon",
+    "type": "Creature",
+    "cost": 4,
+    "text": "At the end of each of your turns, if this creature broke any shields that turn, return it to your hand.",
+    "flavor": "\"Hrmph! The situation didn't get hazardous until it hopped here.\" -Scowling Tomato",
+    "illustrator": "Nakagawa",
+    "race": "Giant Insect",
+    "power": 5000
+  },
+  {
+    "name": "Hearty Cap'n Polligon",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "43",
+    "civilization": "Nature",
+    "rarity": "Common",
+    "type": "Creature",
+    "cost": 1,
+    "text": "At the end of each of your turns, if this creature broke any shields that turn, return it to your hand.",
+    "flavor": "\"I sail the frozen seas. I ride the glacial breeze. I sing yo-ho and a yo-ho-ho. Oh no-here come the trees!\"",
+    "illustrator": "Haccan",
+    "race": "Snow Faerie",
+    "power": 2000
+  },
+  {
+    "name": "Macho Melon",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "44",
+    "civilization": "Nature",
+    "rarity": "Uncommon",
+    "type": "Creature",
+    "cost": 2,
+    "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : Power attacker +3000 (While attacking, this creature gets +3000 power.)",
+    "flavor": "\"Hey baby-knock on my rind.\"",
+    "illustrator": "Atsushi Kawasaki",
+    "race": "Wild Veggies",
+    "power": 1000
+  },
+  {
+    "name": "Ninja Pumpkin",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "45",
+    "civilization": "Nature",
+    "rarity": "Common",
+    "type": "Creature",
+    "cost": 3,
+    "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : This creature gets +4000 power and can't be blocked by any creature that has power 5000 or less.",
+    "flavor": "This mysterious hero endlessly battles against pie bakers, the enemies of Wild Veggies everywhere.",
+    "illustrator": "Atsushi Kawasaki",
+    "race": "Wild Veggies",
+    "power": 2000
+  },
+  {
+    "name": "Quillspike Rumbler",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "46",
+    "civilization": "Nature",
+    "rarity": "Common",
+    "type": "Creature",
+    "cost": 4,
+    "text": "Whenever this creature attacks a creature, this creature gets +3000 power until the end of the turn.",
+    "flavor": "The three most dangerous things to do in the forest are lick Poisonous Dahlia, clip Stratosphere Giant's toenails, and give Quillspike Rumbler a back rub.",
+    "illustrator": "Norikatsu Miyoshi",
+    "race": "Beast Folk",
+    "power": 3000
+  },
+  {
+    "name": "Rainbow Gate",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "47",
+    "civilization": "Nature",
+    "rarity": "Common",
+    "type": "Spell",
+    "cost": 2,
+    "text": "Search your deck. You may take a multi-colored creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.",
+    "flavor": "Ten thousand miles away, Bombazar's Dragon hockey team suddenly found itself a player short.",
+    "illustrator": "Miho Midorikawa"
+  },
+  {
+    "name": "Rollicking Totem",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "48",
+    "civilization": "Nature",
+    "rarity": "Rare",
+    "type": "Creature",
+    "cost": 5,
+    "text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its Silent skill ability.) : Put a creature that has Dragon in its race from your mana zone into the battle zone.",
+    "flavor": "\"Camouflage? That's a funny word. What's it mean?\"",
+    "illustrator": "Ittoku",
+    "race": "Mystery Totem",
+    "power": 4000
+  },
+  {
+    "name": "Royal Durian",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "49",
+    "civilization": "Nature",
+    "rarity": "Rare",
+    "type": "Creature",
+    "cost": 5,
+    "text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its Silent skill ability.) : Put a creature that has Dragon in its race from your mana zone into the battle zone.",
+    "illustrator": "Akifumi Yamamoto",
+    "race": "Wild Veggies",
+    "power": 1000
+  },
+  {
+    "name": "Skyscraper Shell",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "50",
+    "civilization": "Nature",
+    "rarity": "Rare",
+    "type": "Creature",
+    "cost": 4,
+    "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : When you put this creature into the battle zone, your opponent chooses one of his creatures in the battle zone and puts it into his mana zone.",
+    "illustrator": "Atsushi Kawasaki",
+    "race": "Colony Beetle",
+    "power": 2000
+  },
+  {
+    "name": "Rise and Shine",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "51",
+    "civilizations": [
       "Light",
       "Water"
     ],
-		"rarity": "Uncommon",
-		"type": "Spell",
-		"cost": 4,
-		"text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it for no cost.)\n(This spell is put into your mana zone tapped.)\nReveal the top 4 cards of your deck. Put one of them that has \"blocker\" into your hand, and put the rest on the bottom of your deck in any order.",
-		"illustrator": "Akifumi Yamamoto"
-	},
-	{
-		"name": "Live and Breathe",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "52",
-		"civilizations": [
+    "rarity": "Uncommon",
+    "type": "Spell",
+    "cost": 4,
+    "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it for no cost.)\n(This spell is put into your mana zone tapped.)\nReveal the top 4 cards of your deck. Put one of them that has \"blocker\" into your hand, and put the rest on the bottom of your deck in any order.",
+    "illustrator": "Akifumi Yamamoto"
+  },
+  {
+    "name": "Live and Breathe",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "52",
+    "civilizations": [
       "Light",
       "Nature"
     ],
-		"rarity": "Uncommon",
-		"type": "Spell",
-		"cost": 3,
-		"text": "(This spell is put into your mana zone tapped.)\nWhenever you summon a creature this turn, search your deck. You may take a creature from your deck that has the same name as that creature and put it into the battle zone. Then shuffle your deck.",
-		"flavor": "\"The 5:15 rift in the universe is early today.\" -Techno Totem",
-		"illustrator": "Takesi Kuno"
-	},
-	{
-		"name": "Hide and Seek",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "53",
-		"civilizations": [
+    "rarity": "Uncommon",
+    "type": "Spell",
+    "cost": 3,
+    "text": "(This spell is put into your mana zone tapped.)\nWhenever you summon a creature this turn, search your deck. You may take a creature from your deck that has the same name as that creature and put it into the battle zone. Then shuffle your deck.",
+    "flavor": "\"The 5:15 rift in the universe is early today.\" -Techno Totem",
+    "illustrator": "Takesi Kuno"
+  },
+  {
+    "name": "Hide and Seek",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "53",
+    "civilizations": [
       "Water",
       "Darkness"
     ],
-		"rarity": "Uncommon",
-		"type": "Spell",
-		"cost": 4,
-		"text": "(This spell is put into your mana zone tapped.)\nChoose one of your opponent's non-evolution creatures in the battle zone and return it to his hand. Then he discards a card at random from his hand.",
-		"flavor": "\"Brace yourselves! It's a Class 5 Metaphor!\" -Shaman Broccoli",
-		"illustrator": "Koji Harada"
-	},
-	{
-		"name": "Slash and Burn",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "54",
-		"civilizations": [
+    "rarity": "Uncommon",
+    "type": "Spell",
+    "cost": 4,
+    "text": "(This spell is put into your mana zone tapped.)\nChoose one of your opponent's non-evolution creatures in the battle zone and return it to his hand. Then he discards a card at random from his hand.",
+    "flavor": "\"Brace yourselves! It's a Class 5 Metaphor!\" -Shaman Broccoli",
+    "illustrator": "Koji Harada"
+  },
+  {
+    "name": "Slash and Burn",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "54",
+    "civilizations": [
       "Darkness",
       "Fire"
     ],
-		"rarity": "Uncommon",
-		"type": "Spell",
-		"cost": 4,
-		"text": "(This spell is put into your mana zone tapped.)\nWhenever any of your opponent's creatures is destroyed this turn, your opponent chooses a card in his mana zone and puts it into his graveyard. Then he chooses one of his shields and puts it into his graveyard.",
-		"flavor": "This is what happens when nightmares have nightmares.",
-		"illustrator": "Naoki Saito"
-	},
-	{
-		"name": "Reap and Sow",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "55",
-		"civilizations": [
+    "rarity": "Uncommon",
+    "type": "Spell",
+    "cost": 4,
+    "text": "(This spell is put into your mana zone tapped.)\nWhenever any of your opponent's creatures is destroyed this turn, your opponent chooses a card in his mana zone and puts it into his graveyard. Then he chooses one of his shields and puts it into his graveyard.",
+    "flavor": "This is what happens when nightmares have nightmares.",
+    "illustrator": "Naoki Saito"
+  },
+  {
+    "name": "Reap and Sow",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "55",
+    "civilizations": [
       "Fire",
       "Nature"
     ],
-		"rarity": "Uncommon",
-		"type": "Spell",
-		"cost": 5,
-		"text": "(This spell is put into your mana zone tapped.)\nChoose a card in your opponent's mana zone and put it into his graveyard. Then put the top card of your deck into your mana zone.",
-		"flavor": "\"Only those who don't understand call it chaos. The rest call it life.\" -Gonta, the Warrior Savage",
-		"illustrator": "Norikatsu Miyoshi"
-	},
-	{
-		"name": "Warlord Ailzonius",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "S1",
-		"civilization": "Light",
-		"rarity": "Super Rare",
-		"type": "Evolution Creature",
-		"cost": 5,
-		"text": "Evolution - Put on one of your Gladiators.\nDouble breaker (This creature breaks 2 shields.)\nWhenever your opponent would choose a creature in the battle zone, he can't choose this one. (It can still be attacked and blocked.)",
-		"flavor": "It knows when war is coming because it decides when war is coming.",
-		"illustrator": "Masaki Hirooka",
-		"race": "Gladiator",
-		"power": 8000
-	},
-	{
-		"name": "Klujadras",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "S2",
-		"civilization": "Water",
-		"rarity": "Super Rare",
-		"type": "Creature",
-		"cost": 7,
-		"text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : When you put this creature into the battle zone, each player draws a card for each of his creatures in the battle zone that has \"wave striker.\"",
-		"flavor": "\"Now you see why I failed biology.\" -Gankloak, Rogue Commando",
-		"illustrator": "Taro Yamazaki",
-		"race": "Sea Hacker",
-		"power": 4000
-	},
-	{
-		"name": "Miraculous Plague",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "S3",
-		"civilizations": [
+    "rarity": "Uncommon",
+    "type": "Spell",
+    "cost": 5,
+    "text": "(This spell is put into your mana zone tapped.)\nChoose a card in your opponent's mana zone and put it into his graveyard. Then put the top card of your deck into your mana zone.",
+    "flavor": "\"Only those who don't understand call it chaos. The rest call it life.\" -Gonta, the Warrior Savage",
+    "illustrator": "Norikatsu Miyoshi"
+  },
+  {
+    "name": "Warlord Ailzonius",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "S1",
+    "civilization": "Light",
+    "rarity": "Super Rare",
+    "type": "Evolution Creature",
+    "cost": 5,
+    "text": "Evolution - Put on one of your Gladiators.\nDouble breaker (This creature breaks 2 shields.)\nWhenever your opponent would choose a creature in the battle zone, he can't choose this one. (It can still be attacked and blocked.)",
+    "flavor": "It knows when war is coming because it decides when war is coming.",
+    "illustrator": "Masaki Hirooka",
+    "race": "Gladiator",
+    "power": 8000
+  },
+  {
+    "name": "Klujadras",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "S2",
+    "civilization": "Water",
+    "rarity": "Super Rare",
+    "type": "Creature",
+    "cost": 7,
+    "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : When you put this creature into the battle zone, each player draws a card for each of his creatures in the battle zone that has \"wave striker.\"",
+    "flavor": "\"Now you see why I failed biology.\" -Gankloak, Rogue Commando",
+    "illustrator": "Taro Yamazaki",
+    "race": "Sea Hacker",
+    "power": 4000
+  },
+  {
+    "name": "Miraculous Plague",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "S3",
+    "civilizations": [
       "Water",
       "Darkness"
     ],
-		"rarity": "Super Rare",
-		"type": "Spell",
-		"cost": 7,
-		"text": "(This spell is put into your mana zone tapped.)\nChoose 2 of your opponent's creatures in the battle zone. Your opponent chooses one of them, puts it into his hand, and destroys the other one. Then choose 2 cards in your opponent's mana zone. Your opponent chooses one of them, puts it into his hand, and puts the other one into his graveyard.",
-		"illustrator": "Toshiaki Takayama"
-	},
-	{
-		"name": "Miraculous Meltdown",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "S4",
-		"civilizations": [
+    "rarity": "Super Rare",
+    "type": "Spell",
+    "cost": 7,
+    "text": "(This spell is put into your mana zone tapped.)\nChoose 2 of your opponent's creatures in the battle zone. Your opponent chooses one of them, puts it into his hand, and destroys the other one. Then choose 2 cards in your opponent's mana zone. Your opponent chooses one of them, puts it into his hand, and puts the other one into his graveyard.",
+    "illustrator": "Toshiaki Takayama"
+  },
+  {
+    "name": "Miraculous Meltdown",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "S4",
+    "civilizations": [
       "Darkness",
       "Fire"
     ],
-		"rarity": "Super Rare",
-		"type": "Spell",
-		"cost": 6,
-		"text": "(This spell is put into your mana zone tapped.)\nYou can cast this spell only if your opponent has more shields than you do.\nYour opponent chooses one of his shields for each shield you have. He puts the rest of his shields into his hand. (He can use the \"shield trigger\" abilities of those shields.)",
-		"illustrator": "Daisuke Izuka"
-	},
-	{
-		"name": "Miraculous Rebirth",
-		"set": "DM-11 Blastosplosion of Gigantic Rage",
-		"id": "S5",
-		"civilizations": [
+    "rarity": "Super Rare",
+    "type": "Spell",
+    "cost": 6,
+    "text": "(This spell is put into your mana zone tapped.)\nYou can cast this spell only if your opponent has more shields than you do.\nYour opponent chooses one of his shields for each shield you have. He puts the rest of his shields into his hand. (He can use the \"shield trigger\" abilities of those shields.)",
+    "illustrator": "Daisuke Izuka"
+  },
+  {
+    "name": "Miraculous Rebirth",
+    "set": "DM-11 Blastosplosion of Gigantic Rage",
+    "id": "S5",
+    "civilizations": [
       "Fire",
       "Nature"
     ],
-		"rarity": "Super Rare",
-		"type": "Spell",
-		"cost": 6,
-		"text": "(This spell is put into your mana zone tapped.)\nDestroy one of your opponent's creatures that has power 5000 or less. When your opponent puts that creature into his graveyard, search your deck. You may take a creature from your deck that has the same cost as that creature and put it into the battle zone. Then shuffle your deck.",
-		"illustrator": "Masaki Hirooka"
-	},
+    "rarity": "Super Rare",
+    "type": "Spell",
+    "cost": 6,
+    "text": "(This spell is put into your mana zone tapped.)\nDestroy one of your opponent's creatures that has power 5000 or less. When your opponent puts that creature into his graveyard, search your deck. You may take a creature from your deck that has the same cost as that creature and put it into the battle zone. Then shuffle your deck.",
+    "illustrator": "Masaki Hirooka"
+  },
   {
     "name": "Kilstine, Nebula Elemental",
     "set": "DM-12 Thrash of the Hybrid Megacreatures",
@@ -11413,7 +11413,7 @@
     "race": "Angel Command",
     "power": 5000
   },
-	{
+  {
     "name": "Extreme Crawler",
     "set": "DM-12 Thrash of the Hybrid Megacreatures",
     "id": "2",
@@ -12306,7 +12306,7 @@
     ],
     "power": 6000
   },
-	{
+  {
     "name": "Aegis, Sage of Fire and Lightning",
     "set": "DM-13 Eternal Phoenix",
     "id": "2",
@@ -13243,7 +13243,7 @@
     "race": "Guardian",
     "power": 2000
   },
-	{
+  {
     "name": "Mongrel Man",
     "set": "Promotional",
     "id": "26a/46",
@@ -13270,7 +13270,7 @@
     "race": "Angel Command",
     "power": 7000
   },
-	{
+  {
     "name": "Vashuna, Sword Dancer",
     "set": "Promotional",
     "id": "32/46",
@@ -13284,7 +13284,7 @@
     "race": "Demon Command",
     "power": 7000
   },
-	{
+  {
     "name": "Rothus, the Traveler",
     "set": "Promotional (Duel Masters Starter Deck)",
     "id": "85a/110",
@@ -13298,7 +13298,7 @@
     "race": "Armorloid",
     "power": 4000
   },
-	{
+  {
     "name": "Amber Piercer",
     "set": "Promotional",
     "id": "23a/55",
@@ -13312,7 +13312,7 @@
     "race": "Brain Jacker",
     "power": 2000
   },
-	{
+  {
     "name": "Metalwing Skyterror",
     "set": "Promotional",
     "id": "42a/55",
@@ -13325,7 +13325,7 @@
     "race": "Armored Wyvern",
     "power": 6000
   },
-	{
+  {
     "name": "Pyrofighter Magnus",
     "set": "Promotional",
     "id": "85a/110 (Duel Masters Starter Deck 2)",
@@ -13339,7 +13339,7 @@
     "race": "Dragonoid",
     "power": 3000
   },
-	{
+  {
     "name": "Schuka, Duke of Amnesia",
     "set": "Promotional",
     "id": "66a/110",
@@ -13353,7 +13353,7 @@
     "race": "Dark Lord",
     "power": 5000
   },
-	{
+  {
     "name": "Charmilia, the Enticer",
     "set": "Promotional",
     "id": "94a/110",
@@ -13367,7 +13367,7 @@
     "race": "Snow Faerie",
     "power": 3000
   },
-	{
+  {
     "name": "Necrodragon Galbazeek",
     "set": "Promotional",
     "id": "32a/55",
@@ -13409,7 +13409,7 @@
     "race": "Merfolk",
     "power": 3000
   },
-	{
+  {
     "name": "Armored Raider Gandaval",
     "set": "Promotional",
     "id": "62a/110",
@@ -13668,7 +13668,7 @@
     "race": "Dragonoid",
     "power": 9000
   },
-	{
+  {
     "name": "Fire Sweeper Burning Hellion",
     "set": "Promotional",
     "id": "E2/Y1",
@@ -13682,7 +13682,7 @@
     "race": "Dragonoid",
     "power": 3000
   },
-	{
+  {
     "name": "Explosive Fighter Ucarn",
     "set": "Promotional",
     "id": "E3/Y1",
@@ -13696,7 +13696,7 @@
     "race": "Dragonoid",
     "power": 9000
   },
-	{
+  {
     "name": "Gregorian Worm",
     "set": "Promotional",
     "id": "E4/Y1",
@@ -13857,7 +13857,7 @@
     "race": "Human",
     "power": 6000
   },
-	{
+  {
     "name": "Barkwhip, the Smasher",
     "set": "Promotional",
     "id": "L2/6 Y1",
@@ -13912,7 +13912,7 @@
     "race": "Demon Command",
     "power": 5000
   },
-	{
+  {
     "name": "Explosive Fighter Ucarn",
     "set": "Promotional",
     "id": "L6/6 Y1",
@@ -13926,7 +13926,7 @@
     "race": "Dragonoid",
     "power": 9000
   },
-	{
+  {
     "name": "Magris, Vizier of Magnetism",
     "set": "Promotional",
     "id": "L7/12 Y1",
@@ -13981,7 +13981,7 @@
     "race": "Parasite Worm",
     "power": 5000
   },
-	{
+  {
     "name": "Boltail Dragon",
     "set": "Promotional",
     "id": "L11/12 Y1",
@@ -13995,7 +13995,7 @@
     "race": "Armored Dragon",
     "power": 9000
   },
-	{
+  {
     "name": "Torcon",
     "set": "Promotional",
     "id": "L12/12 Y1",
@@ -14009,7 +14009,7 @@
     "race": "Beast Folk",
     "power": 1000
   },
-	{
+  {
     "name": "Ballus, Dogfight Enforcer Q",
     "set": "Promotional",
     "id": "L13/20 Y1",
@@ -14040,7 +14040,7 @@
     "race": "Demon Command",
     "power": 6000
   },
-	{
+  {
     "name": "Nocturnal Giant",
     "set": "Promotional",
     "id": "L15/20 Y1",
@@ -14068,7 +14068,7 @@
     "race": "Chimera",
     "power": 4000
   },
-	{
+  {
     "name": "Skullsweeper Q",
     "set": "Promotional",
     "id": "L17/20 Y1",
@@ -14101,7 +14101,7 @@
     ],
     "power": 1000
   },
-	{
+  {
     "name": "Grave Worm Q",
     "set": "Promotional",
     "id": "L19/20 Y1",
@@ -14118,7 +14118,7 @@
     ],
     "power": 3000
   },
-	{
+  {
     "name": "Bolgash Dragon",
     "set": "Promotional",
     "id": "L20/20 Y1",
@@ -14132,7 +14132,7 @@
     "race": "Armored Dragon",
     "power": 4000
   },
-	{
+  {
     "name": "Rumblesaur Q",
     "set": "Promotional",
     "id": "L1 Y2",
@@ -14244,7 +14244,7 @@
     "race": "Rock Beast",
     "power": 9000
   },
-	{
+  {
     "name": "World Tree, Root of Life",
     "set": "Promotional",
     "id": "L9 Y2",
@@ -14502,7 +14502,7 @@
     "race": "Liquid People",
     "power": 2000
   },
-	{
+  {
     "name": "Gigastand",
     "set": "Promotional",
     "id": "M10/Y1",
@@ -14599,7 +14599,7 @@
     "race": "Chimera",
     "power": 8000
   },
-	{
+  {
     "name": "Draglide",
     "set": "Promotional",
     "id": "P2/Y0",
@@ -14627,7 +14627,7 @@
     "race": "Guardian",
     "power": 6000
   },
-	{
+  {
     "name": "Stampeding Longhorn",
     "set": "Promotional",
     "id": "P4/Y0",
@@ -14683,7 +14683,7 @@
     "race": "Guardian",
     "power": 5000
   },
-	{
+  {
     "name": "Gariel, Elemental of Sunbeams",
     "set": "Promotional",
     "id": "P2 Y1",
@@ -14697,7 +14697,7 @@
     "race": "Angel Command",
     "power": 7500
   },
-	{
+  {
     "name": "Three-Faced Ashura Fang",
     "set": "Promotional",
     "id": "P1 Y2",
@@ -14818,7 +14818,7 @@
     "race": "Horned Beast",
     "power": 4000
   },
-	{
+  {
     "name": "Terror Pit",
     "set": "Promotional",
     "id": "T2 Y1",
@@ -14840,7 +14840,7 @@
     "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nTap all your opponent's creatures in the battle zone.",
     "illustrator": "Naoki Saito"
   },
-	{
+  {
     "name": "Corile",
     "set": "Promotional",
     "id": "T4 Y1",
@@ -14868,7 +14868,7 @@
     "race": "Liquid People",
     "power": 2000
   },
-	{
+  {
     "name": "Snip Striker Bullraizer",
     "set": "Promotional",
     "id": "T1 Y2",
