@@ -59,3 +59,17 @@ If the type of the card is Creature (includes the subtybes of Creature eg. Evolu
 			],
 			
 	- power: The power of the creature. In the original cards, some creatures have plus-signs on the left side of the power values but here the signs are ignored in order to represent the powers as integers.
+	
+## Useful links
+
+- https://jsonformatter.org/
+	- This online tool should be used for validating the JSON file and for beatifying the JSON file.
+
+- http://duelmasters.wikia.com/wiki/Duel_Masters_Wiki 
+	- The official Duel Masters wiki which contains all OCG cards and proper translations for them.
+
+- http://www.ccgdb.com/duelmasters/ 
+	-	A database which contains Duel Masters cards. NOTE: This site should not be used as a primary source for development as the translations seem not to be as good as those in the wiki.
+
+- http://dmreborn.forumieren.com/ 
+	- The largest website for Duel Masters, maintained by a active community of duelists.
