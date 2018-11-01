@@ -49,7 +49,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "At the end of each of your turns, you may untap this creature.",
-    "flavor": "\"Vizier of Air, arise. Your fingers are sacred swords.\" -Hanusa, Radiance Elemental",
+    "flavor": "\"Vizier of Air, arise. Your fingers are sacred swords.\" —Hanusa, Radiance Elemental",
     "illustrator": "Yusaku Nakaaki",
     "race": "Initiate",
     "power": "3000"
@@ -87,7 +87,7 @@
     "rarity": "Common",
     "type": "Creature",
     "cost": 3,
-    "flavor": "\"Vizier of Bullets, arise. Your will is an arrow that never misses the target.\" -Hanusa, Radiance Elemental",
+    "flavor": "\"Vizier of Bullets, arise. Your will is an arrow that never misses the target.\" —Hanusa, Radiance Elemental",
     "illustrator": "Akira Hamada",
     "race": "Initiate",
     "power": "3000"
@@ -152,7 +152,7 @@
     "rarity": "Uncommon",
     "type": "Creature",
     "cost": 4,
-    "flavor": "\"Vizier of Hunting, arise. Your words are arrows of light.\" -Hanusa, Radiance Elemental",
+    "flavor": "\"Vizier of Hunting, arise. Your words are arrows of light.\" —Hanusa, Radiance Elemental",
     "illustrator": "Hisanobu Kometani",
     "race": "Initiate",
     "power": "4000"
@@ -166,7 +166,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "When you put this creature into the battle zone, you may choose 1 of your opponent's creatures in the battle zone and tap it.",
-    "flavor": "\"Vizier of Lightning, arise. Your eyes are a bow of judgment.\" -Hanusa, Radiance Elemental",
+    "flavor": "\"Vizier of Lightning, arise. Your eyes are a bow of judgment.\" —Hanusa, Radiance Elemental",
     "illustrator": "Dai",
     "race": "Initiate",
     "power": "1000"
@@ -283,7 +283,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "At the end of each of your turns, you may untap all your creatures in the battle zone.",
-    "flavor": "\"Vizier of Hope, arise. Your singing voice is a breeze of dawn.\" -Hanusa, Radiance Elemental",
+    "flavor": "\"Vizier of Hope, arise. Your singing voice is a breeze of dawn.\" —Hanusa, Radiance Elemental",
     "illustrator": "Masaki Hirooka",
     "race": "Initiate",
     "power": "2000"
@@ -325,7 +325,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "When this creature would be destroyed, return it to your hand instead.",
-    "flavor": "\"What a spirit for such a skinny little thing.\" -Brawler Zyler",
+    "flavor": "\"What a spirit for such a skinny little thing.\" —Brawler Zyler",
     "illustrator": "Jason",
     "race": "Liquid People",
     "power": "1000"
@@ -498,7 +498,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "When you put this creature into the battle zone, return each creature in the battle zone that has power 2000 or less to its owner's hand.",
-    "flavor": "\"Isn't it cool? The heads can be combined.\" -Tropico",
+    "flavor": "\"Isn't it cool? The heads can be combined.\" —Tropico",
     "illustrator": "Naoki Saito",
     "race": "Gel Fish",
     "power": "3000"
@@ -537,7 +537,7 @@
     "type": "Spell",
     "cost": 5,
     "text": "Choose up to 2 creatures in the battle zone and return them to their owners' hands.",
-    "flavor": "\"Start all over from your previous life!\" -Crystal Lancer",
+    "flavor": "\"Start all over from your previous life!\" —Crystal Lancer",
     "illustrator": "Akifumi Yamamoto"
   },
   {
@@ -892,7 +892,7 @@
     "type": "Creature",
     "cost": 1,
     "text": "When you put this creature into the battle zone, put 1 card from your mana zone into your graveyard.",
-    "flavor": "\"Fix it? That's easy. Just hit it.\" -Legendary Artisan Picora",
+    "flavor": "\"Fix it? That's easy. Just hit it.\" —Legendary Artisan Picora",
     "illustrator": "Akifumi Yamamoto",
     "race": "Machine Eater",
     "power": "2000"
@@ -1091,7 +1091,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "This creature can attack untapped creatures.",
-    "flavor": "\"Time to move on. So many unexplored worlds; so much trash to find!\" -Nomad Hero Gigio",
+    "flavor": "\"Time to move on. So many unexplored worlds; so much trash to find!\" —Nomad Hero Gigio",
     "illustrator": "Eiji Kaneda",
     "race": "Machine Eater",
     "power": "3000"
@@ -1315,7 +1315,7 @@
     "type": "Spell",
     "cost": 1,
     "text": "Put 1 of your creatures from the battle zone into your mana zone.",
-    "flavor": "\"Here's something better for you to do.\" -Fighter Dual Fang",
+    "flavor": "\"Here's something better for you to do.\" —Fighter Dual Fang",
     "illustrator": "Seki"
   },
   {
@@ -1327,7 +1327,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "This creature can't attack players.",
-    "flavor": "\"I will never give you up.\" -Symbolic meaning of the poisonous dahlia in flower language",
+    "flavor": "\"I will never give you up.\" —Symbolic meaning of the poisonous dahlia in flower language",
     "illustrator": "Hideaki Takamura",
     "race": "Tree Folk",
     "power": "5000"
@@ -1383,7 +1383,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "This creature can't attack players.",
-    "flavor": "\"Me big. Me tough. Me smash.\" -Iron Hammer, Boar Warrior",
+    "flavor": "\"Me big. Me tough. Me smash.\" —Iron Hammer, Boar Warrior",
     "illustrator": "Katsuya",
     "race": "Beast Folk",
     "power": "3000"
@@ -1452,7 +1452,7 @@
     "type": "Spell",
     "cost": 5,
     "text": "Put the top 2 cards of your deck into your mana zone.",
-    "flavor": "\"Great Earth, give me your might!\" -Fighter Dual Fang",
+    "flavor": "\"Great Earth, give me your might!\" —Fighter Dual Fang",
     "illustrator": "Sansyu"
   },
   {
@@ -1534,7 +1534,7 @@
     "type": "Creature",
     "cost": 6,
     "text": "Double breaker (This creature breaks 2 shields.)",
-    "flavor": "\"If I were to send him to the field, he would overwhelm the enemy in an instant. Where is the fun in that?\" -Ballom, Master of Death",
+    "flavor": "\"If I were to send him to the field, he would overwhelm the enemy in an instant. Where is the fun in that?\" —Ballom, Master of Death",
     "illustrator": "Tsutomu Kawade",
     "race": "Demon Command",
     "power": "7000"
@@ -1681,7 +1681,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "When you put this creature into the battle zone, you may draw a card.",
-    "flavor": "\"Vizier of Magnetism, arise. Your wings are a compass that points to the truth.\" -Hanusa, Radiance Elemental",
+    "flavor": "\"Vizier of Magnetism, arise. Your wings are a compass that points to the truth.\" —Hanusa, Radiance Elemental",
     "illustrator": "Hisanobu Kometani",
     "race": "Initiate",
     "power": "3000"
@@ -2029,7 +2029,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "When you put this creature into the battle zone, destroy one of your creatures that has power 3000 or less.",
-    "flavor": "\"You won't get any dessert until you finish eating your friends!\" -Dark Titan Maginn",
+    "flavor": "\"You won't get any dessert until you finish eating your friends!\" —Dark Titan Maginn",
     "illustrator": "Masaki Hirooka",
     "race": "Parasite Worm",
     "power": "4000"
@@ -2071,7 +2071,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "When this creature is destroyed, each player chooses 2 cards in his mana zone and puts them into his graveyard.",
-    "flavor": "\"This species inhabits liquid rock. Highly dangerous.\" -Liquid People scouting report",
+    "flavor": "\"This species inhabits liquid rock. Highly dangerous.\" —Liquid People scouting report",
     "illustrator": "Akira Hamada",
     "race": "Rock Beast",
     "power": "5000"
@@ -2165,7 +2165,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "This creature attacks each turn if able.\nPower attacker +1000 (While attacking, this creature gets +1000 power.)",
-    "flavor": "\"Someday I'll be strong enough to wear battle armor! You'll see!\" -Mini Titan Gett",
+    "flavor": "\"Someday I'll be strong enough to wear battle armor! You'll see!\" —Mini Titan Gett",
     "illustrator": "Ittoku",
     "race": "Human",
     "power": "2000+"
@@ -2191,7 +2191,7 @@
     "type": "Evolution Creature",
     "cost": 2,
     "text": "Evolution - Put on one of your Beast Folk.\nWhile this creature is tapped, each of your other Beast Folk in the battle zone gets +2000 power.",
-    "flavor": "\"Rage leads to war. War leads to rage. Isn't it magical?\" -General Dark Fiend",
+    "flavor": "\"Rage leads to war. War leads to rage. Isn't it magical?\" —General Dark Fiend",
     "illustrator": "Tsutomu Kawade",
     "race": "Beast Folk",
     "power": "5000+"
@@ -2233,7 +2233,7 @@
     "type": "Creature",
     "cost": 9,
     "text": "When you put this creature into the battle zone, choose up to 2 cards in your opponent's mana zone and put them into his graveyard.",
-    "flavor": "\"Wow! I can't wait to disassemble this!\" -Nomad Hero Gigio",
+    "flavor": "\"Wow! I can't wait to disassemble this!\" —Nomad Hero Gigio",
     "illustrator": "Masaki Hirooka",
     "race": "Colony Beetle",
     "power": "5000"
@@ -2365,7 +2365,7 @@
     "type": "Evolution Creature",
     "cost": 6,
     "text": "Evolution - Put on one of your Parasite Worms. Double breaker (This creature breaks 2 shields.)",
-    "flavor": "\"Aww. My little Worm is all grown up.\" -Ballom, Master of Death",
+    "flavor": "\"Aww. My little Worm is all grown up.\" —Ballom, Master of Death",
     "illustrator": "Hikaru Ikusa",
     "race": "Parasite Worm",
     "power": "11000"
@@ -2444,7 +2444,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "When you put this creature into the battle zone, you may return a spell from your mana zone to your hand.",
-    "flavor": "\"Vizier of Brilliance, arise. Your fangs are swords of cleansing.\" -Hanusa, Radiance Elemental",
+    "flavor": "\"Vizier of Brilliance, arise. Your fangs are swords of cleansing.\" —Hanusa, Radiance Elemental",
     "illustrator": "Ryoya Yuki",
     "race": "Initiate",
     "power": "2000"
@@ -2524,7 +2524,7 @@
     "type": "Spell",
     "cost": 4,
     "text": "Add a card from your hand to your shields face down.",
-    "flavor": "\"The danger hasn't passed. But we have.\" -Miar, Comet Elemental",
+    "flavor": "\"The danger hasn't passed. But we have.\" —Miar, Comet Elemental",
     "illustrator": "Sansyu"
   },
   {
@@ -2536,7 +2536,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "While all the cards in your mana zone are light cards, this creature gets +2000 power.",
-    "flavor": "\"What will it do if it finds the sunlight?\" -Bloody Squito",
+    "flavor": "\"What will it do if it finds the sunlight?\" —Bloody Squito",
     "illustrator": "Naoki Saito",
     "race": "Mecha Thunder",
     "power": "2500+"
@@ -2645,7 +2645,7 @@
     "type": "Spell",
     "cost": 4,
     "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nLook at your opponent's hand and shields. Then put the shields back where they were.",
-    "flavor": "\"Let's find out if your brain is ticklish.\" -Legendary Bynor",
+    "flavor": "\"Let's find out if your brain is ticklish.\" —Legendary Bynor",
     "illustrator": "Akifumi Yamamoto"
   },
   {
@@ -3012,7 +3012,7 @@
     "type": "Evolution Creature",
     "cost": 4,
     "text": "Evolution - Put on one of your Giant Insects.\nWhenever another of your nature creatures would be put into your graveyard from the battle zone, put it into your mana zone instead.",
-    "flavor": "\"But I don't wanna be a tree!\" -Fear Fang",
+    "flavor": "\"But I don't wanna be a tree!\" —Fear Fang",
     "illustrator": "Katsuya",
     "race": "Giant Insect",
     "power": "5000"
@@ -3188,7 +3188,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "Double breaker (This creature breaks 2 shields.)\nWhenever this creature attacks, return all creatures from your mana zone to your hand.",
-    "flavor": "\"He's doing more damage to the forest than the Parasite Worms! Are you sure he's on our side?\" -Fighter Dual Fang",
+    "flavor": "\"He's doing more damage to the forest than the Parasite Worms! Are you sure he's on our side?\" —Fighter Dual Fang",
     "illustrator": "Yoshio Sugiura",
     "race": "Giant",
     "power": "8000"
@@ -3551,7 +3551,7 @@
     "type": "Spell",
     "cost": 8,
     "text": "Destroy up to 2 of your opponent's creatures.\nDestroy one of your creatures.",
-    "flavor": "\"The only thing stronger than my chains is your fear.\" -Trox, General of Destruction",
+    "flavor": "\"The only thing stronger than my chains is your fear.\" —Trox, General of Destruction",
     "illustrator": "Sansyu"
   },
   {
@@ -3563,7 +3563,7 @@
     "type": "Spell",
     "cost": 2,
     "text": "Put any number of cards from your mana zone into your graveyard. Then draw that many cards.",
-    "flavor": "\"Why don't mortals embrace despair? All my ghoul friends really seem to enjoy it.\" -Ballom, Master of Death",
+    "flavor": "\"Why don't mortals embrace despair? All my ghoul friends really seem to enjoy it.\" —Ballom, Master of Death",
     "illustrator": "Katsuya"
   },
   {
@@ -3727,7 +3727,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "While you have a darkness creature in the battle zone, this creature gets +2000 power.",
-    "flavor": "\"How dare you doubt me? I have called for reinforcements...from the Fire Realm.\" - Trox, General of Destruction",
+    "flavor": "\"How dare you doubt me? I have called for reinforcements...from the Fire Realm.\" — Trox, General of Destruction",
     "illustrator": "Ryoya Yuki",
     "race": "Dragonoid",
     "power": "2000+"
@@ -3783,7 +3783,7 @@
     "type": "Spell",
     "cost": 2,
     "text": "Discard any number of cards from your hand. Then choose the same number of your creatures in the battle zone. Each of those creatures gets \"double breaker\" until the end of the turn. (A creature that has \"double breaker\" breaks 2 shields.)",
-    "flavor": "\"They don't call me an arms dealer for nothing.\" -Engineer Pipo",
+    "flavor": "\"They don't call me an arms dealer for nothing.\" —Engineer Pipo",
     "illustrator": "Atsushi Kawasaki"
   },
   {
@@ -3835,7 +3835,7 @@
     "type": "Creature",
     "cost": 8,
     "text": "This creature can't be blocked by darkness creatures.\nDouble breaker (This creature breaks 2 shields.)",
-    "flavor": "\"I don't care how hugely, massively, gigantically big it is! Stop it before it gets to General Trox!\" -Zagaan, Knight of Darkness",
+    "flavor": "\"I don't care how hugely, massively, gigantically big it is! Stop it before it gets to General Trox!\" —Zagaan, Knight of Darkness",
     "illustrator": "Jason",
     "race": "Giant",
     "power": "9000"
@@ -3863,7 +3863,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "Each darkness creature costs 1 more to summon, and each darkness spell costs 1 more to cast.",
-    "flavor": "\"The only thing grosser than eating a mushroom is having a mushroom eat me.\" -Giliam the Tormentor",
+    "flavor": "\"The only thing grosser than eating a mushroom is having a mushroom eat me.\" —Giliam the Tormentor",
     "illustrator": "Masaki Hirooka",
     "race": "Balloon Mushroom",
     "power": "1000"
@@ -3877,7 +3877,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "While you have a light creature in the battle zone, this creature gets +2000 power.",
-    "flavor": "\"Eww! Now that's disgusting.\" - Mongrel Man",
+    "flavor": "\"Eww! Now that's disgusting.\" — Mongrel Man",
     "illustrator": "D-Suzuki",
     "race": "Tree Folk",
     "power": "2000+"
@@ -3903,7 +3903,7 @@
     "type": "Spell",
     "cost": 2,
     "text": "Each of your creatures in the battle zone gets +1000 power until the end of the turn for each light creature you have in the battle zone.",
-    "flavor": "\"Alcadeias has given us a great gift! We're saved! We're...ummm, can anyone lift that thing?\" - Fear Fang",
+    "flavor": "\"Alcadeias has given us a great gift! We're saved! We're...ummm, can anyone lift that thing?\" — Fear Fang",
     "illustrator": "Kou1"
   },
   {
@@ -4101,7 +4101,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "This creature can't be blocked by creatures that have power 4000 or more.",
-    "flavor": "\"Arise, Vizier of Rainclouds. Your lash is the blade of justice.\" -Hanusa, Radiance Elemental",
+    "flavor": "\"Arise, Vizier of Rainclouds. Your lash is the blade of justice.\" —Hanusa, Radiance Elemental",
     "illustrator": "Masaki Hirooka",
     "race": "Initiate",
     "power": "2000"
@@ -4211,7 +4211,7 @@
     "type": "Spell",
     "cost": 2,
     "text": "For each water creature you have in the battle zone, you may choose one of your opponent's creatures in the battle zone and tap it.",
-    "flavor": "\"When the device is activated, a net of electricity snares our enemies!\" -Syrius, Firmament Elemental",
+    "flavor": "\"When the device is activated, a net of electricity snares our enemies!\" —Syrius, Firmament Elemental",
     "illustrator": "Katsuya"
   },
   {
@@ -4237,7 +4237,7 @@
     "type": "Spell",
     "cost": 9,
     "text": "Each player returns all cards from his mana zone to his hand.",
-    "flavor": "\"The Megapocalypse has arrived. It's a bit early, huh?\" -Pokolul",
+    "flavor": "\"The Megapocalypse has arrived. It's a bit early, huh?\" —Pokolul",
     "illustrator": "D-Suzuki"
   },
   {
@@ -4263,7 +4263,7 @@
     "type": "Spell",
     "cost": 3,
     "text": "Whenever any of your creatures finishes attacking this turn, you may draw 2 cards for each shield it broke.",
-    "flavor": "\"Search high and low! We must find the jade idol! And while you're at it, see if you can find my car keys.\" -Tropico",
+    "flavor": "\"Search high and low! We must find the jade idol! And while you're at it, see if you can find my car keys.\" —Tropico",
     "illustrator": "Takesi Kuno"
   },
   {
@@ -4334,7 +4334,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "Survivor (Each of your Survivors has this creature's Survivor ability.) : Whenever this creature attacks, you may draw a card.",
-    "flavor": "\"No fair! The more Survivors there are, the stronger they become!\" -Mini Titan Gett",
+    "flavor": "\"No fair! The more Survivors there are, the stronger they become!\" —Mini Titan Gett",
     "illustrator": "Daisuke Izuka",
     "races": [
       "Survivor",
@@ -4396,7 +4396,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "While your opponent has no shields, this creature can't attack.",
-    "flavor": "\"Perhaps I went a little too far with the experiment....\" -Ballom, Master of Death",
+    "flavor": "\"Perhaps I went a little too far with the experiment....\" —Ballom, Master of Death",
     "illustrator": "Katsuya",
     "race": "Chimera",
     "power": "3000"
@@ -4438,7 +4438,7 @@
     "type": "Spell",
     "cost": 5,
     "text": "Look at your opponent's hand and choose a card from it. Your opponent discards that card.",
-    "flavor": "\"Everyone has secrets. Everyone but you.\" -Trox, General of Destruction",
+    "flavor": "\"Everyone has secrets. Everyone but you.\" —Trox, General of Destruction",
     "illustrator": "Hikaru Ikusa"
   },
   {
@@ -4467,7 +4467,7 @@
     "type": "Spell",
     "cost": 1,
     "text": "During your opponent's next turn, each of his creatures attacks if able.",
-    "flavor": "\"Hey, you're really getting the hang of that. Now make him do a little dance.\" -Dark Titan Maginn",
+    "flavor": "\"Hey, you're really getting the hang of that. Now make him do a little dance.\" —Dark Titan Maginn",
     "illustrator": "Daisuke Izuka"
   },
   {
@@ -4702,7 +4702,7 @@
     "type": "Spell",
     "cost": 4,
     "text": "Put up to 2 creatures from your graveyard into your mana zone.",
-    "flavor": "\"Souls don't truly depart this world. They merely rest for a time.\" -Fighter Dual Fang",
+    "flavor": "\"Souls don't truly depart this world. They merely rest for a time.\" —Fighter Dual Fang",
     "illustrator": "Akifumi Yamamoto"
   },
   {
@@ -4714,7 +4714,7 @@
     "type": "Creature",
     "cost": 6,
     "text": "This creature gets +1000 power for each water creature and darkness creature your opponent has in the battle zone.\nDouble breaker (This creature breaks 2 shields.)",
-    "flavor": "\"Sometimes he'll go hog wild at a party and totally pig out. But he's usually such a boar.\" -Fear Fang",
+    "flavor": "\"Sometimes he'll go hog wild at a party and totally pig out. But he's usually such a boar.\" —Fear Fang",
     "illustrator": "Akifumi Yamamoto",
     "race": "Horned Beast",
     "power": "6000+"
@@ -5012,7 +5012,7 @@
     "type": "Spell",
     "cost": 4,
     "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nTap all creatures in the battle zone that don't have \"blocker.\"",
-    "flavor": "\"Need a lift?\" -Kanesill, the Explorer",
+    "flavor": "\"Need a lift?\" —Kanesill, the Explorer",
     "illustrator": "Katsuya"
   },
   {
@@ -5162,7 +5162,7 @@
     "type": "Spell",
     "cost": 2,
     "text": "Look at your opponent's hand. He discards all darkness spells from it.",
-    "flavor": "\"Today's weather report calls for sunshine, with an 80 percent chance of kicking your butt.\" -Laveil, Seeker of Catastrophe",
+    "flavor": "\"Today's weather report calls for sunshine, with an 80 percent chance of kicking your butt.\" —Laveil, Seeker of Catastrophe",
     "illustrator": "Katsuhiko Kojoh"
   },
   {
@@ -5188,7 +5188,7 @@
     "type": "Spell",
     "cost": 4,
     "text": "If your opponent has more shields than you do, add the top card of your deck to your shields face down.",
-    "flavor": "\"It's immune to swords, lasers, flames, cannonballs, acid, missiles, battering rams, bee stings, paper cuts, little wooden sticks...\" - Telitol, the Explorer",
+    "flavor": "\"It's immune to swords, lasers, flames, cannonballs, acid, missiles, battering rams, bee stings, paper cuts, little wooden sticks...\" — Telitol, the Explorer",
     "illustrator": "Youichi Kai"
   },
   {
@@ -5256,7 +5256,7 @@
     "type": "Spell",
     "cost": 3,
     "text": "Draw 2 cards.",
-    "flavor": "\"Some computer programs attack our enemies. Some defend our cities. And some-the most perfect of all-just write more computer programs.\" -Emeral",
+    "flavor": "\"Some computer programs attack our enemies. Some defend our cities. And some-the most perfect of all-just write more computer programs.\" —Emeral",
     "illustrator": "Katsuya"
   },
   {
@@ -5337,7 +5337,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)\nThis creature can't attack.",
-    "flavor": "\"I see they've loosened the definition of 'fish.'\" -Cantankerous Giant",
+    "flavor": "\"I see they've loosened the definition of 'fish.'\" —Cantankerous Giant",
     "illustrator": "Akira Hamada",
     "race": "Gel Fish",
     "power": "3000"
@@ -5376,7 +5376,7 @@
     "type": "Creature",
     "cost": 7,
     "text": "Instead of having this creature attack, you may tap it to use its Tap ability. : Draw 2 cards.",
-    "flavor": "\"You can win more wars by thinking than you can by fighting.\" -Marinomancer",
+    "flavor": "\"You can win more wars by thinking than you can by fighting.\" —Marinomancer",
     "illustrator": "Sansyu",
     "race": "Cyber Cluster",
     "power": "4000"
@@ -5402,7 +5402,7 @@
     "rarity": "Common",
     "type": "Creature",
     "cost": 3,
-    "flavor": "\"It is my spy into the Survivor clan. They have accepted it as one of their own, and it has learned all their secrets.\" -Emperor Quazla",
+    "flavor": "\"It is my spy into the Survivor clan. They have accepted it as one of their own, and it has learned all their secrets.\" —Emperor Quazla",
     "illustrator": "D-Suzuki",
     "races": [
       "Survivor",
@@ -5419,7 +5419,7 @@
     "type": "Creature",
     "cost": 6,
     "text": "When you put this creature into the battle zone, count the cards in your hand, shuffle those cards into your deck, then draw that many cards.",
-    "flavor": "\"Its control chip is busted. Each time it blinks, I- Its control chip is busted. Each time it blinks, I-\" -Sopian",
+    "flavor": "\"Its control chip is busted. Each time it blinks, I- Its control chip is busted. Each time it blinks, I-\" —Sopian",
     "illustrator": "Atsushi Kawasaki",
     "race": "Gel Fish",
     "power": "3000"
@@ -5555,7 +5555,7 @@
     "type": "Spell",
     "cost": 4,
     "text": "Destroy one of your opponent's untapped creatures.",
-    "flavor": "\"Life is like this joke. It's very, very funny, and now it's over.\" -Trixo, Wicked Doll",
+    "flavor": "\"Life is like this joke. It's very, very funny, and now it's over.\" —Trixo, Wicked Doll",
     "illustrator": "Dustmoss"
   },
   {
@@ -5581,7 +5581,7 @@
     "type": "Spell",
     "cost": 7,
     "text": "Search your opponent's deck. Take up to 2 cards from his deck and put them into his graveyard. Then your opponent shuffles his deck.",
-    "flavor": "\"Look on the bright side. Next time a fortune-teller predicts your future, you can ask for a discount.\" -Schuka, Duke of Amnesia",
+    "flavor": "\"Look on the bright side. Next time a fortune-teller predicts your future, you can ask for a discount.\" —Schuka, Duke of Amnesia",
     "illustrator": "Dreamwave"
   },
   {
@@ -5651,7 +5651,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "Slayer (Whenever this creature battles, destroy the other creature after the battle.)",
-    "flavor": "\"That thing looks like it's eating its own face!\" -Mini Titan Gett",
+    "flavor": "\"That thing looks like it's eating its own face!\" —Mini Titan Gett",
     "illustrator": "Akifumi Yamamoto",
     "race": "Devil Mask",
     "power": "1000"
@@ -5838,7 +5838,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "Power attacker +3000 (While attacking, this creature gets +3000 power.)\nWhenever this creature becomes blocked, no battle happens. (Both creatures stay tapped.)",
-    "flavor": "\"I traded in my sport utility Gecko for a stretch Geckousine.\" - Artisan Picora",
+    "flavor": "\"I traded in my sport utility Gecko for a stretch Geckousine.\" — Artisan Picora",
     "illustrator": "Miho Midorikawa",
     "race": "Dune Gecko",
     "power": "3000+"
@@ -5893,7 +5893,7 @@
     "type": "Spell",
     "cost": 1,
     "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nDestroy one of your opponent's creatures that has \"blocker\" and power 6000 or less.",
-    "flavor": "\"The masters of subtlety are at it again.\" -Craze Valkyrie, the Drastic",
+    "flavor": "\"The masters of subtlety are at it again.\" —Craze Valkyrie, the Drastic",
     "illustrator": "Jason"
   },
   {
@@ -6039,7 +6039,7 @@
     "type": "Spell",
     "cost": 3,
     "text": "Destroy one of your opponent's creatures that has power 3000 or less.",
-    "flavor": "\"Hee hee! The missiles are having as much fun as I am!\" -Rikabu, the Dismantler",
+    "flavor": "\"Hee hee! The missiles are having as much fun as I am!\" —Rikabu, the Dismantler",
     "illustrator": "Iron Pot"
   },
   {
@@ -6079,7 +6079,7 @@
     "type": "Creature",
     "cost": 7,
     "text": "Double breaker (This creature breaks 2 shields.)",
-    "flavor": "\"I've been tracking an immense creature across the continent by following its huge footprints. One thing puzzles me, though-since when do footprints have thumbs?\" -Feather Horn, the Tracker",
+    "flavor": "\"I've been tracking an immense creature across the continent by following its huge footprints. One thing puzzles me, though-since when do footprints have thumbs?\" —Feather Horn, the Tracker",
     "illustrator": "Hisashi Momose",
     "race": "Giant",
     "power": "8000"
@@ -6171,7 +6171,7 @@
     "rarity": "Uncommon",
     "type": "Creature",
     "cost": 4,
-    "flavor": "\"If it's true that you are what you eat, it looks like somebody's been chowing down on way too many flamingos.\" -Kyuroro",
+    "flavor": "\"If it's true that you are what you eat, it looks like somebody's been chowing down on way too many flamingos.\" —Kyuroro",
     "illustrator": "Katsuhiko Kojoh",
     "race": "Horned Beast",
     "power": "4000"
@@ -6591,7 +6591,7 @@
     "type": "Spell",
     "cost": 4,
     "text": "Choose one of your opponent's creatures in the battle zone and tap it.\nCharger (After you cast this spell, put it into your mana zone instead of your graveyard.)",
-    "flavor": "\"The more they squirm, the more it tickles.\" -Miele, Vizier of Lightning",
+    "flavor": "\"The more they squirm, the more it tickles.\" —Miele, Vizier of Lightning",
     "illustrator": "Imo Kajii"
   },
   {
@@ -6642,7 +6642,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "When you put this creature into the battle zone, you may choose one of your opponent's creatures in the battle zone and tap it.",
-    "flavor": "\"Vizier of Tendrils, arise. Your grip is the beacon that leads the way.\" -Hanusa, Radiance Elemental",
+    "flavor": "\"Vizier of Tendrils, arise. Your grip is the beacon that leads the way.\" —Hanusa, Radiance Elemental",
     "illustrator": "Ken Sugawara",
     "race": "Initiate",
     "power": "2000"
@@ -6656,7 +6656,7 @@
     "type": "Creature",
     "cost": 6,
     "text": "Instead of having this creature attack, you may tap it to use its Tap ability. : Add one of your creatures from the battle zone to your shields face down.",
-    "flavor": "\"No fair! They flew in and sucked up all our lava! How can I take a bath now?\" -Artisan Picora",
+    "flavor": "\"No fair! They flew in and sucked up all our lava! How can I take a bath now?\" —Artisan Picora",
     "illustrator": "Akira Hamada",
     "race": "Gladiator",
     "power": "5000"
@@ -6711,7 +6711,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "When this creature is destroyed, you may draw a card.",
-    "flavor": "\"What's that smell?\" -Mighty Bandit",
+    "flavor": "\"What's that smell?\" —Mighty Bandit",
     "illustrator": "Akifumi Yamamoto",
     "race": "Sea Hacker",
     "power": "2000"
@@ -6739,7 +6739,7 @@
     "type": "Spell",
     "cost": 5,
     "text": "Choose a creature in the battle zone and return it to its owner's hand.\nCharger (After you cast this spell, put it into your mana zone instead of your graveyard.)",
-    "flavor": "\"Congratulations! You've won an all-expenses-paid trip to Anywhere Else. Thanks for playing!\" -Corile",
+    "flavor": "\"Congratulations! You've won an all-expenses-paid trip to Anywhere Else. Thanks for playing!\" —Corile",
     "illustrator": "Asai Genji"
   },
   {
@@ -6751,7 +6751,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "When you put this creature into the battle zone, return a card from your mana zone to your hand.\nThis creature can't be blocked.",
-    "flavor": "\"That's the only thing I've ever seen come out of a whirlpool.\" -Iere, Vizier of Bullets",
+    "flavor": "\"That's the only thing I've ever seen come out of a whirlpool.\" —Iere, Vizier of Bullets",
     "illustrator": "Norikatsu Miyoshi",
     "race": "Gel Fish",
     "power": "3000"
@@ -6779,7 +6779,7 @@
     "type": "Creature",
     "cost": 7,
     "text": "When you put this creature into the battle zone, you may add up to 2 cards from your hand to your shields face down. If you do, choose the same number of your shields and put them into your hand. You can't use the \"shield trigger\" ability of those shields.",
-    "flavor": "\"Better. . . . But let's add another eye.\" -Emeral",
+    "flavor": "\"Better. . . . But let's add another eye.\" —Emeral",
     "illustrator": "Nottsuo",
     "race": "Gel Fish",
     "power": "5000"
@@ -6807,7 +6807,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "Nature stealth (This creature can't be blocked while your opponent has any nature cards in his mana zone.)",
-    "flavor": "\"The strings that make it dance come from deep within the ground. Wait . . . that doesn't make any sense. . . .\" -Tangle Fist",
+    "flavor": "\"The strings that make it dance come from deep within the ground. Wait . . . that doesn't make any sense. . . .\" —Tangle Fist",
     "illustrator": "Imo Kajii",
     "race": "Death Puppet",
     "power": "2000"
@@ -6834,7 +6834,7 @@
     "type": "Spell",
     "cost": 5,
     "text": "Destroy one of your opponent's creatures.",
-    "flavor": "\"How do you know you won't like excruciating pain? Have you ever tried it?\" -Crath Lade, Merciless King",
+    "flavor": "\"How do you know you won't like excruciating pain? Have you ever tried it?\" —Crath Lade, Merciless King",
     "illustrator": "Shishizaru"
   },
   {
@@ -6846,7 +6846,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "Whenever this creature attacks, you may look at one of your opponent's shields. Then put it back where it was.",
-    "flavor": "\"The spies I send into the Darkness realm get caught when their teeth chatter in fear. I think I've solved the problem.\" -Kyuroro",
+    "flavor": "\"The spies I send into the Darkness realm get caught when their teeth chatter in fear. I think I've solved the problem.\" —Kyuroro",
     "illustrator": "Katsuya",
     "race": "Cyber Virus",
     "power": "1000"
@@ -6916,7 +6916,7 @@
     "type": "Spell",
     "cost": 4,
     "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nDestroy one of your opponent's untapped light or untapped nature creatures.",
-    "flavor": "\"I hope you're not allergic to slime. Nah, I'm just kidding.\" -Mongrel Man",
+    "flavor": "\"I hope you're not allergic to slime. Nah, I'm just kidding.\" —Mongrel Man",
     "illustrator": "Akifumi Yamamoto"
   },
   {
@@ -6939,7 +6939,7 @@
     "type": "Spell",
     "cost": 7,
     "text": "Destroy any number of your opponent's creatures that have total power 8000 or less.",
-    "flavor": "\"I've invented a fun new weight-loss machine! It's guaranteed to make you thinner, or your money back!\" -Rikabu, the Dismantler",
+    "flavor": "\"I've invented a fun new weight-loss machine! It's guaranteed to make you thinner, or your money back!\" —Rikabu, the Dismantler",
     "illustrator": "Hisashi Momose"
   },
   {
@@ -6979,7 +6979,7 @@
     "type": "Spell",
     "cost": 3,
     "text": "One of your creatures gets +2000 power until the end of the turn.\nCharger (After you cast this spell, put it into your mana zone instead of your graveyard.)",
-    "flavor": "\"Prepare the lava injection!\" -Sky Crusher, the Agitator",
+    "flavor": "\"Prepare the lava injection!\" —Sky Crusher, the Agitator",
     "illustrator": "Shishizaru"
   },
   {
@@ -7005,7 +7005,7 @@
     "type": "Creature",
     "cost": 8,
     "text": "Instead of having this creature attack, you may tap it to use its Tap ability. : Destroy one of your opponent's creatures that has power 2000 or less.",
-    "flavor": "\"Safety inspector? What's that?\" -Engineer Kipo",
+    "flavor": "\"Safety inspector? What's that?\" —Engineer Kipo",
     "illustrator": "Akifumi Yamamoto",
     "race": "Xenoparts",
     "power": "3000"
@@ -7047,7 +7047,7 @@
     "type": "Evolution Creature",
     "cost": 6,
     "text": "Evolution - Put on one of your Rock Beasts.\nWater stealth (This creature can't be blocked while your opponent has any water cards in his mana zone.)\nDouble breaker (This creature breaks 2 shields.)",
-    "flavor": "\"I liked him better when he was dormant.\" -Tropico",
+    "flavor": "\"I liked him better when he was dormant.\" —Tropico",
     "illustrator": "Taro Yamazaki",
     "race": "Rock Beast",
     "power": "9000"
@@ -7089,7 +7089,7 @@
     "type": "Creature",
     "cost": 6,
     "text": "Double breaker (This creature breaks 2 shields.)\nWhile this creature is tapped, your opponent can't use the \"shield trigger\" ability of his shields.",
-    "flavor": "\"He speaks in riddles. Or gibberish. I can't tell.\" -Fighter Dual Fang",
+    "flavor": "\"He speaks in riddles. Or gibberish. I can't tell.\" —Fighter Dual Fang",
     "illustrator": "Yoko Tsukamoto",
     "race": "Mystery Totem",
     "power": "6000"
@@ -7103,7 +7103,7 @@
     "type": "Spell",
     "cost": 3,
     "text": "Choose one of your opponent's water or darkness creatures in the battle zone. Your opponent puts that creature into his mana zone.",
-    "flavor": "\"Freeze 'em and squeeze 'em!\" -Garabon, the Glider",
+    "flavor": "\"Freeze 'em and squeeze 'em!\" —Garabon, the Glider",
     "illustrator": "Akira Hamada"
   },
   {
@@ -7167,7 +7167,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "Power attacker +1000 (While attacking, this creature gets +1000 power.)\nWater stealth (This creature can't be blocked while your opponent has any water cards in his mana zone.)",
-    "flavor": "\"See? The swimming lessons worked.\" -Fear Fang",
+    "flavor": "\"See? The swimming lessons worked.\" —Fear Fang",
     "illustrator": "Asai Genji",
     "race": "Horned Beast",
     "power": "3000+"
@@ -7222,7 +7222,7 @@
     "type": "Evolution Creature",
     "cost": 5,
     "text": "Evolution - Put on one of your Cyber Viruses.\nWhenever you draw the card at the start of your turn, you may draw an extra card.",
-    "flavor": "\"Time is circular. Yesterday is tomorrow. Last month is a week from Thursday. I have a headache.\" -Shtra",
+    "flavor": "\"Time is circular. Yesterday is tomorrow. Last month is a week from Thursday. I have a headache.\" —Shtra",
     "illustrator": "Taro Yamazaki",
     "race": "Cyber Virus",
     "power": "3000"
@@ -7355,7 +7355,7 @@
     "type": "Spell",
     "cost": 4,
     "text": "Choose one of your opponent's creatures in the battle zone and tap it. Then you may choose one of your creatures in the battle zone. If you do, it can't be blocked this turn.",
-    "flavor": "\"No, no, no! It's not a laser! It's a high-intensity, focused, optical beam! Of course, it needs a laser to work.\" -Ouks, Vizier of Restoration",
+    "flavor": "\"No, no, no! It's not a laser! It's a high-intensity, focused, optical beam! Of course, it needs a laser to work.\" —Ouks, Vizier of Restoration",
     "illustrator": "Takesi Kuno"
   },
   {
@@ -7501,7 +7501,7 @@
     "type": "Spell",
     "cost": 4,
     "text": "Draw a card.\nCharger (After you cast this spell, put it into your mana zone instead of your graveyard.)",
-    "flavor": "\"The expression is 'reach for the stars,' not 'reach for the mysterious ball of crackling electricity.'\" -Mighty Bandit"
+    "flavor": "\"The expression is 'reach for the stars,' not 'reach for the mysterious ball of crackling electricity.'\" —Mighty Bandit"
   },
   {
     "name": "Grape Globbo",
@@ -7512,7 +7512,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "When you put this creature into the battle zone, look at your opponent's hand.",
-    "flavor": "\"I'm quite fully protected from telepathic spies. Indeed, that's what my spiffy hat is for. Wha-hai!!!\" -Quixotic Hero Swine Snout",
+    "flavor": "\"I'm quite fully protected from telepathic spies. Indeed, that's what my spiffy hat is for. Wha-hai!!!\" —Quixotic Hero Swine Snout",
     "illustrator": "Daisuke Izuka",
     "race": "Cyber Virus",
     "power": "1000"
@@ -7526,7 +7526,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "Turbo rush (If any of your other creatures broke any shields this turn, this creature gets its ability until the end of the turn.) : This creature can't be blocked.",
-    "flavor": "\"Watch closely for the end of history.\" -Emperor Quazla",
+    "flavor": "\"Watch closely for the end of history.\" —Emperor Quazla",
     "illustrator": "Haccan",
     "race": "Gel Fish",
     "power": "3000"
@@ -7554,7 +7554,7 @@
     "type": "Spell",
     "cost": 7,
     "text": "Your creatures in the battle zone can't be blocked this turn.",
-    "flavor": "\"Analysis complete. Begin the assault!\" -Emperor Quazla",
+    "flavor": "\"Analysis complete. Begin the assault!\" —Emperor Quazla",
     "illustrator": "Jason"
   },
   {
@@ -7566,7 +7566,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)",
-    "flavor": "\"I knew the laws of nature could bend. I didn't know they could be twisted into a pretzel.\" -Mini Titan Gett",
+    "flavor": "\"I knew the laws of nature could bend. I didn't know they could be twisted into a pretzel.\" —Mini Titan Gett",
     "illustrator": "Fruit Parfait",
     "race": "Gel Fish",
     "power": "2000"
@@ -7752,7 +7752,7 @@
     "type": "Spell",
     "cost": 4,
     "text": "Until the end of the turn, each of your Dragonoids in the battle zone is an Armored Dragon in addition to its other races, gets +4000 power, and has \"double breaker (This creature breaks 2 shields).\"",
-    "flavor": "\"See what happens when you take your vitamins?\" -Pyrofighter Magnus",
+    "flavor": "\"See what happens when you take your vitamins?\" —Pyrofighter Magnus",
     "illustrator": "Norikatsu Miyoshi"
   },
   {
@@ -7898,7 +7898,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "Whenever this creature becomes blocked, you may put the top card of your deck into your mana zone.",
-    "flavor": "\"What a terrible, senseless tragedy! My flogoball team was winning!\" -Ballom, Master of Death",
+    "flavor": "\"What a terrible, senseless tragedy! My flogoball team was winning!\" —Ballom, Master of Death",
     "illustrator": "Katsuya",
     "race": "Colony Beetle",
     "power": "3000"
@@ -7925,7 +7925,7 @@
     "type": "Spell",
     "cost": 3,
     "text": "Each of your creatures in the battle zone gets +3000 power until the end of the turn.\nCharger (After you cast this spell, put it into your mana zone instead of your graveyard.)",
-    "flavor": "\"Step 1: Prepare for adventures. Step 2: Have adventures. Wha-hai!!!\" -Quixotic Hero Swine Snout",
+    "flavor": "\"Step 1: Prepare for adventures. Step 2: Have adventures. Wha-hai!!!\" —Quixotic Hero Swine Snout",
     "illustrator": "Syuichi Obata"
   },
   {
@@ -8194,7 +8194,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "When this creature would be destroyed, if another Kalute, Vizier of Eternity is in the battle zone, return this creature to your hand instead.",
-    "flavor": "\"Arise, Vizier of Eternity. Your aura is the poetry of time.\" -Hanusa, Radiance Elemental",
+    "flavor": "\"Arise, Vizier of Eternity. Your aura is the poetry of time.\" —Hanusa, Radiance Elemental",
     "illustrator": "Miya",
     "race": "Initiate",
     "power": "1000"
@@ -8236,7 +8236,7 @@
     "type": "Spell",
     "cost": 6,
     "text": "Add a card from your hand to your shields face down.\nCharger (After you cast this spell, put it into your mana zone instead of your graveyard.)",
-    "flavor": "\"We have a problem: I failed geometry.\" -Mini Titan Gett",
+    "flavor": "\"We have a problem: I failed geometry.\" —Mini Titan Gett",
     "illustrator": "Taro Yamazaki"
   },
   {
@@ -8313,7 +8313,7 @@
     "type": "Spell",
     "cost": 5,
     "text": "Choose a race. Creatures of that race can't be blocked this turn.",
-    "flavor": "\"The transdimensional warp portals are operational! I'll never have to drive to the laundromat again!\" -Sopian",
+    "flavor": "\"The transdimensional warp portals are operational! I'll never have to drive to the laundromat again!\" —Sopian",
     "illustrator": "Sansyu"
   },
   {
@@ -8352,7 +8352,7 @@
     "type": "Spell",
     "cost": 3,
     "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nLook at the top 4 cards of your deck. Put one of them into your hand, and put the rest on the bottom of your deck in any order.",
-    "flavor": "\"Ballom's death changes nothing. Keep digging to the core.\" -Emperor Maroll",
+    "flavor": "\"Ballom's death changes nothing. Keep digging to the core.\" —Emperor Maroll",
     "illustrator": "Norikatsu Miyoshi"
   },
   {
@@ -8378,7 +8378,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "Whenever this creature is attacking your opponent and isn't blocked, you may choose a creature in the battle zone and return it to its owner's hand.",
-    "flavor": "\"The heat-ray tentacle and the cold-ray tentacle are smashing successes. The lukewarm-ray tentacle needs some work.\" -Corile",
+    "flavor": "\"The heat-ray tentacle and the cold-ray tentacle are smashing successes. The lukewarm-ray tentacle needs some work.\" —Corile",
     "illustrator": "Daisuke Izuka",
     "race": "Cyber Cluster",
     "power": "2000"
@@ -8446,7 +8446,7 @@
     "type": "Spell",
     "cost": 4,
     "text": "Your opponent chooses one of his creatures in the battle zone or one of his shields and puts it into his graveyard.",
-    "flavor": "\"Evil has a healthy appetite. Death never stops stuffing its face. But nothing-nothing-is hungrier than hunger itself.\" -Stallob, the Lifequasher",
+    "flavor": "\"Evil has a healthy appetite. Death never stops stuffing its face. But nothing-nothing-is hungrier than hunger itself.\" —Stallob, the Lifequasher",
     "illustrator": "Katsuya"
   },
   {
@@ -8486,7 +8486,7 @@
     "type": "Spell",
     "cost": 3,
     "text": "Search a player's deck. You may take a card from that deck and put it into that player's graveyard. Then the player shuffles his deck.\nCharger (After you cast this spell, put it into your mana zone instead of your graveyard.)",
-    "flavor": "\"Life is short. And now it's shorter.\" -Azaghast, Tyrant of Shadows",
+    "flavor": "\"Life is short. And now it's shorter.\" —Azaghast, Tyrant of Shadows",
     "illustrator": "Katsuya"
   },
   {
@@ -8512,7 +8512,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "Instead of having this creature attack, you may tap it to use its Tap ability. : Choose a race. Each creature of that race gets \"slayer\" until the end of the turn. (Whenever a creature that has \"slayer\" battles, destroy the other creature after the battle.)",
-    "flavor": "\"Ewww. And I thought I was disgusting.\" -Gigazoul",
+    "flavor": "\"Ewww. And I thought I was disgusting.\" —Gigazoul",
     "illustrator": "Jason",
     "race": "Parasite Worm",
     "power": "1000"
@@ -8526,7 +8526,7 @@
     "type": "Spell",
     "cost": 5,
     "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nChoose a race. Return up to 3 creatures of that race from your graveyard to your hand.",
-    "flavor": "\"Don't just sit there like a corpse-get up and dance!\" -Bat Doctor",
+    "flavor": "\"Don't just sit there like a corpse-get up and dance!\" —Bat Doctor",
     "illustrator": "Norikatsu Miyoshi"
   },
   {
@@ -8552,7 +8552,7 @@
     "type": "Spell",
     "cost": 6,
     "text": "Destroy all creatures that have power 4000 or less.",
-    "flavor": "\"That's my kind of winter wonderland.\" -Bazagazeal Dragon",
+    "flavor": "\"That's my kind of winter wonderland.\" —Bazagazeal Dragon",
     "illustrator": "Taro Yamazaki"
   },
   {
@@ -8564,7 +8564,7 @@
     "type": "Spell",
     "cost": 1,
     "text": "Choose one of your creatures in the battle zone. Whenever that creature wins a battle this turn, untap it.",
-    "flavor": "\"The forces of Darkness conquered the Fiona Woods but never tamed it. Its twisted horrors of nature cost Ballom his life. Let me convince some friends to do a little gardening.\" -Chaotic Skyterror",
+    "flavor": "\"The forces of Darkness conquered the Fiona Woods but never tamed it. Its twisted horrors of nature cost Ballom his life. Let me convince some friends to do a little gardening.\" —Chaotic Skyterror",
     "illustrator": "Taro Yamazaki"
   },
   {
@@ -8684,7 +8684,7 @@
     "type": "Spell",
     "cost": 3,
     "text": "Choose a race. You may put any number of creatures of that race from your hand into your mana zone.",
-    "flavor": "\"It is time for a new forest. It is time for the sproutlings. I'll go get the freaky golden head-statue thing we always use for that.\" -Fighter Dual Fang",
+    "flavor": "\"It is time for a new forest. It is time for the sproutlings. I'll go get the freaky golden head-statue thing we always use for that.\" —Fighter Dual Fang",
     "illustrator": "Akifumi Yamamoto"
   },
   {
@@ -8696,7 +8696,7 @@
     "type": "Spell",
     "cost": 8,
     "text": "For each card in your mana zone, put a card from the top of your deck into your mana zone tapped.",
-    "flavor": "\"Fertilizer and plant food are decent, I guess, but a gigantic, floating megacrystal does the trick every time.\" -Tangle Fist, the Weaver",
+    "flavor": "\"Fertilizer and plant food are decent, I guess, but a gigantic, floating megacrystal does the trick every time.\" —Tangle Fist, the Weaver",
     "illustrator": "Toshiaki Takayama"
   },
   {
@@ -8775,7 +8775,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "Shield trigger (When this creature is put into your hand from your shield zone, you may summon it immediately for no cost.)\nPower attacker +3000 (While attacking, this creature gets +3000 power.)",
-    "flavor": "\"I hate it when my pets fill up on junk food.\" -Storm Wrangler, the Furious",
+    "flavor": "\"I hate it when my pets fill up on junk food.\" —Storm Wrangler, the Furious",
     "illustrator": "Atsushi Kawasaki",
     "race": "Giant Insect",
     "power": "2000+"
@@ -8803,7 +8803,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "When you put this creature into the battle zone, choose a race other than Mecha del Sol. Each creature of that race gets +4000 power.\nWhenever your opponent would choose a creature in the battle zone, he can't choose this one. (It can still be attacked and blocked.)",
-    "flavor": "\"When I awoke, I thought it was noon. Then I realized the sun was still down . . . but Petrova was overhead.\" -Fear Fang",
+    "flavor": "\"When I awoke, I thought it was noon. Then I realized the sun was still down . . . but Petrova was overhead.\" —Fear Fang",
     "illustrator": "Toshiaki Takayama",
     "race": "Mecha Del Sol",
     "power": "3500"
@@ -8885,7 +8885,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "This creature gets +2000 power for each of your other untapped creatures in the battle zone.\nWhen this creature would be destroyed, shuffle it into your deck instead.",
-    "flavor": "\"Why can't there ever be a nice, fun reign of chaos without some sort of righteous avenger emerging?\" -Gajirabute, Vile Centurion",
+    "flavor": "\"Why can't there ever be a nice, fun reign of chaos without some sort of righteous avenger emerging?\" —Gajirabute, Vile Centurion",
     "illustrator": "Naoki Saito",
     "race": "Mecha Del Sol",
     "power": "2000+"
@@ -8927,7 +8927,7 @@
     "type": "Creature",
     "cost": 6,
     "text": "Double breaker (This creature breaks 2 shields.)\nSilent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its ability.) : This creature breaks 2 of your opponent's shields.",
-    "flavor": "\"Even I'm scared of that thing.\" -Gajirabute, Vile Centurion",
+    "flavor": "\"Even I'm scared of that thing.\" —Gajirabute, Vile Centurion",
     "illustrator": "Vai",
     "race": "Pandora's Box",
     "power": "6000"
@@ -9221,7 +9221,7 @@
     "type": "Spell",
     "cost": 2,
     "text": "Each player chooses one of his creatures in the battle zone. Tap the rest of the creatures in the battle zone.",
-    "flavor": "\"Ready for a fair fight? Me neither.\" -Bluum Erkis, Flare Guardian",
+    "flavor": "\"Ready for a fair fight? Me neither.\" —Bluum Erkis, Flare Guardian",
     "illustrator": "Norikatsu Miyoshi"
   },
   {
@@ -9273,7 +9273,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)\nThis creature can't attack.",
-    "flavor": "\"I programmed it to fire missiles randomly every hour. What's the worst it can hit? Land?\" -Milporo",
+    "flavor": "\"I programmed it to fire missiles randomly every hour. What's the worst it can hit? Land?\" —Milporo",
     "illustrator": "Nakagawa",
     "race": "Cyber Cluster",
     "power": "3000"
@@ -9287,7 +9287,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "This creature gets +1000 power for each tapped card in your opponent's mana zone.",
-    "flavor": "\"I'm not quite sure what I'm going to do with it yet. But it won me an award at this year's mad-scientist convention!\" - Zaltan",
+    "flavor": "\"I'm not quite sure what I'm going to do with it yet. But it won me an award at this year's mad-scientist convention!\" — Zaltan",
     "illustrator": "Miho Midorikawa",
     "race": "Gel Fish",
     "power": "1000+"
@@ -9567,7 +9567,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)\nThis creature can't attack.",
-    "flavor": "\"It's not gonna sneak up on anyone, that's for sure.\" -Scowling Tomato",
+    "flavor": "\"It's not gonna sneak up on anyone, that's for sure.\" —Scowling Tomato",
     "illustrator": "Iron Pot",
     "race": "Death Puppet",
     "power": "2000"
@@ -9635,7 +9635,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "At the start of each of your opponent's turns, he chooses one of his creatures in the battle zone that can attack. That creature attacks that turn if able.",
-    "flavor": "\"And I thought fleas were bad. . . .\" -Fear Fang",
+    "flavor": "\"And I thought fleas were bad. . . .\" —Fear Fang",
     "illustrator": "Ippei Soeda",
     "race": "Brain Jacker",
     "power": "2000"
@@ -9675,7 +9675,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its ability.) : This creature breaks one of your opponent's shields.",
-    "flavor": "\"Why do we need the snake when we can just have the venom?\" -Uliya, the Entrancer",
+    "flavor": "\"Why do we need the snake when we can just have the venom?\" —Uliya, the Entrancer",
     "illustrator": "Naoki Saito",
     "race": "Brain Jacker",
     "power": "1000"
@@ -9756,7 +9756,7 @@
     "rarity": "Common",
     "type": "Creature",
     "cost": 3,
-    "flavor": "\"Oh, man! I don't like being crushed or burned!\" - Golden Wing Striker",
+    "flavor": "\"Oh, man! I don't like being crushed or burned!\" — Golden Wing Striker",
     "illustrator": "Jason",
     "race": "Rock Beast",
     "power": "3000"
@@ -9770,7 +9770,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "When you put this creature into the battle zone, if your opponent has 2 or fewer shields, you may destroy one of your opponent's creatures that has power 3000 or less.",
-    "flavor": "\"There are things in the world worse than Zalmez. I can't think of many, though.\" -Tide Patroller",
+    "flavor": "\"There are things in the world worse than Zalmez. I can't think of many, though.\" —Tide Patroller",
     "illustrator": "Sansyu",
     "race": "Armorloid",
     "power": "2000"
@@ -9784,7 +9784,7 @@
     "type": "Spell",
     "cost": 3,
     "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it for no cost.)\nEach of your opponent's creatures gets \"This creature attacks if able\" until the start of your next turn.",
-    "flavor": "\"At least the ride up is fun.\" -Engineer Kipo",
+    "flavor": "\"At least the ride up is fun.\" —Engineer Kipo",
     "illustrator": "Ippei Soeda"
   },
   {
@@ -9796,7 +9796,7 @@
     "type": "Creature",
     "cost": 6,
     "text": "Shield trigger (When this creature is put into your hand from your shield zone, you may summon it for no cost.)\nWhen you put this creature into the battle zone, destroy one of your opponent's creatures that has power 1000 or less.",
-    "flavor": "\"That is disgusting on so many levels.\" -Emeral",
+    "flavor": "\"That is disgusting on so many levels.\" —Emeral",
     "illustrator": "Hisashi Momose",
     "race": "Rock Beast",
     "power": "2000"
@@ -9838,7 +9838,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "Each of your darkness creatures and nature creatures in the battle zone has \"speed attacker.\" (A creature that has \"speed attacker\" doesn't get summoning sickness.)",
-    "flavor": "\"I was tinkering with a rainbow shard in my workshop, and you'll never guess what happened! Oh. You guessed.\" -Shock Trooper Mykee",
+    "flavor": "\"I was tinkering with a rainbow shard in my workshop, and you'll never guess what happened! Oh. You guessed.\" —Shock Trooper Mykee",
     "illustrator": "Iron Pot",
     "race": "Xenoparts",
     "power": "2000"
@@ -9864,7 +9864,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "While attacking, this creature gets +1000 power for each of your other tapped creatures in the battle zone.",
-    "flavor": "\"A tank? A tank is something you keep fish in. This is a TANK.\" -Mini Titan Gett",
+    "flavor": "\"A tank? A tank is something you keep fish in. This is a TANK.\" —Mini Titan Gett",
     "illustrator": "Shishizaru",
     "race": "Armorloid",
     "power": "3000+"
@@ -9878,7 +9878,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "This creature can attack untapped creatures.\nWhenever this creature attacks a creature that has power 6000 or more, this creature gets +9000 power until the end of the turn.",
-    "flavor": "\"They grow up so fast. Unfortunately.\" -Urth, Purifying Elemental",
+    "flavor": "\"They grow up so fast. Unfortunately.\" —Urth, Purifying Elemental",
     "illustrator": "Nottsuo",
     "race": "Armorloid",
     "power": "1000+"
@@ -9892,7 +9892,7 @@
     "type": "Spell",
     "cost": 1,
     "text": "One of your creatures in the battle zone gets \"speed attacker\" until the end of the turn. (It doesn't get summoning sickness.)",
-    "flavor": "\"Faster than the speed of sound? Check. Faster than the speed of light? I'm gonna need a couple more weeks on that one.\" -Bombat, General of Speed",
+    "flavor": "\"Faster than the speed of sound? Check. Faster than the speed of light? I'm gonna need a couple more weeks on that one.\" —Bombat, General of Speed",
     "illustrator": "\tAkifumi Yamamoto"
   },
   {
@@ -10147,7 +10147,7 @@
     "type": "Creature",
     "cost": 6,
     "text": "While attacking, this creature gets +2000 power for each tapped card in your mana zone.",
-    "flavor": "\"Oh, dear, that horn could put someone's eye out! Er, I mean, I gotta ride me one of those!\" -Adventure Boar (formerly Caution Boar)",
+    "flavor": "\"Oh, dear, that horn could put someone's eye out! Er, I mean, I gotta ride me one of those!\" —Adventure Boar (formerly Caution Boar)",
     "illustrator": "Taro Yamazaki",
     "race": "Horned Beast",
     "power": "2000+"
@@ -10789,7 +10789,7 @@
     "type": "Spell",
     "cost": 2,
     "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it for no cost.)\nDraw up to 2 cards. Then discard a card from your hand.",
-    "flavor": "\"Effective? Yes. Subtle? Not so much.\" -Zaltan",
+    "flavor": "\"Effective? Yes. Subtle? Not so much.\" —Zaltan",
     "illustrator": "Sansyu"
   },
   {
@@ -10857,7 +10857,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its Silent skill ability.) : Return up to 3 cards from your mana zone to your hand.",
-    "flavor": "\"The quest for knowledge will never end. It might take a break every now and then-maybe sneak in a quick nap-but end? Never!\" -Milporo",
+    "flavor": "\"The quest for knowledge will never end. It might take a break every now and then-maybe sneak in a quick nap-but end? Never!\" —Milporo",
     "illustrator": "D-Suzuki",
     "race": "Cyber Moon",
     "power": "4000"
@@ -10926,7 +10926,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its Silent skill ability.) : Look at your opponent's hand and choose a card from it. Your opponent discards that card.",
-    "flavor": "\"Be careful when you gaze into the darkness. It might gaze back.\" -Yuliana, Channeler of Suns",
+    "flavor": "\"Be careful when you gaze into the darkness. It might gaze back.\" —Yuliana, Channeler of Suns",
     "illustrator": "Eiji Kaneda",
     "race": "Ghost",
     "power": "3000"
@@ -11018,7 +11018,7 @@
     "type": "Creature",
     "cost": 6,
     "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : When you put this creature into the battle zone, destroy up to 2 of your opponent's creatures that have \"blocker.\"",
-    "flavor": "\"Everything was under control until I tried to roast marshmallows on it.\" -Aqua Trickster",
+    "flavor": "\"Everything was under control until I tried to roast marshmallows on it.\" —Aqua Trickster",
     "illustrator": "Toshiaki Takayama",
     "race": "Melt Warrior",
     "power": "4000"
@@ -11032,7 +11032,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "Shield trigger (When this creature is put into your hand from your shield zone, you may summon it for no cost.)",
-    "flavor": "\"It's just what I need for slicing cheese, trimming hedges, and turning ultra-armored sky tanks into scrap metal.\" -Brad, Super Kickin' Dynamo",
+    "flavor": "\"It's just what I need for slicing cheese, trimming hedges, and turning ultra-armored sky tanks into scrap metal.\" —Brad, Super Kickin' Dynamo",
     "illustrator": "Katsuya",
     "race": "Xenoparts",
     "power": "1000"
@@ -11074,7 +11074,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "This creature attacks each turn if able.\nPower attacker +3000 (While attacking, this creature gets +3000 power.)",
-    "flavor": "\"Of course it's hot headed! The coolest its head ever gets is 800 degrees!\" -Tajimal, Vizier of Aqua",
+    "flavor": "\"Of course it's hot headed! The coolest its head ever gets is 800 degrees!\" —Tajimal, Vizier of Aqua",
     "illustrator": "Yoko Tsukamoto",
     "race": "Melt Warrior",
     "power": "3000+"
@@ -11102,7 +11102,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "Players can't use the  abilities of their creatures.",
-    "flavor": "\"Melt Warriors have more in common with salamanders, the mythical fire spirits, than they do with lizards. Unfortunately, they're not nearly as mythical.\" -Hokira",
+    "flavor": "\"Melt Warriors have more in common with salamanders, the mythical fire spirits, than they do with lizards. Unfortunately, they're not nearly as mythical.\" —Hokira",
     "illustrator": "Naoki Saito",
     "race": "Melt Warrior",
     "power": "3000"
@@ -11130,7 +11130,7 @@
     "type": "Spell",
     "cost": 4,
     "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it for no cost.)\nDestroy one of your opponent's creatures that has power 3000 or less.",
-    "flavor": "\"To be honest, we don't really know if it's ten tons. Whenever we try to weigh it, the scale breaks.\" -Slaphappy Soldier",
+    "flavor": "\"To be honest, we don't really know if it's ten tons. Whenever we try to weigh it, the scale breaks.\" —Slaphappy Soldier",
     "illustrator": "Haccan"
   },
   {
@@ -11142,7 +11142,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "At the end of each of your turns, if this creature broke any shields that turn, return it to your hand.",
-    "flavor": "\"Hrmph! The situation didn't get hazardous until it hopped here.\" -Scowling Tomato",
+    "flavor": "\"Hrmph! The situation didn't get hazardous until it hopped here.\" —Scowling Tomato",
     "illustrator": "Nakagawa",
     "race": "Giant Insect",
     "power": "5000"
@@ -11281,7 +11281,7 @@
     "type": "Spell",
     "cost": 3,
     "text": "(This spell is put into your mana zone tapped.)\nWhenever you summon a creature this turn, search your deck. You may take a creature from your deck that has the same name as that creature and put it into the battle zone. Then shuffle your deck.",
-    "flavor": "\"The 5:15 rift in the universe is early today.\" -Techno Totem",
+    "flavor": "\"The 5:15 rift in the universe is early today.\" —Techno Totem",
     "illustrator": "Takesi Kuno"
   },
   {
@@ -11296,7 +11296,7 @@
     "type": "Spell",
     "cost": 4,
     "text": "(This spell is put into your mana zone tapped.)\nChoose one of your opponent's non-evolution creatures in the battle zone and return it to his hand. Then he discards a card at random from his hand.",
-    "flavor": "\"Brace yourselves! It's a Class 5 Metaphor!\" -Shaman Broccoli",
+    "flavor": "\"Brace yourselves! It's a Class 5 Metaphor!\" —Shaman Broccoli",
     "illustrator": "Koji Harada"
   },
   {
@@ -11326,7 +11326,7 @@
     "type": "Spell",
     "cost": 5,
     "text": "(This spell is put into your mana zone tapped.)\nChoose a card in your opponent's mana zone and put it into his graveyard. Then put the top card of your deck into your mana zone.",
-    "flavor": "\"Only those who don't understand call it chaos. The rest call it life.\" -Gonta, the Warrior Savage",
+    "flavor": "\"Only those who don't understand call it chaos. The rest call it life.\" —Gonta, the Warrior Savage",
     "illustrator": "Norikatsu Miyoshi"
   },
   {
@@ -11352,7 +11352,7 @@
     "type": "Creature",
     "cost": 7,
     "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : When you put this creature into the battle zone, each player draws a card for each of his creatures in the battle zone that has \"wave striker.\"",
-    "flavor": "\"Now you see why I failed biology.\" -Gankloak, Rogue Commando",
+    "flavor": "\"Now you see why I failed biology.\" —Gankloak, Rogue Commando",
     "illustrator": "Taro Yamazaki",
     "race": "Sea Hacker",
     "power": "4000"
@@ -11422,7 +11422,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "When you put this creature into the battle zone, return all your other creatures from the battle zone to your hand.\nDouble breaker (When this creature breaks shield, it break 2 shields).",
-    "flavor": "\"For thousands of years, our wisest scholars grappled with the question, 'How many tentacles is too many?' Turns out the answer is 5.\" - Uncanny Turnip",
+    "flavor": "\"For thousands of years, our wisest scholars grappled with the question, 'How many tentacles is too many?' Turns out the answer is 5.\" — Uncanny Turnip",
     "illustrator": "Sansyu",
     "race": "Earth Eater",
     "power": "7000"
@@ -11494,7 +11494,7 @@
     "type": "Spell",
     "cost": 1,
     "text": "Your opponent chooses one of your shields. Look at it. If it's a spell, you may cast immediately for no cost. If it's not a spell or if you don't cast it, put it back where it was.",
-    "flavor": "\"This is even more fun that Cosmic Tic-Tac-Toe!\" - Pharzi, the Oracle",
+    "flavor": "\"This is even more fun that Cosmic Tic-Tac-Toe!\" — Pharzi, the Oracle",
     "illustrator": "Katsuya"
   },
   {
@@ -11506,7 +11506,7 @@
     "type": "Creature",
     "cost": 6,
     "text": "This creature can't be attacked by fire or nature creatures.",
-    "flavor": "\"If you go outside, bring a raincoat, an umbrella, and an anchor.\" - Wise Starnoid, Avatar of Hope",
+    "flavor": "\"If you go outside, bring a raincoat, an umbrella, and an anchor.\" — Wise Starnoid, Avatar of Hope",
     "illustrator": "Seki",
     "race": "Earth Eater",
     "power": "5000"
@@ -11534,7 +11534,7 @@
     "type": "Creature",
     "cost": 6,
     "text": "At the end of each turn, if your opponent drew 2 or more cards that turn, he discards his hand.",
-    "flavor": "\"The specimen is particularly ruthless. Tests have shown that it has no 'ruth' whatsoever.\" - Meloppe",
+    "flavor": "\"The specimen is particularly ruthless. Tests have shown that it has no 'ruth' whatsoever.\" — Meloppe",
     "illustrator": "Naoki Saito",
     "race": "Chimera",
     "power": "3000"
@@ -11576,7 +11576,7 @@
     "type": "Spell",
     "cost": 6,
     "text": "Choose a number less than or equal to 6000. Destroy all creatures that have that power.",
-    "flavor": "\"Yes! After three long years of neverending work, my invention is a complete success! Now we can finally start the barbecue!\" - Rikabu, the Dismantler",
+    "flavor": "\"Yes! After three long years of neverending work, my invention is a complete success! Now we can finally start the barbecue!\" — Rikabu, the Dismantler",
     "illustrator": "Akira Hamada"
   },
   {
@@ -11588,7 +11588,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "This creature gets +2000 power for each card in your opponent's hand.\nWhile this creature has power 6000 or more, it has \"double breaker (this creature breaks 2 shields).\"",
-    "flavor": "\"Its pincers are so sharp, they can cut clouds in half.\" - Aura Pegasus, Avatar of Life",
+    "flavor": "\"Its pincers are so sharp, they can cut clouds in half.\" — Aura Pegasus, Avatar of Life",
     "illustrator": "Shukei",
     "race": "Giant Insect",
     "power": "1000+"
@@ -11748,7 +11748,7 @@
     "type": "Spell",
     "cost": 4,
     "text": "Discard any number of cards from your hand. Then draw that many cards.",
-    "flavor": "\"The worst news can turn out to be the best news. Once you're at the bottom of the waterfall, there's nowhere you can fall from there.\" - Meloppe",
+    "flavor": "\"The worst news can turn out to be the best news. Once you're at the bottom of the waterfall, there's nowhere you can fall from there.\" — Meloppe",
     "illustrator": "Eiji Kaneda"
   },
   {
@@ -11760,7 +11760,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "Shield Trigger (When this creature is put into your hand from your shield zone, you may summon it immediately for no cost.)\nWhen you put this creature into the battle zone, your opponent discards a card at random from his hand.",
-    "flavor": "\"It comes in handy.\" - Necrodragon Jagraveen",
+    "flavor": "\"It comes in handy.\" — Necrodragon Jagraveen",
     "illustrator": "Nakagawa",
     "race": "Chimera",
     "power": "1000"
@@ -11774,7 +11774,7 @@
     "type": "Spell",
     "cost": 3,
     "text": "Choose a card at random from opponent's hand. Then, for each Cloned Nightmare in each graveyard, you may choose another card at random from opponent's hand. Your opponent discards all those cards.",
-    "flavor": "\"You can't hide from yourself.\" - Death Phoenix, Avatar of Doom",
+    "flavor": "\"You can't hide from yourself.\" — Death Phoenix, Avatar of Doom",
     "illustrator": "Kou1"
   },
   {
@@ -11786,7 +11786,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "This creature can attack untapped creatures.",
-    "flavor": "\"Ah, my finest creation! Not only is 80 percent of its body made of blades, it's got a corkscrew and a bottle opener as well!\" - Muramasa, Duke of Blades",
+    "flavor": "\"Ah, my finest creation! Not only is 80 percent of its body made of blades, it's got a corkscrew and a bottle opener as well!\" — Muramasa, Duke of Blades",
     "illustrator": "Katsuya",
     "race": "Xenoparts",
     "power": "2000"
@@ -11800,7 +11800,7 @@
     "type": "Spell",
     "cost": 5,
     "text": "Choose an opponent's creature in the battle zone that has power 3000 or less. Then, for each Cloned Blade in each graveyard, you may choose another opponent's creature in the battle zone that has power 3000 or less. Destroy all those creatures.",
-    "flavor": "\"If you can avoid getting decapitated by it, it's totally fun to ride!\" - Whirling Warrior Malian",
+    "flavor": "\"If you can avoid getting decapitated by it, it's totally fun to ride!\" — Whirling Warrior Malian",
     "illustrator": "Akifumi Yamamoto"
   },
   {
@@ -11812,7 +11812,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "Whenever your draw the card at the start of your turn, if one of your creatures in the battle zone has higher power then each of your opponent's creatures in the battle zone, you may draw an extra card.",
-    "flavor": "\"Quick, someone get a 10-story flyswatter!\" - Punch Trooper Bronks",
+    "flavor": "\"Quick, someone get a 10-story flyswatter!\" — Punch Trooper Bronks",
     "illustrator": "Miho Midorikawa",
     "race": "Giant Insect",
     "power": "3000"
@@ -11843,7 +11843,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "(This creature is put into your mana zone tapped.)",
-    "flavor": "\"Since he was fed up with being classified as a UFO - an unidentified flying object - I advised Syrion to introduce himself to every living being on the planet. Now that he's an IFO - an identified flying object - he gets invited to a lot more parties.\" - Wise Starnoid, Avatar of Hope",
+    "flavor": "\"Since he was fed up with being classified as a UFO - an unidentified flying object - I advised Syrion to introduce himself to every living being on the planet. Now that he's an IFO - an identified flying object - he gets invited to a lot more parties.\" — Wise Starnoid, Avatar of Hope",
     "illustrator": "Toshiaki Takayama",
     "races": [
       "Gladiator",
@@ -11863,7 +11863,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "(This creature is put into your mana zone tapped.)",
-    "flavor": "\"The difference between reality and illusion is important to understand, except when you're in the middle of being squashed flat by a gigantic illusion. At that point it doesn't matter very much that it isn't real.\" - Cruel Naga, Avatar of Fate",
+    "flavor": "\"The difference between reality and illusion is important to understand, except when you're in the middle of being squashed flat by a gigantic illusion. At that point it doesn't matter very much that it isn't real.\" — Cruel Naga, Avatar of Fate",
     "illustrator": "Masaki Hirooka",
     "races": [
       "Merfolk",
@@ -11883,7 +11883,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "(This creature is put into your mana zone tapped.)",
-    "flavor": "\"I like this planet. It's full of horrible little surprises. I was planning to destroy it in a fiery cataclysm of death, but maybe I'll do a little sightseeing first.\" - Death Phoenix, Avatar of Doom",
+    "flavor": "\"I like this planet. It's full of horrible little surprises. I was planning to destroy it in a fiery cataclysm of death, but maybe I'll do a little sightseeing first.\" — Death Phoenix, Avatar of Doom",
     "illustrator": "Yarunoca",
     "races": [
       "Chimera",
@@ -11903,7 +11903,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "(This creature is put into your mana zone tapped.)",
-    "flavor": "\"Buzz Betocchi is supposed to be my guide on this planet. Have you ever tried to have a conversation with someone whose language is half chirping and half buzzing? I gave up a week ago and just started wearing earplugs.\" - Soul Phoenix, Avatar of Unity",
+    "flavor": "\"Buzz Betocchi is supposed to be my guide on this planet. Have you ever tried to have a conversation with someone whose language is half chirping and half buzzing? I gave up a week ago and just started wearing earplugs.\" — Soul Phoenix, Avatar of Unity",
     "illustrator": "Akifumi Yamamoto",
     "races": [
       "Fire Bird",
@@ -11923,7 +11923,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "(This creature is put into your mana zone tapped.)",
-    "flavor": "\"It has one of the most important jobs on the planet - it patrols rainbows. It checks the curvature, makes sure all the colors are in order, that sort of thing. Once orange went missing for a whole month, but Glitalis tracked it down. It always does.\" - Aura Pegasus, Avatar of Life",
+    "flavor": "\"It has one of the most important jobs on the planet - it patrols rainbows. It checks the curvature, makes sure all the colors are in order, that sort of thing. Once orange went missing for a whole month, but Glitalis tracked it down. It always does.\" — Aura Pegasus, Avatar of Life",
     "illustrator": "Shishizaru",
     "races": [
       "Horned Beast",
@@ -11940,7 +11940,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "When this creature would be discarded from your hand during your opponent's turn, you may put it into the battle zone instead.",
-    "flavor": "\"I thought it was a shooting star. . .until it changed direction.\" - Gigappi Ponto",
+    "flavor": "\"I thought it was a shooting star. . .until it changed direction.\" — Gigappi Ponto",
     "illustrator": "Katsuhiko Kojoh",
     "race": "Gladiator",
     "power": "4000"
@@ -11954,7 +11954,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "When you put this creature is put into the battle zone, you may choose a darkness or fire creature in the battle zone and tap it.",
-    "flavor": "\"Plasmoparticles are disgusting. Electrification is freaky. Electrofied plasmoparticles? That's just crossing the line.\" - Death Phoenix, Avatar of Doom",
+    "flavor": "\"Plasmoparticles are disgusting. Electrification is freaky. Electrofied plasmoparticles? That's just crossing the line.\" — Death Phoenix, Avatar of Doom",
     "illustrator": "Katsuya",
     "race": "Light Bringer",
     "power": "2500"
@@ -12064,7 +12064,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "When you put this card into the battle zone, your may return a water or fire creature from your graveyard to your hand.",
-    "flavor": "\"Life is not the only fragile, random thing on earth. Look at death, for example.\" - Cruel Naga, Avatar of Fate",
+    "flavor": "\"Life is not the only fragile, random thing on earth. Look at death, for example.\" — Cruel Naga, Avatar of Fate",
     "illustrator": "Miho Midorikawa",
     "race": "Chimera",
     "power": "2000"
@@ -12120,7 +12120,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "Speed Attacker (This creature doesn't get Summoning Sickness).\nPower attacker +4000 (While attacking, this creature gets +4000 power).",
-    "flavor": "\"It's amazing - it's faster than the speed of time!\" - Soul Phoenix, Avatar of Unity",
+    "flavor": "\"It's amazing - it's faster than the speed of time!\" — Soul Phoenix, Avatar of Unity",
     "illustrator": "Miya",
     "race": "Armorloid",
     "power": "1000+"
@@ -12148,7 +12148,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "Whenever another creature is put into the battle zone, tap this creature.",
-    "flavor": "\"It can staple trees, rocks, tanks, skyscrapers, diamonds, battleships, missles, cows, bridges, mutant cows, other staplers, and mutant zombie cows. Just about everything but paper, really.\" - Armored Raider Gandaval",
+    "flavor": "\"It can staple trees, rocks, tanks, skyscrapers, diamonds, battleships, missles, cows, bridges, mutant cows, other staplers, and mutant zombie cows. Just about everything but paper, really.\" — Armored Raider Gandaval",
     "illustrator": "Ken Sugawara",
     "race": "Xenoparts",
     "power": "3000"
@@ -12176,7 +12176,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "Whenever your opponent uses the \"shield trigger\" ability of one of his shields, search your deck. You may take a creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.",
-    "flavor": "\"It's amazing - it's slower than the speed of time!\" - Soul Phoenix, Avatar of Unity",
+    "flavor": "\"It's amazing - it's slower than the speed of time!\" — Soul Phoenix, Avatar of Unity",
     "illustrator": "Ippei Soeda",
     "race": "Horned Beast",
     "power": "2000"
@@ -12218,7 +12218,7 @@
     "type": "Creature",
     "cost": 8,
     "text": "Double Breaker (This creature breaks 2 shields).\nWhen this creature would be discarded from your hand during your opponent's turn you may put it into the battle zone instead.",
-    "flavor": "\"Are we being attacked by a Dragon, or did a garden just explode?\" - Hydrooze, the Mutant Emperor",
+    "flavor": "\"Are we being attacked by a Dragon, or did a garden just explode?\" — Hydrooze, the Mutant Emperor",
     "illustrator": "Naoki Saito",
     "race": "Earth Dragon",
     "power": "6000"
@@ -12415,7 +12415,7 @@
     "rarity": "Rare",
     "type": "Creature",
     "cost": 4,
-    "text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its Silent skill ability.) : Whenever one of your creature attacks this turn, you may draw a card.",
+    "text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its $silent_skill ability.)\n$silent_skill Whenever one of your creature attacks this turn, you may draw a card.",
     "flavor": "If you search casually, you should find treasure for sure.",
     "illustrator": "Akifumi Yamamoto",
     "race": "Gel Fish",
@@ -12456,8 +12456,8 @@
     "rarity": "Rare",
     "type": "Creature",
     "cost": 2,
-    "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its Wave striker ability.) : When you put this creature into the battle zone, you may return a creature from your graveyard to your hand.",
-    "flavor": "\"This guy sure messes up a lot.\" -Toronbo, the Bone Fracturing Puppet",
+    "text": "Wave striker (While 2 or more other creatures in the battle zone have \"wave striker,\" this creature has its $wave_striker ability.)\n$wave_striker When you put this creature into the battle zone, you may return a creature from your graveyard to your hand.",
+    "flavor": "\"This guy sure messes up a lot.\" —Toronbo, the Bone Fracturing Puppet",
     "illustrator": "Katsuhiko Kojoh",
     "race": "Death Puppet",
     "power": "1000"
@@ -12542,7 +12542,7 @@
     "rarity": "Rare",
     "type": "Creature",
     "cost": 6,
-    "text": "(This creature is put into your mana zone tapped.)\nThis creature can attack untapped creatures.This creature can't attack players.\nWhenever this creature wins a battle, you may untap this creature.",
+    "text": "(This creature is put into your mana zone tapped.)\nThis creature can attack untapped creatures.\nThis creature can't attack players.\nWhenever this creature wins a battle, you may untap this creature.",
     "illustrator": "Miya",
     "races": [
       "Angel Command",
@@ -12638,7 +12638,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "When you put this creature into the battle zone, return an evolution creature from your graveyard to your hand.",
-    "flavor": "\"Nice to meet you!\" -Drill Mutant",
+    "flavor": "\"Nice to meet you!\" —Drill Mutant",
     "illustrator": "Nakagawa",
     "race": "Hedrian",
     "power": "3000"
@@ -12651,7 +12651,7 @@
     "rarity": "Uncommon",
     "type": "Creature",
     "cost": 3,
-    "text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its Silent skill ability.) : Each of your other creatures in the battle zone can attack untapped creatures this turn.",
+    "text": "Silent skill (At the start of each of your turns, if this creature is tapped, you may keep it tapped and use its $silent_skill ability.)\n$silent_skill Each of your other creatures in the battle zone can attack untapped creatures this turn.",
     "flavor": "Jiruba's shots of light clearly illuminate enemies hiding under the cover of night.",
     "illustrator": "Miya",
     "race": "Human",
@@ -12851,7 +12851,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "Your opponent reveals shields broken by your creatures.",
-    "flavor": "\"Why do these guys not check what they suck up?\" - Lockon Dude Jiruba",
+    "flavor": "\"Why do these guys not check what they suck up?\" — Lockon Dude Jiruba",
     "illustrator": "Katsuya",
     "race": "Gladiator",
     "power": "2500"
@@ -12906,7 +12906,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "Whenever this creature is attacked, return the attacking creature to its owner's hand after the battle.",
-    "flavor": "\"Today's theme is annoyingness.\" -A word by Sapphire Wisdom",
+    "flavor": "\"Today's theme is annoyingness.\" —A word by Sapphire Wisdom",
     "illustrator": "Taro Yamazaki",
     "race": "Cyber Virus",
     "power": "1000"
@@ -12985,7 +12985,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "While all cards in your mana zone are tapped, this creature gets +2000 power.",
-    "flavor": "\"It's time to rock!\" -Zack Ranba, the Sword Attacker",
+    "flavor": "\"It's time to rock!\" —Zack Ranba, the Sword Attacker",
     "illustrator": "Haccan",
     "race": "Dragonoid",
     "power": "1000+"
@@ -12999,7 +12999,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "Whenever this creature is attacked, you may destroy one of your opponent's creatures that has power 2000 or less.",
-    "flavor": "\"Just like his master, he can randomly just make you freeze up\" -Gankloak, Rogue Commando",
+    "flavor": "\"Just like his master, he can randomly just make you freeze up.\" —Gankloak, Rogue Commando",
     "illustrator": "Ippei Soeda",
     "race": "Xenoparts",
     "power": "1000"
@@ -13293,7 +13293,7 @@
     "type": "Evolution Creature",
     "cost": 3,
     "text": "Evolution—Put on one of your Death Puppets.\nWhenever your opponent discards cards from his hand, you may draw the same amount of cards he discarded.",
-    "flavor": "\"Dance, dance! Everything is proceeding as planned!\" -Endless Puppet, Lord of Magic",
+    "flavor": "\"Dance, dance! Everything is proceeding as planned!\" —Endless Puppet, Lord of Magic",
     "illustrator": "Haccan",
     "race": "Death Puppet",
     "power": "5000"
@@ -13543,7 +13543,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "Metamorph (If you have 7 or more cards in your mana zone, this creature gets the following Metamorph ability.) : This creature gets +7000 power and has \"double breaker\". (A creature that has \"double breaker\" breaks 2 shields.)",
-    "flavor": "\"Charge!　Bring the blade of destruction down upon the Temple of Dreams!\" -Leila, Butterfly Shogun of Death",
+    "flavor": "\"Charge!　Bring the blade of destruction down upon the Temple of Dreams!\" —Leila, Butterfly Shogun of Death",
     "illustrator": "Sansyu",
     "race": "Dark Lord",
     "power": "1000+"
@@ -13624,7 +13624,7 @@
     "type": "Creature",
     "cost": 6,
     "text": "Whenever your opponent casts a light or water spell, destroy one of your opponent's light or water creatures that has power 5000 or less.",
-    "flavor": "\"Want me to screw your head in real good?\" -Screwhead Lizard",
+    "flavor": "\"Want me to screw your head in real good?\" —Screwhead Lizard",
     "illustrator": "Ken Sugawara",
     "race": "Melt Warrior",
     "power": "5000"
@@ -13651,7 +13651,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "All creatures in the battle zone can attack untapped multicolored creatures.",
-    "flavor": "\"One civilization special, coming up!\" -Metal Cook, the Exploding Flame Chef",
+    "flavor": "\"One civilization special, coming up!\" —Metal Cook, the Exploding Flame Chef",
     "illustrator": "Nottsuo",
     "race": "Human",
     "power": "3000"
@@ -13732,7 +13732,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "When a creature that has more power than this creature is put into the battle zone, put this creature into your mana zone.",
-    "flavor": "\"Something huge detected starboard! Evacuate within two seconds!\" -Quick Avacado",
+    "flavor": "\"Something huge detected starboard! Evacuate within two seconds!\" —Quick Avacado",
     "illustrator": "Naoki Saito",
     "race": "Wild Veggies",
     "power": "3000"
@@ -13746,7 +13746,7 @@
     "type": "Creature",
     "cost": 1,
     "text": "Whenever a player draws a card at the start of his turn, that player may put a card from his hand into its owner's mana zone.\nThis creature can't attack players.",
-    "flavor": "\"We just wanted everyone to be happy, but why the heck did the Lord of Demons have to show up!?\" -Mirumeru, the Love Fairy",
+    "flavor": "\"We just wanted everyone to be happy, but why the heck did the Lord of Demons have to show up!?\" —Mirumeru, the Love Fairy",
     "illustrator": "Takesi Kuno",
     "race": "Snow Faerie",
     "power": "1000"
@@ -14360,7 +14360,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "Shield trigger (When this creature is put into your hand from your shield zone, you may summon it immediately for no cost.)",
-    "flavor": "\"Show me the path of darkness. Because I will surprise people!\" -Delorin, the Hidden Surprise",
+    "flavor": "\"Show me the path of darkness. Because I will surprise people!\" —Delorin, the Hidden Surprise",
     "illustrator": "Katsuya",
     "race": "Pandora's Box",
     "power": "3000"
@@ -14400,7 +14400,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "When you put this creature into the battle zone, your opponent discards a card from his hand.",
-    "flavor": "\"Hey Hey! If I don't kill 'em all now, this will become a hive!\" -Western Barrel, Shadow of Riots",
+    "flavor": "\"Hey Hey! If I don't kill 'em all now, this will become a hive!\" —Western Barrel, Shadow of Riots",
     "illustrator": "Taro Yamazaki",
     "race": "Ghost",
     "power": "1000"
@@ -14491,7 +14491,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "Shield trigger (When this creature is put into your hand from your shield zone, you may summon it immediately for no cost.)\nPower attacker +4000 (While attacking, this creature gets +4000 power.)",
-    "flavor": "\"When you call, I'll make an explosive entrance!\" -Explosion Lizard",
+    "flavor": "\"When you call, I'll make an explosive entrance!\" —Explosion Lizard",
     "illustrator": "Syuichi Obata",
     "race": "Melt Warrior",
     "power": "1000+"
@@ -14519,7 +14519,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "This creature attacks each turn if able.\nPower attacker +1000 (While attacking, this creature gets +1000 power.)",
-    "flavor": "\"What a nice breeze. Today will be a great battle!\" -Pyuzero, Prince of the Sirocco",
+    "flavor": "\"What a nice breeze. Today will be a great battle!\" —Pyuzero, Prince of the Sirocco",
     "illustrator": "Shishizaru",
     "race": "Feathernoid",
     "power": "2000+"
@@ -14533,7 +14533,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "Saver: Armored Dragon (When one of your Armored Dragons would be destroyed, you may destroy this creature instead.)",
-    "flavor": "\"My wish lies within you, my lord!\" -Branca, Protection Soldier",
+    "flavor": "\"My wish lies within you, my lord!\" —Branca, Protection Soldier",
     "illustrator": "Mikio Masuda",
     "race": "Dragonoid",
     "power": "1000"
@@ -14624,7 +14624,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "Saver: Earth Dragon (When one of your Earth Dragons would be destroyed, you may destroy this creature instead.)",
-    "flavor": "\"Let's meet again at the end of the world. Because right now, I have the last laugh.\" -Malulu, Fairy of the Snowy Valley",
+    "flavor": "\"Let's meet again at the end of the world. Because right now, I have the last laugh.\" —Malulu, Fairy of the Snowy Valley",
     "illustrator": "Masaki Hirooka",
     "race": "Snow Faerie",
     "power": "1000"
@@ -14815,7 +14815,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "When you put this creature into the battle zone, choose a player. That player shuffles all of his shields back into his deck, then adds the same number of cards from the top of his deck into his shields face down.",
-    "flavor": "\"The time is now! With this chance I'll fix the shields better than new!\" -Aqua Patrol",
+    "flavor": "\"The time is now! With this chance I'll fix the shields better than new!\" —Aqua Patrol",
     "illustrator": "Haccan",
     "race": "Liquid People",
     "power": "2000"
@@ -14921,7 +14921,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "Instead of having this creature attack, you may tap it to use its Tap ability. : Cross one of your creatures in the battle zone with one of your cross gears for no cost.",
-    "flavor": "\"That's not true! Magic is very manly!\" -Full Throttle Sergeant",
+    "flavor": "\"That's not true! Magic is very manly!\" —Full Throttle Sergeant",
     "illustrator": "Ippei Soeda",
     "race": "Merfolk",
     "power": "2000"
@@ -14946,7 +14946,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "Metamorph (If you have 7 or more cards in your mana zone, this creature gets the following Metamorph ability.) : When this creature is destroyed, return up to 2 other creatures from your graveyard to your hand.",
-    "flavor": "\"In just a little while, I'll die. Let's meet again.\" -Moonlight, the Fallen Noble",
+    "flavor": "\"In just a little while, I'll die. Let's meet again.\" —Moonlight, the Fallen Noble",
     "illustrator": "Shukei",
     "race": "Dark Lord",
     "power": "3000"
@@ -15051,7 +15051,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "During your turn, all your other creatures get +2000 power.",
-    "flavor": "\"It doesn't matter if it's a ship or a bullet! Just send something!\" -Pirates, the Invoked",
+    "flavor": "\"It doesn't matter if it's a ship or a bullet! Just send something!\" —Pirates, the Invoked",
     "illustrator": "Shin \"JASON\" Nagasawa",
     "race": "Wonder Trick",
     "power": "2000"
@@ -15104,7 +15104,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "When you put this creature into the battle zone, you may look at your opponent's hand and add a card from it to his shields face down.",
-    "flavor": "\"What an excellent trump card you have. I'll lock it away, nice and safe for you.\" -Pakurio",
+    "flavor": "\"What an excellent trump card you have. I'll lock it away, nice and safe for you.\" —Pakurio",
     "illustrator": "Shin \"JASON\" Nagasawa",
     "race": "Cyber Lord",
     "power": "1000"
@@ -15143,7 +15143,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)\nAfter this creature attacks, destroy this creature.",
-    "flavor": "\"If you're going to beat on someone, hit 'em with a 16 beat dong-dokka-dong!\" -Phalangi Drum",
+    "flavor": "\"If you're going to beat on someone, hit 'em with a 16 beat dong-dokka-dong!\" —Phalangi Drum",
     "illustrator": "Ryoya Yuki",
     "race": "Gargoyle",
     "power": "4000"
@@ -15182,7 +15182,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "Power attacker +5000 (While attacking, this creature gets +5000 power.)\nDouble breaker (This creature breaks 2 shields.)",
-    "flavor": "\"Witness the power of my five-barreled burst flame cannon!\" -Space Titanica",
+    "flavor": "\"Witness the power of my five-barreled burst flame cannon!\" —Space Titanica",
     "illustrator": "Atsushi Kawasaki",
     "race": "Big Muscle",
     "power": "3000+"
@@ -15196,7 +15196,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "When you put this creature into the battle zone, search your deck. You may take a cross gear from your deck, show that cross gear to your opponent, and put it into your hand. Then shuffle your deck.",
-    "flavor": "\"Heheheh, to think something like this exists.\" -Gyulcas, Sage of the East Wind",
+    "flavor": "\"Heheheh, to think something like this exists.\" —Gyulcas, Sage of the East Wind",
     "illustrator": "Eiji Kaneda",
     "race": "Feathernoid",
     "power": "3000"
@@ -15221,7 +15221,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "Shield trigger (When this creature is put into your hand from your shield zone, you may summon it immediately for no cost.)\nThis creature can't attack players.",
-    "flavor": "\"How incredible that even the protectors of the sacred lands are sacred lands themselves!\" -Hunter, the Invoked",
+    "flavor": "\"How incredible that even the protectors of the sacred lands are sacred lands themselves!\" —Hunter, the Invoked",
     "illustrator": "Haccan",
     "race": "Colony Beetle",
     "power": "5000"
@@ -15235,7 +15235,7 @@
     "type": "Creature",
     "cost": 3,
     "text": "When you put this creature into the battle zone, you may return a cross gear from your mana zone to your hand.",
-    "flavor": "\"I'll take this treasure!\" -Hunter, the Invoked",
+    "flavor": "\"I'll take this treasure!\" —Hunter, the Invoked",
     "illustrator": "Taro Yamazaki",
     "race": "Wonder Trick",
     "power": "2000"
@@ -15450,7 +15450,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "When you put this creature into the battle zone, if you have a Red Ridaz', Explosive Daredevil in your graveyard, choose a card in your opponent's mana zone and put it into its owner's graveyard.",
-    "flavor": "\"Hey Hey! This is payback for our friends!\" -Red Ridaz', Explosive Daredevils",
+    "flavor": "\"Hey Hey! This is payback for our friends!\" —Red Ridaz', Explosive Daredevils",
     "illustrator": "Haccan",
     "race": "Human",
     "power": "1000"
@@ -15503,7 +15503,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "When you put this creature into the battle zone, if you have a Hustle Ball Tribe in your graveyard, you may put the top card of your deck into your mana zone.",
-    "flavor": "\"Everyone in the forest, give me your power!\" -Hustle Ball Tribe",
+    "flavor": "\"Everyone in the forest, give me your power!\" —Hustle Ball Tribe",
     "illustrator": "Sansyu",
     "race": "Beast Folk",
     "power": "1000"
@@ -15788,7 +15788,7 @@
     "type": "Creature",
     "cost": 2,
     "text": "This creature can attack untapped creatures.\nWhenever this creature attacks a creature that has power 6000 or more, this creature gets +9000 power until the end of the turn.",
-    "flavor": "\"They grow up so fast. Unfortunately.\" -Urth, Purifying Elemental",
+    "flavor": "\"They grow up so fast. Unfortunately.\" —Urth, Purifying Elemental",
     "illustrator": "Nottsuo",
     "race": "Armorloid",
     "power": "1000+"
@@ -16005,7 +16005,7 @@
     "type": "Creature",
     "cost": 9,
     "text": "When you put this creature into the battle zone, choose up to 2 cards in your opponent's mana zone and put them into his graveyard.",
-    "flavor": "\"Wow! I can't wait to disassemble this!\" -Nomad Hero Gigio",
+    "flavor": "\"Wow! I can't wait to disassemble this!\" —Nomad Hero Gigio",
     "illustrator": "Masaki Hirooka",
     "race": "Colony Beetle",
     "power": "5000"
@@ -16103,7 +16103,7 @@
     "type": "Creature",
     "cost": 7,
     "text": "When you put this creature into the battle zone, you may add up to 2 cards from your hand to your shields face down. If you do, choose the same number of your shields and put them into your hand. You can't use the \"shield trigger\" ability of those shields.",
-    "flavor": "\"Better. . . . But let's add another eye.\" -Emeral",
+    "flavor": "\"Better. . . . But let's add another eye.\" —Emeral",
     "illustrator": "Nottsuo",
     "race": "Gel Fish",
     "power": "5000"
@@ -16222,7 +16222,7 @@
     "type": "Evolution Creature",
     "cost": 2,
     "text": "Evolution - Put on one of your Beast Folk.\nWhile this creature is tapped, each of your other Beast Folk in the battle zone gets +2000 power.",
-    "flavor": "\"Rage leads to war. War leads to rage. Isn't it magical?\" -General Dark Fiend",
+    "flavor": "\"Rage leads to war. War leads to rage. Isn't it magical?\" —General Dark Fiend",
     "illustrator": "Tsutomu Kawade",
     "race": "Beast Folk",
     "power": "5000+"
@@ -16291,7 +16291,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "When you put this creature into the battle zone, you may draw a card.",
-    "flavor": "\"Vizier of Magnetism, arise. Your wings are a compass that points to the truth.\" -Hanusa, Radiance Elemental",
+    "flavor": "\"Vizier of Magnetism, arise. Your wings are a compass that points to the truth.\" —Hanusa, Radiance Elemental",
     "illustrator": "Hisanobu Kometani",
     "race": "Initiate",
     "power": "3000"
@@ -16583,7 +16583,7 @@
     "type": "Spell",
     "cost": 7,
     "text": "Destroy any number of your opponent's creatures that have total power 8000 or less.",
-    "flavor": "\"I've invented a fun new weight-loss machine! It's guaranteed to make you thinner, or your money back!\" -Rikabu, the Dismantler",
+    "flavor": "\"I've invented a fun new weight-loss machine! It's guaranteed to make you thinner, or your money back!\" —Rikabu, the Dismantler",
     "illustrator": "Hisashi Momose"
   },
   {
@@ -16595,7 +16595,7 @@
     "type": "Evolution Creature",
     "cost": 6,
     "text": "Evolution - Put on one of your Rock Beasts.\nWater stealth (This creature can't be blocked while your opponent has any water cards in his mana zone.)\nDouble breaker (This creature breaks 2 shields.)",
-    "flavor": "\"I liked him better when he was dormant.\" -Tropico",
+    "flavor": "\"I liked him better when he was dormant.\" —Tropico",
     "illustrator": "Taro Yamazaki",
     "race": "Rock Beast",
     "power": "9000"
@@ -16689,7 +16689,7 @@
     "type": "Spell",
     "cost": 4,
     "text": "Until the end of the turn, each of your Dragonoids in the battle zone is an Armored Dragon in addition to its other races, gets +4000 power, and has \"double breaker (This creature breaks 2 shields).\"",
-    "flavor": "\"See what happens when you take your vitamins?\" -Pyrofighter Magnus",
+    "flavor": "\"See what happens when you take your vitamins?\" —Pyrofighter Magnus",
     "illustrator": "Norikatsu Miyoshi"
   },
   {
@@ -16715,7 +16715,7 @@
     "type": "Spell",
     "cost": 3,
     "text": "Search a player's deck. You may take a card from that deck and put it into that player's graveyard. Then the player shuffles his deck.\nCharger (After you cast this spell, put it into your mana zone instead of your graveyard.)",
-    "flavor": "\"Life is short. And now it's shorter.\" -Azaghast, Tyrant of Shadows",
+    "flavor": "\"Life is short. And now it's shorter.\" —Azaghast, Tyrant of Shadows",
     "illustrator": "Katsuya"
   },
   {
@@ -16811,7 +16811,7 @@
     "type": "Creature",
     "cost": 4,
     "text": "While all the cards in your mana zone are light cards, this creature gets +2000 power.",
-    "flavor": "\"What will it do if it finds the sunlight?\" -Bloody Squito",
+    "flavor": "\"What will it do if it finds the sunlight?\" —Bloody Squito",
     "illustrator": "Naoki Saito",
     "race": "Mecha Thunder",
     "power": "2500+"
@@ -16825,7 +16825,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "At the end of each of your turns, you may untap all your creatures in the battle zone.",
-    "flavor": "\"Vizier of Hope, arise. Your singing voice is a breeze of dawn.\" -Hanusa, Radiance Elemental",
+    "flavor": "\"Vizier of Hope, arise. Your singing voice is a breeze of dawn.\" —Hanusa, Radiance Elemental",
     "illustrator": "Masaki Hirooka",
     "race": "Initiate",
     "power": "2000"
