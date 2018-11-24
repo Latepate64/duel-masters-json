@@ -12545,8 +12545,8 @@
     "text": "(This creature is put into your mana zone tapped.)\nThis creature can attack untapped creatures.\nThis creature can't attack players.\nWhenever this creature wins a battle, you may untap this creature.",
     "illustrator": "Miya",
     "races": [
-      "Angel Command",
-      "Demon Command"
+      "Initiate",
+      "Armorloid"
     ],
     "power": "3000"
   },
