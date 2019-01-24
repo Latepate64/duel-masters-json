@@ -13543,7 +13543,7 @@
     "type": "Creature",
     "cost": 5,
     "text": "Metamorph (If you have 7 or more cards in your mana zone, this creature gets the following $metamorph ability.)\n$metamorph This creature gets +7000 power and has \"double breaker\". (A creature that has \"double breaker\" breaks 2 shields.)",
-    "flavor": "\"Charge!　Bring the blade of destruction down upon the Temple of Dreams!\" —Leila, Butterfly Shogun of Death",
+    "flavor": "\"Charge! Bring the blade of destruction down upon the Temple of Dreams!\" —Leila, Butterfly Shogun of Death",
     "illustrator": "Sansyu",
     "race": "Dark Lord",
     "power": "1000+"
@@ -13976,7 +13976,7 @@
     "rarity": "Uncommon",
     "type": "Spell",
     "cost": 2,
-    "text": "Your opponent discards a card from his hand.\nMetamorph (If you have 7 or more cards in your mana zone, this spell gets the following Metamorph ability.) : Instead of your opponent choosing the card to discard, look at your opponent's hand, choose a card from it and discard it.",
+    "text": "Your opponent discards a card from his hand.\nMetamorph (If you have 7 or more cards in your mana zone, this spell gets the following Metamorph ability.)\n$metamorph Instead of your opponent choosing the card to discard, look at your opponent's hand, choose a card from it and discard it.",
     "illustrator": "Eiji Kaneda"
   },
   {
@@ -14052,7 +14052,7 @@
     "rarity": "Uncommon",
     "type": "Spell",
     "cost": 4,
-    "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nDestroy one of your opponent's creatures that has power 2000 or less.\nMetamorph (If you have 7 or more cards in your mana zone, this spell gets the following Metamorph ability.) : Instead of a creature that has power 2000 or less, destroy one of your opponent's creatures that has power 6000 or less.",
+    "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nDestroy one of your opponent's creatures that has power 2000 or less.\nMetamorph (If you have 7 or more cards in your mana zone, this spell gets the following Metamorph ability.)\n$metamorph Instead of a creature that has power 2000 or less, destroy one of your opponent's creatures that has power 6000 or less.",
     "illustrator": "Nakagawa"
   },
   {
@@ -14063,7 +14063,7 @@
     "rarity": "Uncommon",
     "type": "Cross Gear",
     "cost": 1,
-    "text": "Cross Gear (Put this card into the battle zone. To cross this card with a creature, pay this card's cost again. When that creature leaves the battle zone, this card remains in the battle zone.)\nInstead of having the crossed creature attack, you may tap it to use this Tap ability. : Destroy one of your opponent's creatures that has power 2000 or less.",
+    "text": "Cross Gear (Put this card into the battle zone. To cross this card with a creature, pay this card's cost again. When that creature leaves the battle zone, this card remains in the battle zone.)\nInstead of having the crossed creature attack, you may tap it to use this Tap ability.\n$tap_ability Destroy one of your opponent's creatures that has power 2000 or less.",
     "illustrator": "Kou1"
   },
   {
@@ -14651,7 +14651,7 @@
     "rarity": "Common",
     "type": "Spell",
     "cost": 3,
-    "text": "Put the top card of your deck into your mana zone.\nMetamorph (If you have 7 or more cards in your mana zone, this spell gets the following Metamorph ability.) : Instead of the top card of your deck, put the top 3 cards of your deck into your mana zone.",
+    "text": "Put the top card of your deck into your mana zone.\nMetamorph (If you have 7 or more cards in your mana zone, this spell gets the following Metamorph ability.)\n$metamorph Instead of the top card of your deck, put the top 3 cards of your deck into your mana zone.",
     "illustrator": "Taro Yamazaki"
   },
   {
