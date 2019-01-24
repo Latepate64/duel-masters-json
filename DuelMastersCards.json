@@ -12497,7 +12497,7 @@
     "rarity": "Rare",
     "type": "Creature",
     "cost": 4,
-    "text": "This creature gets +2000 power for each civilization in the battle zone.\nWhenever this creature has more than 6000 power, it gets \"double breaker\" (This creature break 2 shields.)",
+    "text": "This creature gets +2000 power for each civilization in the battle zone.\nWhenever this creature has more than 6000 power, it gets \"double breaker\" (This creature breaks 2 shields.)",
     "flavor": "Light and Darkness joining forces? At this fact the proud giants trembled with rage.",
     "illustrator": "Taro Yamazaki",
     "race": "Giant",
