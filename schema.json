@@ -1,0 +1,169 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema",
+	"title": "Decks",
+	"type": "object",
+	"required": [
+		"cards"
+	],
+	"properties": {
+		"cards": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"required": [
+					"name",
+					"set",
+					"id",
+					"civilizations",
+					"rarity",
+					"type",
+					"cost"
+				],
+				"properties": {
+					"name": {
+						"type": "string"
+					},
+					"set": {
+						"enum": [
+							"DM-01 Base Set",
+							"DM-02 Evo-Crushinators of Doom",
+							"DM-03 Rampage of the Super Warriors",
+							"DM-04 Shadowclash of Blinding Night",
+							"DM-05 Survivors of the Megapocalypse",
+							"DM-06 Stomp-A-Trons of Invincible Wrath",
+							"DM-07 Thundercharge of Ultra Destruction",
+							"DM-08 Epic Dragons of Hyperchaos",
+							"DM-09 Fatal Brood of Infinite Ruin",
+							"DM-10 Shockwaves of the Shattered Rainbow",
+							"DM-11 Blastosplosion of Gigantic Rage",
+							"DM-12 Thrash of the Hybrid Megacreatures",
+							"DM-13 Eternal Phoenix",
+							"DM-14 Generate Gear",
+							"DM-15 Secret of Hidden Gear",
+							"Promotional",
+							"Promotional (Duel Masters Starter Deck)"
+						]
+					},
+					"id": {
+						"type": "string"
+					},
+					"civilization": {
+						"enum": [
+							"Light",
+							"Water",
+							"Darkness",
+							"Fire",
+							"Nature"
+						]
+					},
+					"rarity": {
+						"enum": [
+							"Common",
+							"Uncommon",
+							"Rare",
+							"Very Rare",
+							"Super Rare",
+							"No Rarity"
+						]
+					},
+					"type": {
+						"enum": [
+							"Creature",
+							"Spell",
+							"Evolution Creature",
+							"Cross Gear"
+						]
+					},
+					"cost": {
+						"type": "integer"
+					},
+					"text": {
+						"type": "string"
+					},
+					"flavor": {
+						"type": "string"
+					},
+					"illustrator": {
+						"type": "string"
+					},
+					"race": {
+						"enum": [
+							"Light Bringer",
+							"Guardian",
+							"Starlight Tree",
+							"Initiate",
+							"Berserker",
+							"Liquid People",
+							"Cyber Virus",
+							"Fish",
+							"Gel Fish",
+							"Leviathan",
+							"Cyber Lord",
+							"Ghost",
+							"Brain Jacker",
+							"Living Dead",
+							"Chimera",
+							"Parasite Worm",
+							"Dark Lord",
+							"Armorloid",
+							"Machine Eater",
+							"Armored Dragon",
+							"Human",
+							"Dragonoid",
+							"Armored Wyvern",
+							"Rock Beast",
+							"Beast Folk",
+							"Tree Folk",
+							"Colony Beetle",
+							"Giant Insect",
+							"Balloon Mushroom",
+							"Horned Beast",
+							"Angel Command",
+							"Demon Command",
+							"Mecha Thunder",
+							"Cyber Cluster",
+							"Hedrian",
+							"Fire Bird",
+							"Giant",
+							"Sea Hacker",
+							"Rainbow Phantom",
+							"Gladiator",
+							"Earth Eater",
+							"Devil Mask",
+							"Death Puppet",
+							"Dune Gecko",
+							"Xenoparts",
+							"Survivor",
+							"Mystery Totem",
+							"Snow Faerie",
+							"Volcano Dragon",
+							"Mecha Del Sol",
+							"Zombie Dragon",
+							"Earth Dragon",
+							"Pandora's Box",
+							"Spirit Quartz",
+							"Soltrooper",
+							"Cyber Moon",
+							"Merfolk",
+							"Melt Warrior",
+							"Wild Veggies",
+							"Phoenix",
+							"Starnoid",
+							"Naga",
+							"Pegasus",
+							"Cosmo Walker",
+							"Big Muscle",
+							"Wonder Trick",
+							"Splash Queen",
+							"Gargoyle",
+							"Feathernoid"
+						]
+					},
+					"power": {
+						"type": "string"
+					}
+				}
+			}
+		}
+	}
+}
