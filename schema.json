@@ -12,39 +12,13 @@
 				"type": "object",
 				"required": [
 					"name",
-					"set",
-					"id",
 					"civilizations",
-					"rarity",
 					"type",
-					"cost"
+					"cost",
+					"printings"
 				],
 				"properties": {
 					"name": {
-						"type": "string"
-					},
-					"set": {
-						"enum": [
-							"DM-01 Base Set",
-							"DM-02 Evo-Crushinators of Doom",
-							"DM-03 Rampage of the Super Warriors",
-							"DM-04 Shadowclash of Blinding Night",
-							"DM-05 Survivors of the Megapocalypse",
-							"DM-06 Stomp-A-Trons of Invincible Wrath",
-							"DM-07 Thundercharge of Ultra Destruction",
-							"DM-08 Epic Dragons of Hyperchaos",
-							"DM-09 Fatal Brood of Infinite Ruin",
-							"DM-10 Shockwaves of the Shattered Rainbow",
-							"DM-11 Blastosplosion of Gigantic Rage",
-							"DM-12 Thrash of the Hybrid Megacreatures",
-							"DM-13 Eternal Phoenix",
-							"DM-14 Generate Gear",
-							"DM-15 Secret of Hidden Gear",
-							"Promotional",
-							"Promotional (Duel Masters Starter Deck)"
-						]
-					},
-					"id": {
 						"type": "string"
 					},
 					"civilization": {
@@ -54,16 +28,6 @@
 							"Darkness",
 							"Fire",
 							"Nature"
-						]
-					},
-					"rarity": {
-						"enum": [
-							"Common",
-							"Uncommon",
-							"Rare",
-							"Very Rare",
-							"Super Rare",
-							"No Rarity"
 						]
 					},
 					"type": {
@@ -78,12 +42,6 @@
 						"type": "integer"
 					},
 					"text": {
-						"type": "string"
-					},
-					"flavor": {
-						"type": "string"
-					},
-					"illustrator": {
 						"type": "string"
 					},
 					"race": {
@@ -161,6 +119,60 @@
 					},
 					"power": {
 						"type": "string"
+					},
+					"printings": {
+						"type": "array",
+						"items": {
+							"type": "object",
+							"required": [
+								"set",
+								"id",
+								"rarity",
+								"illustrator"
+							],
+							"properties": {
+								"set": {
+									"enum": [
+										"DM-01 Base Set",
+										"DM-02 Evo-Crushinators of Doom",
+										"DM-03 Rampage of the Super Warriors",
+										"DM-04 Shadowclash of Blinding Night",
+										"DM-05 Survivors of the Megapocalypse",
+										"DM-06 Stomp-A-Trons of Invincible Wrath",
+										"DM-07 Thundercharge of Ultra Destruction",
+										"DM-08 Epic Dragons of Hyperchaos",
+										"DM-09 Fatal Brood of Infinite Ruin",
+										"DM-10 Shockwaves of the Shattered Rainbow",
+										"DM-11 Blastosplosion of Gigantic Rage",
+										"DM-12 Thrash of the Hybrid Megacreatures",
+										"DM-13 Eternal Phoenix",
+										"DM-14 Generate Gear",
+										"DM-15 Secret of Hidden Gear",
+										"Promotional",
+										"Promotional (Duel Masters Starter Deck)"
+									]
+								},
+								"id": {
+									"type": "string"
+								},
+								"rarity": {
+									"enum": [
+										"Common",
+										"Uncommon",
+										"Rare",
+										"Very Rare",
+										"Super Rare",
+										"No Rarity"
+									]
+								},
+								"flavor": {
+									"type": "string"
+								},
+								"illustrator": {
+									"type": "string"
+								}
+							}
+						}
 					}
 				}
 			}
