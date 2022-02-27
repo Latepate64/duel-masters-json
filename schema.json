@@ -48,7 +48,8 @@
 								"set",
 								"id",
 								"rarity",
-								"illustrator"
+								"illustrator",
+								"image"
 							],
 							"properties": {
 								"set": {
@@ -91,6 +92,9 @@
 									"type": "string"
 								},
 								"illustrator": {
+									"type": "string"
+								},
+								"image": {
 									"type": "string"
 								}
 							}
