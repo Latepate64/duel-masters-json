@@ -34,7 +34,6 @@
 						"enum": [
 							"Creature",
 							"Spell",
-							"Evolution Creature",
 							"Cross Gear"
 						]
 					},
@@ -176,6 +175,15 @@
 								"Splash Queen",
 								"Gargoyle",
 								"Feathernoid"
+							]
+						}
+					},
+					"supertypes": {
+						"type": "array",
+						"minItems": 1,
+						"items": {
+							"enum": [
+								"Evolution"
 							]
 						}
 					}

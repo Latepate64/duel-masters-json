@@ -45,7 +45,10 @@
       "civilizations": [
         "Water"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Splash Queens.\nInstead of having this creature attack, you may tap it to use its $tap ability.\n$tap Choose a player. That player chooses 2 cards in his mana zone and returns them to his hand.",
       "power": "4000",
@@ -201,7 +204,10 @@
         "Light",
         "Water"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 4,
       "text": "(This creature is put into your mana zone tapped.)\nEvolution\u00e2\u20ac\u201dPut on one of your Gladiators or Earth Eaters.\nEach of your other Gladiators and Earth Eaters in the battle zone gets +2000 power.\nWhenever one of your Gladiators or Earth Eaters blocks, you may draw a card.",
       "power": "5500",
@@ -293,7 +299,10 @@
       "civilizations": [
         "Light"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Angel Commands.\nDouble breaker (This creature breaks 2 shields.)\nPlayers can't cast spells other than light spells.",
       "power": "12500",
@@ -1181,7 +1190,10 @@
       "civilizations": [
         "Light"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Guardians.\nEach of your light creatures may tap instead of attacking to use this creature's ability. : Choose one of your opponent's creatures in the battle zone and tap it.",
       "power": "5000",
@@ -1253,7 +1265,10 @@
       "civilizations": [
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 4,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Humans.\nEach of your other Humans in the battle zone gets +1000 power.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "6000+",
@@ -1274,7 +1289,10 @@
       "civilizations": [
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 3,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Humans.\nWhile attacking, this creature gets +2000 power for each other Human in the battle zone.",
       "power": "3000+",
@@ -1296,7 +1314,10 @@
       "civilizations": [
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Humans.\nWhen you put this creature into the battle zone, you may destroy one of your opponent's creatures that has power 4000 or less.",
       "power": "5000",
@@ -1318,7 +1339,10 @@
       "civilizations": [
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Humans.\nWhile attacking, this creature gets +1000 power for each other fire creature in the battle zone.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "6000+",
@@ -1339,7 +1363,10 @@
       "civilizations": [
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Human.\nWhile attacking, this creature gets +2000 power for each of your other tapped creatures in the battle zone.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "6000+",
@@ -1520,7 +1547,10 @@
       "civilizations": [
         "Water"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Cyber Viruses.\nWhen you put this creature into the battle zone, draw up to 3 cards.",
       "power": "5000",
@@ -1628,7 +1658,10 @@
         "Light",
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "(This creature is put into your mana zone tapped.)\nVortex Evolution\u00e2\u20ac\u201dPut on one of your Horn Beasts and one of your Angel Commands.\nWhenever this creature attacks or leaves the battle zone, reveal the top card of your deck. If it's a non-evolution creature, put it into battle zone. Otherwise, put it to your hand.\nTriple breaker (This creature breaks 3 shields).",
       "power": "12000",
@@ -1755,7 +1788,10 @@
       "civilizations": [
         "Darkness"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 7,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Dark Lords.\nWhenever you put a Ghost into the battle zone, you may destroy one of your opponent's untapped creatures.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "9000",
@@ -1883,7 +1919,10 @@
       "civilizations": [
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 9,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Armored Wyverns.\nWhenever this creature is attacking your opponent and isn't blocked, take an extra turn after this one.\nDouble breaker (This creature breaks 2 shields.)\nAt the end of your turn, return this creature to your hand.",
       "power": "8000",
@@ -1948,7 +1987,10 @@
       "civilizations": [
         "Darkness"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 8,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Demon Commands.\nWhen you put this creature into the battle zone, destroy all creatures except darkness creatures.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "12000",
@@ -2132,7 +2174,10 @@
       "civilizations": [
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 2,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Beast Folk.\nWhile this creature is tapped, each of your other Beast Folk in the battle zone gets +2000 power.",
       "power": "5000+",
@@ -2362,7 +2407,10 @@
       "civilizations": [
         "Darkness"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Dark Lords.\nWhenever another creature is put into the battle zone, that creature's owner chooses a card from his mana zone and puts it into their graveyard.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "8000",
@@ -4144,7 +4192,10 @@
       "civilizations": [
         "Darkness"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Parasite Worms.\nWhen you put this creature into the battle zone, you may destroy one of your opponent's creatures.",
       "power": "5000",
@@ -4643,7 +4694,10 @@
         "Light",
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 4,
       "text": "(This creature is put into your mana zone tapped.)\nEvolution\u00e2\u20ac\u201dPut on one of your Wild Veggies or a Rainbow Phantoms.\nEach of your other Wild Veggies and Rainbow Phantoms in the battle zone gets +2000 power.\nAt the end each of your turns, you may untap any number of your Wild Veggies and Rainbow Phantoms in the battle zone.",
       "power": "5500",
@@ -4792,7 +4846,10 @@
       "civilizations": [
         "Water"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Cyber Viruses.\nWhenever you draw the card at the start of your turn, you may draw an extra card.",
       "power": "3000",
@@ -4981,7 +5038,10 @@
       "civilizations": [
         "Light"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Initiates.\nWhen you put this creature into the battle zone, choose up to 2 of your opponent's creatures in the battle zone and tap them.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "7500",
@@ -5178,7 +5238,10 @@
         "Water",
         "Darkness"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "(This creature is put into your mana zone tapped.)\nVortex Evolution\u00e2\u20ac\u201dPut on one of your Merfolks and one of your Chimeras.\nThis creature can't be blocked.\nDouble breaker (This creature breaks 2 shields).\nWhen this creature leaves the battle Zone, destroy all creatures in the battle Zone.",
       "power": "9000",
@@ -5221,7 +5284,10 @@
       "civilizations": [
         "Water"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 7,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Liquid People.\nDouble breaker (This creature breaks 2 shields.)\nWhen this creature would be destroyed, return it to your hand instead.",
       "power": "7000",
@@ -5243,7 +5309,10 @@
       "civilizations": [
         "Water"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Liquid People.\nThis creature can't be blocked.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "8000",
@@ -5293,7 +5362,10 @@
       "civilizations": [
         "Water"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 4,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Liquid People.\nWhen you put this creature into the battle zone, return all creatures in the battle zone that have \"blocker\" to their owners' hands.",
       "power": "5000",
@@ -5314,7 +5386,10 @@
       "civilizations": [
         "Water"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 2,
       "text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)\nEvolution\u00e2\u20ac\u201dPut on one of your Liquid People.",
       "power": "5000",
@@ -5336,7 +5411,10 @@
       "civilizations": [
         "Water"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 8,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Liquid People.\nThis creature can't be blocked.\nTriple breaker (This creature breaks 3 shields.)",
       "power": "13000",
@@ -5808,7 +5886,10 @@
         "Darkness",
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 4,
       "text": "(This creature is put into your mana zone tapped.)\nVortex Evolution\u00e2\u20ac\u201dPut on one of your Zombie Dragons and one of your Fire Birds.\nDouble breaker (This creature breaks 2 shields).\nWhenever this creature would break a shield, your opponent puts that shield into his graveyard instead.\nWhen this creature leaves the Battle Zone, you opponent discards his hand.",
       "power": "9000",
@@ -6157,7 +6238,10 @@
       "civilizations": [
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 3,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Snow Faeries.\nWhen you put this creature into the battle zone, return all Snow Faeries from your graveyard and your mana zone to your hand.",
       "power": "5000",
@@ -6263,7 +6347,10 @@
       "civilizations": [
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Rock Beasts.\nWhen you put this creature into the battle zone, you may destroy one of your opponent's creatures that has power 3000 or less.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "8000",
@@ -6418,7 +6505,10 @@
       "civilizations": [
         "Darkness"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 10,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Demon Commands.\nWhen you put this creature into the battle zone, destroy all creatures except darkness creatures. Then, each player puts all non-darkness cards in his mana zone into his graveyard.\nTriple breaker (This creature breaks 3 shields.)",
       "power": "13000",
@@ -6655,7 +6745,10 @@
       "civilizations": [
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Giant Insects.\nDouble breaker (This creature breaks 2 shields.)\nEach of your other creatures in the battle zone that has power 5000 or more breaks one more shield.",
       "power": "7000",
@@ -6677,7 +6770,10 @@
       "civilizations": [
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 4,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Beast Folk.\nWhen you put this creature into the battle zone, return all tapped cards from your mana zone to your hand.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "6000",
@@ -6805,7 +6901,10 @@
       "civilizations": [
         "Light"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Angel Commands.\nYour opponent's creatures are put into the battle zone tapped.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "9500",
@@ -6934,7 +7033,10 @@
       "civilizations": [
         "Water"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 3,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Cyber Lords.\nWhenever you put another creature into the battle zone, return this creature to your hand.\nWhenever this creature becomes blocked, return the blocking creature to its owner's hand. (This creature stays tapped.)",
       "power": "5000",
@@ -6956,7 +7058,10 @@
       "civilizations": [
         "Water"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)\nEvolution\u00e2\u20ac\u201dPut on one of your Cyber Lords.\nWhenever your opponent uses the \"shield trigger\" ability of one of his shields, draw up to 2 cards.",
       "power": "5000",
@@ -6995,7 +7100,10 @@
       "civilizations": [
         "Darkness"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 3,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Death Puppets.\nWhenever your opponent discards cards from his hand, you may draw the same amount of cards he discarded.",
       "power": "5000",
@@ -7161,7 +7269,10 @@
       "civilizations": [
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Vortex evolution\u00e2\u20ac\u201dPut on one of your Fire Birds and one of your Armored Dragons.\nDouble breaker\nEach of your Phoenixes or creatures that have Dragons in their race in the battle zone can attack untapped creatures.\nWhen this creature leaves the battle zone, return all non-evolution fire creatures from your graveyard to your hand.",
       "power": "11000",
@@ -7222,7 +7333,10 @@
       "civilizations": [
         "Darkness"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Devil Masks.\nAt the start of each player's turn, that player chooses one of his creatures and destroys it.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "11000",
@@ -7720,7 +7834,10 @@
       "civilizations": [
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Beast Folk.\nWhen you put this creature into the battle zone, put the top 2 cards of your deck into your mana zone.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "8000",
@@ -8050,7 +8167,10 @@
       "civilizations": [
         "Water"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Cyber Clusters.\nEach of your water creatures may tap instead of attacking to use this creature's ability. : Draw a card.",
       "power": "5000",
@@ -8204,7 +8324,10 @@
       "civilizations": [
         "Darkness"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 3,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Ghosts.\nEach of your Ghosts in the battle zone has \"slayer.\" (Whenever a creature that has \"slayer\" battles, destroy the other creature after the battle.)",
       "power": "5000",
@@ -9354,7 +9477,10 @@
       "civilizations": [
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 4,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Giant Insects.\nWhenever another of your nature creatures would be put into your graveyard from the battle zone, put it into your mana zone instead.",
       "power": "5000",
@@ -9677,7 +9803,10 @@
       "civilizations": [
         "Light"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 2,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Initiates.\nWhenever one of your shields would be broken, you may discard 2 cards from your hand instead.",
       "power": "5500",
@@ -9721,7 +9850,10 @@
       "civilizations": [
         "Light"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Guardians.\nDouble breaker (This creature breaks 2 shields.)\nWhenever your opponent uses the \"shield trigger\" ability of one of his shields, you may add the top card of your deck to your shields face down.",
       "power": "8500",
@@ -10610,7 +10742,10 @@
       "civilizations": [
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Melt Warriors.\nInstead of having this creature attack, you may tap it to use its $tap ability.\n$tap Destroy all your opponent's creatures that have power 3000 or less.",
       "power": "5000",
@@ -10819,7 +10954,10 @@
         "Water",
         "Darkness"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 4,
       "text": "(This creature is put into your mana zone tapped.)\nEvolution\u00e2\u20ac\u201dPut on one of your Cyber Lords or Hedrians.\nEach of your other Cyber Lords and Hedrians in the battle zone gets +2000 power.\nYour Cyber Lords or Hedrians can't be blocked.",
       "power": "5000",
@@ -11372,7 +11510,10 @@
       "civilizations": [
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Xenoparts.\nPower attacker +4000 (While attacking, this creature gets +4000 power.)\nDouble breaker (This creature breaks 2 shields.)",
       "power": "6000+",
@@ -11394,7 +11535,10 @@
       "civilizations": [
         "Darkness"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 3,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Ghosts.\nWhenever another of your darkness creatures would be put into your graveyard from the battle zone, you may return it to your hand instead.",
       "power": "4000",
@@ -12161,7 +12305,10 @@
       "civilizations": [
         "Light"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)\nEvolution\u00e2\u20ac\u201dPut on one of your Initiates.\nFire stealth (This creature can't be blocked while your opponent has any fire cards in his mana zone.)\nDouble breaker (This creature breaks 2 shields.)",
       "power": "8500",
@@ -12269,7 +12416,10 @@
       "civilizations": [
         "Light"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)\nEvolution\u00e2\u20ac\u201dPut on one of your Mecha Thunders.\nWhenever this creature blocks, untap it after it battles.\nThis creature can't attack players.",
       "power": "10500",
@@ -12414,7 +12564,10 @@
       "civilizations": [
         "Light"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Blocker (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)\nEvolution\u00e2\u20ac\u201dPut on one of your Guardians.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "9500",
@@ -12544,7 +12697,10 @@
       "civilizations": [
         "Light"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 3,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Guardians.\nWhen you put this creature into the battle zone, tap all your opponent's creatures in the battle zone that have \"blocker.\"",
       "power": "5000",
@@ -12629,7 +12785,10 @@
       "civilizations": [
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 4,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Dragonoids.\nEach of your fire creatures may tap instead of attacking to use this creature's ability. : One of your fire creatures in the battle zone gets +3000 power until the end of the turn.",
       "power": "5000",
@@ -12738,7 +12897,10 @@
       "civilizations": [
         "Water"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Leviathans.\nYour other water creatures in the battle zone can't be blocked.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "8000",
@@ -12923,7 +13085,10 @@
       "civilizations": [
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Colony Beetles.\nEach of your nature creatures may tap instead of attacking to use this creature's ability. : Put the top card of your deck into your mana zone.",
       "power": "5000",
@@ -13121,7 +13286,10 @@
       "civilizations": [
         "Light"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Guardians.\nWhen you put this creature into the battle zone, add the top card of your deck to your shields face down.",
       "power": "4000",
@@ -14068,7 +14236,10 @@
       "civilizations": [
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 7,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Mystery Totems.\nNo one may use the \"Shield Trigger\" abilities of shields this creature breaks.\nTriple breaker (This creature breaks 3 shields.)",
       "power": "13000",
@@ -15612,7 +15783,10 @@
         "Fire",
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "(This creature is put into your mana zone tapped.)\nEvolution\u00e2\u20ac\u201dPut on one of your Xeno Parts or Giant Insects.\nEach of your other Xeno Parts and Giant Insects in the battle zone gets +2000 power.\nWhenever any of your Xeno Parts or Giant Insects is attacking and isn't blocked, your opponent chooses a card in his mana zone, and puts it into his graveyard.",
       "power": "5000",
@@ -15844,7 +16018,10 @@
       "civilizations": [
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Horned Beasts.\nWhen you put this creature into the battle zone, search your deck. You may take a nature creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "9000",
@@ -16136,7 +16313,10 @@
       "civilizations": [
         "Water"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 2,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Merfolk.\nThis creature can't be attacked or blocked by non-evolution creatures.",
       "power": "5000",
@@ -16403,7 +16583,10 @@
       "civilizations": [
         "Darkness"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Chimeras.\nLight stealth (This creature can't be blocked while your opponent has any light cards in his mana zone.)\nDouble breaker (This creature breaks 2 shields.)",
       "power": "9000",
@@ -16432,7 +16615,10 @@
       "civilizations": [
         "Darkness"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Chimeras.\nEach of your darkness creatures may tap instead of attacking to use this creature's ability. : Your opponent discards a card at random from his hand.",
       "power": "5000",
@@ -16507,7 +16693,10 @@
         "Darkness",
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "(This creature is put into your mana zone tapped.)\nEvolution\u00e2\u20ac\u201dPut on one of your Chimeras or Armorloids.\nEach of your other Chimeras and Armorloids in the battle zone gain +2000 power.\nEach of your Chimeras and Armorloids in the battle zone has \"double breaker.\" (a creature that has \"double breaker\" breaks 2 shields.)",
       "power": "6000",
@@ -17306,7 +17495,10 @@
       "civilizations": [
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Survivors.\nCrew breaker - Survivor (This creature breaks one more shield for each of your other Survivors in the battle zone.)",
       "power": "9000",
@@ -17328,7 +17520,10 @@
       "civilizations": [
         "Water"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 8,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Survivors.\nWhen you put this creature into the battle zone, you may draw a card for each Survivor in the battle zone.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "8000",
@@ -17350,7 +17545,10 @@
       "civilizations": [
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Shield trigger (When this creature is put into your hand from your shield zone, you may summon it immediately for no cost.)\nEvolution\u00e2\u20ac\u201dPut on one of your Survivors.\nEach of your creatures in the battle zone is a Survivor in addition to its other races.",
       "power": "3000",
@@ -17411,7 +17609,10 @@
         "Water",
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 3,
       "text": "(This creature is put into your mana zone tapped.)\nEvolution\u00e2\u20ac\u201dPut on one of your Spirit Quartz.\nWhen you put this creature into the battle zone, name a card. Reveal the top card of your deck. If it's the chosen card, put it into your hand. If it isn't, put it into your mana zone.\nDouble breaker",
       "power": "6000",
@@ -19505,7 +19706,10 @@
       "civilizations": [
         "Light"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 8,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Initiates.\nEach of your other light creatures in the battle zone has \"blocker.\" (Whenever one of your opponent's creatures attacks, you may tap a creature that has \"blocker\" to stop the attack. Then the 2 creatures battle.)",
       "power": "5000",
@@ -20461,7 +20665,10 @@
         "Fire",
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 4,
       "text": "(This creature is put into your mana zone tapped.)\nVortex Evolution\u00e2\u20ac\u201dPut on one of your Fire Birds and one of your Earth Dragons.\nTriple breaker (This creature breaks 3 shields).\nWhen this card would leave the battle zone, only the top card leaves the battle zone instead (Separate the other cards into 2 creatures).",
       "power": "13000",
@@ -21332,7 +21539,10 @@
       "civilizations": [
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 4,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Beast Folk.\nWhenever this creature attacks, you may choose one of your opponent's untapped creatures that has \"blocker.\" This turn, that creature blocks this creature if able and this creature can't be blocked by other creatures.\nWhenever this creature becomes blocked, it gets +3000 power until the end of the turn.",
       "power": "5000+",
@@ -21527,7 +21737,10 @@
       "civilizations": [
         "Darkness"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your creatures that has Dragon in its race.\nThis creature gets +2000 power for each creature in your graveyard.\nTriple breaker (This creature breaks 3 shields.)",
       "power": "11000+",
@@ -21549,7 +21762,10 @@
       "civilizations": [
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your creatures that has Dragon in its race.\nAfter you cast a spell by using its \"shield trigger\" ability, put it into your hand instead of your graveyard.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "9000",
@@ -23421,7 +23637,10 @@
       "civilizations": [
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Giant Insects.\nThis creature can't be blocked by any creature that has power 8000 or less.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "9000",
@@ -23443,7 +23662,10 @@
       "civilizations": [
         "Darkness"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Parasite Worms. Double breaker (This creature breaks 2 shields.)",
       "power": "11000",
@@ -23674,7 +23896,10 @@
       "civilizations": [
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Rock Beasts.\nWater stealth (This creature can't be blocked while your opponent has any water cards in his mana zone.)\nDouble breaker (This creature breaks 2 shields.)",
       "power": "9000",
@@ -24110,7 +24335,10 @@
       "civilizations": [
         "Light"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Gladiators.\nDouble breaker (This creature breaks 2 shields.)\nWhenever your opponent would choose a creature in the battle zone, he can't choose this one. (It can still be attacked and blocked.)",
       "power": "8000",
@@ -24430,7 +24658,10 @@
         "Light",
         "Water"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 5,
       "text": "(This creature is put into your mana zone tapped.)\nVortex Evolution\u00e2\u20ac\u201dPut on one of your Light Bringers and one of your Cyber Lords.\nWhenever this creature attacks or leaves the battle zone, add the card on top of your deck to your shields face-down.\nDouble breaker (This creature breaks 2 shields).",
       "power": "9000",
@@ -24473,7 +24704,10 @@
       "civilizations": [
         "Nature"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Tree Folk.\nPower attacker +2000 (While attacking, this creature gets +2000 power.)\nDarkness stealth (This creature can't be blocked while your opponent has any darkness cards in his mana zone.)\nDouble breaker (This creature breaks 2 shields.)",
       "power": "7000+",
@@ -24803,7 +25037,10 @@
       "civilizations": [
         "Darkness"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 6,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Ghosts.\nWhenever one of your creatures attacks, your opponent discards a card at random from his hand.\nDouble breaker (This creature breaks 2 shields.)",
       "power": "6000",
@@ -24886,7 +25123,10 @@
       "civilizations": [
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 7,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your creatures that has Dragon in its race.\nWhenever this creature attacks, choose up to 2 cards in your opponent's mana zone. Your opponent puts those cards into his graveyard.\nTriple breaker (This creature breaks 3 shields.)",
       "power": "13000",
@@ -24907,7 +25147,10 @@
       "civilizations": [
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 7,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Armored Dragons. Each of your other fire creatures in the battle zone has \"power attacker +2000.\" (While attacking, a creature that has \"power attacker +2000\" gets +2000 power.)\nDouble breaker (This creature breaks 2 shields.)",
       "power": "11000+",
@@ -24928,7 +25171,10 @@
       "civilizations": [
         "Fire"
       ],
-      "type": "Evolution Creature",
+      "type": "Creature",
+      "supertypes": [
+        "Evolution"
+      ],
       "cost": 9,
       "text": "Evolution\u00e2\u20ac\u201dPut on one of your Armored Dragons.\nCrew breaker\u00e2\u20ac\u201dArmored Dragon (This creature breaks one more shield for each of your other Armored Dragons in the battle zone.)",
       "power": "11000",
