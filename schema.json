@@ -11,36 +11,29 @@
 			"items": {
 				"type": "object",
 				"required": [
-					"name",
 					"civilizations",
-					"type",
 					"cost",
-					"printings"
+					"name",
+					"printings",
+					"type"
 				],
 				"properties": {
-					"name": {
-						"type": "string"
-					},
-					"civilization": {
-						"enum": [
-							"Light",
-							"Water",
-							"Darkness",
-							"Fire",
-							"Nature"
-						]
-					},
-					"type": {
-						"enum": [
-							"Creature",
-							"Spell",
-							"Cross Gear"
-						]
+					"civilizations": {
+						"type": "array",
+						"items": {
+							"enum": [
+								"Light",
+								"Water",
+								"Darkness",
+								"Fire",
+								"Nature"
+							]
+						}
 					},
 					"cost": {
 						"type": "integer"
 					},
-					"text": {
+					"name": {
 						"type": "string"
 					},
 					"power": {
@@ -75,6 +68,8 @@
 										"DM-13 Eternal Phoenix",
 										"DM-14 Generate Gear",
 										"DM-15 Secret of Hidden Gear",
+										"DM-16 Origin of Perfect Gear",
+										"DM-17 The Over-Technocross",
 										"Promotional",
 										"Promotional (Duel Masters Starter Deck)"
 									]
@@ -186,6 +181,16 @@
 								"Evolution"
 							]
 						}
+					},
+					"text": {
+						"type": "string"
+					},
+					"type": {
+						"enum": [
+							"Creature",
+							"Spell",
+							"Cross Gear"
+						]
 					}
 				}
 			}
