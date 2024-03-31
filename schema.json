@@ -6,6 +6,9 @@
 		"cards"
 	],
 	"properties": {
+		"$schema": {
+			"type": "string"
+		},
 		"cards": {
 			"type": "array",
 			"items": {
@@ -48,8 +51,7 @@
 								"set",
 								"id",
 								"rarity",
-								"illustrator",
-								"image"
+								"illustrator"
 							],
 							"properties": {
 								"set": {
@@ -93,11 +95,9 @@
 								},
 								"illustrator": {
 									"type": "string"
-								},
-								"image": {
-									"type": "string"
 								}
-							}
+							},
+							"additionalProperties": false
 						}
 					},
 					"subtypes": {
@@ -196,8 +196,10 @@
 							"Cross Gear"
 						]
 					}
-				}
+				},
+				"additionalProperties": false
 			}
 		}
-	}
+	},
+	"additionalProperties": false
 }
